@@ -12,4 +12,4 @@ after_success:
   - git pull origin master
   - git add --all
   - git commit -m "`TZ=Asia/Shanghai date`"
-  - git push --quiet --force https://$TOKEN@github.com/mark0smith/Hexo_theme_stats.git master
+  - git push https://$TOKEN@github.com/mark0smith/Hexo_theme_stats.git master

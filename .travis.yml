@@ -7,8 +7,9 @@ script:
   - python get_info.py
 after_success:
   - git init
+  - git checkout -b master
   - git remote add origin https://github.com/mark0smith/Hexo_theme_stats.git
   - git pull origin master
   - git add --all
   - git commit -m "`TZ=Asia/Shanghai date`"
-  - git push --quiet --force https://$TOKEN@github.com/mark0smith/Hexo_theme_stats.git
+  - git push --quiet --force https://$TOKEN@github.com/mark0smith/Hexo_theme_stats.git master

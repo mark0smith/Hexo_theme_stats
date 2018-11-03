@@ -6,6 +6,8 @@ install:
 script:
   - python get_info.py
 after_success:
+  - git remote rm origin
+  - git remote add origin https://mark0smith:$TOKEN@github.com/mark0smith/Hexo_theme_stats.git
   - git add --all -v
   - git commit -m "`TZ=Asia/Shanghai date`" -v
-  - git push https://$TOKEN@github.com/mark0smith/Hexo_theme_stats.git master -v
+  - git push remote master -v

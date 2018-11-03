@@ -7,7 +7,6 @@ script:
   - python get_info.py
 after_success:
   - git init
-  - git checkout -b master
   - git remote add origin https://github.com/mark0smith/Hexo_theme_stats.git
   - git pull origin master
   - git add --all

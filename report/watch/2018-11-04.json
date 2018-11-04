@@ -44,7 +44,7 @@
         "link": "https://github.com/ppoffice/hexo-theme-icarus",
         "description": "A simple, delicate, and modern theme for the static site generator Hexo.",
         "watch": 59,
-        "star": 1677,
+        "star": 1689,
         "fork": 642
     },
     {
@@ -77,6 +77,6 @@
         "description": "A redesign of Alx's wordpress theme Hueman, ported to Hexo.",
         "watch": 44,
         "star": 881,
-        "fork": 291
+        "fork": 292
     }
 ]

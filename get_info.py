@@ -91,7 +91,7 @@ def main():
     for path in paths:
         if not os.path.exists(path):
             os.makedirs(path)
-    today_date = datetime.datetime.today().strftime('%Y-%m-%d')
+    today_date = datetime.datetime.today().strftime('%Y-%m-%d-%h-%m')
     write_out(theme_star_top_10, "{}/{}.json".format(paths[0], today_date))
     write_out(theme_fork_top_10, "{}/{}.json".format(paths[1], today_date))
     write_out(theme_watch_top_10, "{}/{}.json".format(paths[2], today_date))

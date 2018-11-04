@@ -3,8 +3,8 @@
         "name": "Material",
         "link": "https://github.com/viosey/hexo-theme-material",
         "description": "An elegant & Material Design Theme for Hexo.",
-        "watch": 93,
-        "star": 3416,
+        "watch": 92,
+        "star": 3417,
         "fork": 541
     },
     {
@@ -12,8 +12,8 @@
         "link": "https://github.com/theme-next/hexo-theme-next",
         "description": "NexT is an elegant and powerful theme for Hexo.",
         "watch": 67,
-        "star": 1640,
-        "fork": 503
+        "star": 1645,
+        "fork": 506
     },
     {
         "name": "indigo",
@@ -29,13 +29,13 @@
         "description": "Another simple and elegant Hexo theme by MOxFIVE",
         "watch": 64,
         "star": 1211,
-        "fork": 1989
+        "fork": 1988
     },
     {
         "name": "Maupassant",
         "link": "https://github.com/tufu9441/maupassant-hexo",
         "description": "A simple Hexo template with great performance on different devices.",
-        "watch": 62,
+        "watch": 61,
         "star": 1758,
         "fork": 574
     },
@@ -44,8 +44,8 @@
         "link": "https://github.com/ppoffice/hexo-theme-icarus",
         "description": "A simple, delicate, and modern theme for the static site generator Hexo.",
         "watch": 59,
-        "star": 1608,
-        "fork": 638
+        "star": 1677,
+        "fork": 642
     },
     {
         "name": "Tranquilpeak",
@@ -53,7 +53,7 @@
         "description": "A gorgeous responsive theme for Hexo blog framework",
         "watch": 54,
         "star": 1399,
-        "fork": 446
+        "fork": 445
     },
     {
         "name": "Apollo",

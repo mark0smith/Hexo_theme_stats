@@ -3,6 +3,8 @@ python:
   - "3.6"
 install:
   pip install -r requirements.txt
+deploy:
+  - skip_cleanup: true
 script:
   - python get_info.py
 after_success:

@@ -1,1 +1,179 @@
-<h1>Hexo Theme Stats Report</h1>
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/combine/npm/bootstrap@4/dist/css/bootstrap.min.css,npm/font-awesome@4/css/font-awesome.min.css">
+    <title>Hexo Theme Stats</title>
+</head>
+
+<body>
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/combine/npm/jquery@3/dist/jquery.slim.min.js,npm/popper.js@1,npm/bootstrap@4/dist/js/bootstrap.min.js"></script>
+    <!-- chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2/dist/Chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2/dist/Chart.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2/samples/utils.min.js"></script>
+
+
+
+    <div class="container bg-light">
+        <h1>Hexo Theme Stats Report of 2018-11-25</h1>
+        <div class="row">
+            <div id="canvas-holder" style="width:80%">
+                <canvas id="fork_chart-area">3</canvas>
+            </div>
+        </div>
+        <div class="row">
+            <div id="canvas-holder" style="width:80%">
+                <canvas id="star_chart-area">2</canvas>
+            </div>
+        </div>
+        <div class="row">
+
+            <div id="canvas-holder" style="width:80%">
+                <canvas id="watch_chart-area">1</canvas>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+    
+    <script>
+        var fork_config = {
+            type: 'pie',
+            data: {
+                datasets: [{
+                    data:
+                        
+                        [1996, 653, 653, 576, 545, 541, 464, 448, 419, 384]
+                        
+                    ,
+        backgroundColor: [
+            window.chartColors.red,
+            window.chartColors.orange,
+            window.chartColors.yellow,
+            window.chartColors.green,
+            window.chartColors.blue,
+            window.chartColors.red,
+            window.chartColors.orange,
+            window.chartColors.yellow,
+            window.chartColors.green,
+            window.chartColors.blue,
+        ],
+            label: 'Forks'
+                    }],
+        labels:  ['Yelee', 'Icarus', 'icarus-rtl-jalaali', 'Maupassant', 'Material', 'NexT', 'Apollo', 'Tranquilpeak', 'indigo', 'Jacman'] 
+                },
+        options: {
+            responsive: true,
+                title: {
+                display: true,
+                    text: 'Hexo Theme Fork Data'
+            },
+        }
+        };
+        var colorNames = Object.keys(window.chartColors);
+    </script>
+    
+    <script>
+        var star_config = {
+            type: 'pie',
+            data: {
+                datasets: [{
+                    data:
+                        
+                        [3445, 1905, 1803, 1777, 1746, 1525, 1409, 1219, 960, 923]
+                        
+                    ,
+        backgroundColor: [
+            window.chartColors.red,
+            window.chartColors.orange,
+            window.chartColors.yellow,
+            window.chartColors.green,
+            window.chartColors.blue,
+            window.chartColors.red,
+            window.chartColors.orange,
+            window.chartColors.yellow,
+            window.chartColors.green,
+            window.chartColors.blue,
+        ],
+            label: 'stars'
+                    }],
+        labels:  ['Material', 'indigo', 'Icarus', 'Maupassant', 'NexT', 'Apollo', 'Tranquilpeak', 'Yelee', 'Jacman', 'Even'] 
+                },
+        options: {
+            responsive: true,
+                title: {
+                display: true,
+                    text: 'Hexo Theme star Data'
+            },
+        }
+        };
+
+
+        var colorNames = Object.keys(window.chartColors);
+    </script>
+    
+    <script>
+        var watch_config = {
+            type: 'pie',
+            data: {
+                datasets: [{
+                    data:
+                        
+                        [91, 68, 68, 64, 62, 60, 54, 46, 46, 44]
+                        
+                    ,
+        backgroundColor: [
+            window.chartColors.red,
+            window.chartColors.orange,
+            window.chartColors.yellow,
+            window.chartColors.green,
+            window.chartColors.blue,
+            window.chartColors.red,
+            window.chartColors.orange,
+            window.chartColors.yellow,
+            window.chartColors.green,
+            window.chartColors.blue,
+        ],
+            label: 'watchs'
+                    }],
+        labels:  ['Material', 'NexT', 'indigo', 'Yelee', 'Maupassant', 'Icarus', 'Tranquilpeak', 'Apollo', 'Jacman', 'Hueman'] 
+                },
+        options: {
+            responsive: true,
+                title: {
+                display: true,
+                    text: 'Hexo Theme watch Data'
+            },
+        }
+        };
+
+        window.onload = function () {
+            var fork_ctx = document.getElementById('fork_chart-area').getContext('2d');
+            new Chart(fork_ctx, fork_config);
+            var star_ctx = document.getElementById('star_chart-area').getContext('2d');
+            new Chart(star_ctx, star_config);
+            var watch_ctx = document.getElementById('watch_chart-area').getContext('2d');
+            new Chart(watch_ctx, watch_config);
+        };
+
+
+
+        var colorNames = Object.keys(window.chartColors);
+    </script>
+
+</body>
+
+</html>

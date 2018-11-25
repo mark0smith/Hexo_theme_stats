@@ -4,16 +4,16 @@
         "link": "https://github.com/viosey/hexo-theme-material",
         "description": "An elegant & Material Design Theme for Hexo.",
         "watch": 91,
-        "star": 3445,
-        "fork": 545
+        "star": 3446,
+        "fork": 546
     },
     {
         "name": "NexT",
         "link": "https://github.com/theme-next/hexo-theme-next",
         "description": "NexT is an elegant and powerful theme for Hexo.",
         "watch": 68,
-        "star": 1746,
-        "fork": 541
+        "star": 1747,
+        "fork": 542
     },
     {
         "name": "indigo",
@@ -45,7 +45,7 @@
         "description": "A simple, delicate, and modern theme for the static site generator Hexo.",
         "watch": 60,
         "star": 1803,
-        "fork": 653
+        "fork": 654
     },
     {
         "name": "Tranquilpeak",

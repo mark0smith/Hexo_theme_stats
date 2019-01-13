@@ -13,7 +13,7 @@
         "description": "A simple, delicate, and modern theme for the static site generator Hexo.",
         "watch": 62,
         "star": 1932,
-        "fork": 673
+        "fork": 672
     },
     {
         "name": "icarus-rtl-jalaali",
@@ -21,15 +21,15 @@
         "description": "Add jalaali calendar to hexo and create a rtl layout on icarus theme",
         "watch": 1,
         "star": 8,
-        "fork": 673
+        "fork": 672
     },
     {
         "name": "NexT",
         "link": "https://github.com/theme-next/hexo-theme-next",
         "description": "NexT is an elegant and powerful theme for Hexo.",
         "watch": 68,
-        "star": 2051,
-        "fork": 639
+        "star": 2053,
+        "fork": 640
     },
     {
         "name": "Maupassant",
@@ -44,7 +44,7 @@
         "link": "https://github.com/viosey/hexo-theme-material",
         "description": "An elegant & Material Design Theme for Hexo.",
         "watch": 94,
-        "star": 3517,
+        "star": 3519,
         "fork": 563
     },
     {
@@ -61,15 +61,15 @@
         "description": "A gorgeous responsive theme for Hexo blog framework",
         "watch": 54,
         "star": 1435,
-        "fork": 448
+        "fork": 450
     },
     {
         "name": "indigo",
         "link": "https://github.com/yscoder/hexo-theme-indigo",
         "description": "Material Design theme for Hexo.",
         "watch": 68,
-        "star": 1988,
-        "fork": 433
+        "star": 1989,
+        "fork": 434
     },
     {
         "name": "Jacman",
@@ -77,6 +77,6 @@
         "description": "A fresh looking and responsive theme for Hexo.",
         "watch": 46,
         "star": 972,
-        "fork": 382
+        "fork": 381
     }
 ]

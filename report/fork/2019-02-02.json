@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Yelee",
+        "link": "https://github.com/MOxFIVE/hexo-theme-yelee",
+        "description": "Another simple and elegant Hexo theme by MOxFIVE",
+        "watch": 63,
+        "star": 1251,
+        "fork": 2030
+    },
+    {
+        "name": "Icarus",
+        "link": "https://github.com/ppoffice/hexo-theme-icarus",
+        "description": "A simple, delicate, and modern theme for the static site generator Hexo.",
+        "watch": 66,
+        "star": 1999,
+        "fork": 684
+    },
+    {
+        "name": "icarus-rtl-jalaali",
+        "link": "https://github.com/ghaseminya/hexo-theme-icarus_rtl_jalaali",
+        "description": "Add jalaali calendar to hexo and create a rtl layout on icarus theme",
+        "watch": 1,
+        "star": 10,
+        "fork": 684
+    },
+    {
+        "name": "NexT",
+        "link": "https://github.com/theme-next/hexo-theme-next",
+        "description": "NexT is an elegant and powerful theme for Hexo.",
+        "watch": 69,
+        "star": 2187,
+        "fork": 677
+    },
+    {
+        "name": "Maupassant",
+        "link": "https://github.com/tufu9441/maupassant-hexo",
+        "description": "A simple Hexo template with great performance on different devices.",
+        "watch": 61,
+        "star": 1865,
+        "fork": 596
+    },
+    {
+        "name": "Material",
+        "link": "https://github.com/viosey/hexo-theme-material",
+        "description": "An elegant & Material Design Theme for Hexo.",
+        "watch": 96,
+        "star": 3540,
+        "fork": 566
+    },
+    {
+        "name": "Apollo",
+        "link": "https://github.com/pinggod/hexo-theme-apollo",
+        "description": "A Hexo theme inspired by http://cn.vuejs.org/.",
+        "watch": 44,
+        "star": 1563,
+        "fork": 471
+    },
+    {
+        "name": "Tranquilpeak",
+        "link": "https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme",
+        "description": "A gorgeous responsive theme for Hexo blog framework",
+        "watch": 54,
+        "star": 1446,
+        "fork": 451
+    },
+    {
+        "name": "indigo",
+        "link": "https://github.com/yscoder/hexo-theme-indigo",
+        "description": "Material Design theme for Hexo.",
+        "watch": 68,
+        "star": 2021,
+        "fork": 444
+    },
+    {
+        "name": "Jacman",
+        "link": "https://github.com/wuchong/jacman",
+        "description": "A fresh looking and responsive theme for Hexo.",
+        "watch": 46,
+        "star": 974,
+        "fork": 378
+    }
+]

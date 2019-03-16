@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Material",
+        "link": "https://github.com/viosey/hexo-theme-material",
+        "description": "An elegant & Material Design Theme",
+        "watch": 97,
+        "star": 3594,
+        "fork": 560
+    },
+    {
+        "name": "NexT",
+        "link": "https://github.com/theme-next/hexo-theme-next",
+        "description": "NexT is an elegant and powerful theme",
+        "watch": 69,
+        "star": 2452,
+        "fork": 768
+    },
+    {
+        "name": "Icarus",
+        "link": "https://github.com/ppoffice/hexo-theme-icarus",
+        "description": "A simple, delicate, and modern theme",
+        "watch": 66,
+        "star": 2104,
+        "fork": 699
+    },
+    {
+        "name": "indigo",
+        "link": "https://github.com/yscoder/hexo-theme-indigo",
+        "description": "Material Design theme",
+        "watch": 68,
+        "star": 2104,
+        "fork": 460
+    },
+    {
+        "name": "Maupassant",
+        "link": "https://github.com/tufu9441/maupassant-hexo",
+        "description": "A simple theme with great performance on different devices",
+        "watch": 62,
+        "star": 1899,
+        "fork": 603
+    },
+    {
+        "name": "Apollo",
+        "link": "https://github.com/pinggod/hexo-theme-apollo",
+        "description": "A theme inspired by http://cn.vuejs.org/",
+        "watch": 44,
+        "star": 1594,
+        "fork": 478
+    },
+    {
+        "name": "Tranquilpeak",
+        "link": "https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme",
+        "description": "A gorgeous responsive theme",
+        "watch": 54,
+        "star": 1463,
+        "fork": 448
+    },
+    {
+        "name": "Yelee",
+        "link": "https://github.com/MOxFIVE/hexo-theme-yelee",
+        "description": "Another simple and elegant theme by MOxFIVE",
+        "watch": 66,
+        "star": 1267,
+        "fork": 2063
+    },
+    {
+        "name": "Cactus",
+        "link": "https://github.com/probberechts/hexo-theme-cactus",
+        "description": "A responsive, clean and simple theme for a personal webpage",
+        "watch": 32,
+        "star": 1042,
+        "fork": 339
+    },
+    {
+        "name": "Even",
+        "link": "https://github.com/ahonn/hexo-theme-even",
+        "description": "A simple theme",
+        "watch": 25,
+        "star": 998,
+        "fork": 195
+    }
+]

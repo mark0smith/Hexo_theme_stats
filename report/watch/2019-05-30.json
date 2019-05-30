@@ -11,16 +11,16 @@
         "name": "NexT",
         "link": "https://github.com/theme-next/hexo-theme-next",
         "description": "NexT is an elegant and powerful theme",
-        "watch": 78,
-        "star": 3160,
-        "fork": 990
+        "watch": 79,
+        "star": 3166,
+        "fork": 991
     },
     {
         "name": "indigo",
         "link": "https://github.com/yscoder/hexo-theme-indigo",
         "description": "Material Design theme",
         "watch": 72,
-        "star": 2219,
+        "star": 2222,
         "fork": 484
     },
     {
@@ -28,14 +28,14 @@
         "link": "https://github.com/ppoffice/hexo-theme-icarus",
         "description": "A simple, delicate, and modern theme",
         "watch": 68,
-        "star": 2369,
+        "star": 2370,
         "fork": 753
     },
     {
         "name": "Yelee",
         "link": "https://github.com/MOxFIVE/hexo-theme-yelee",
         "description": "Another simple and elegant theme by MOxFIVE",
-        "watch": 66,
+        "watch": 65,
         "star": 1297,
         "fork": 2122
     },
@@ -76,7 +76,7 @@
         "link": "https://github.com/pinggod/hexo-theme-apollo",
         "description": "A theme inspired by http://cn.vuejs.org/",
         "watch": 44,
-        "star": 1640,
+        "star": 1641,
         "fork": 492
     }
 ]

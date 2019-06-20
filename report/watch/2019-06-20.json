@@ -56,20 +56,20 @@
         "fork": 445
     },
     {
-        "name": "Jacman",
-        "link": "https://github.com/wuchong/jacman",
-        "description": "A fresh looking and responsive theme",
-        "watch": 47,
-        "star": 988,
-        "fork": 376
-    },
-    {
         "name": "Hueman",
         "link": "https://github.com/ppoffice/hexo-theme-hueman",
         "description": "A redesign of Alx's wordpress theme Hueman",
         "watch": 47,
         "star": 985,
         "fork": 315
+    },
+    {
+        "name": "Jacman",
+        "link": "https://github.com/wuchong/jacman",
+        "description": "A fresh looking and responsive theme",
+        "watch": 47,
+        "star": 988,
+        "fork": 376
     },
     {
         "name": "Apollo",

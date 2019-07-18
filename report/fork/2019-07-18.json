@@ -1,21 +1,5 @@
 [
     {
-        "name": "Yelee",
-        "link": "https://github.com/MOxFIVE/hexo-theme-yelee",
-        "description": "Another simple and elegant theme by MOxFIVE",
-        "watch": 66,
-        "star": 1307,
-        "fork": 2154
-    },
-    {
-        "name": "NexT",
-        "link": "https://github.com/theme-next/hexo-theme-next",
-        "description": "NexT is an elegant and powerful theme",
-        "watch": 77,
-        "star": 3519,
-        "fork": 1094
-    },
-    {
         "name": "Icarus",
         "link": "https://github.com/ppoffice/hexo-theme-icarus",
         "description": "A simple, delicate, and modern theme",
@@ -48,22 +32,6 @@
         "fork": 574
     },
     {
-        "name": "Apollo",
-        "link": "https://github.com/pinggod/hexo-theme-apollo",
-        "description": "A theme inspired by http://cn.vuejs.org/",
-        "watch": 45,
-        "star": 1664,
-        "fork": 499
-    },
-    {
-        "name": "indigo",
-        "link": "https://github.com/yscoder/hexo-theme-indigo",
-        "description": "Material Design theme",
-        "watch": 71,
-        "star": 2277,
-        "fork": 485
-    },
-    {
         "name": "Tranquilpeak",
         "link": "https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme",
         "description": "A gorgeous responsive theme",
@@ -72,11 +40,43 @@
         "fork": 451
     },
     {
-        "name": "Cactus",
-        "link": "https://github.com/probberechts/hexo-theme-cactus",
-        "description": "A responsive, clean and simple theme for a personal webpage",
-        "watch": 34,
-        "star": 1232,
+        "name": "Cactus White",
+        "link": "https://github.com/sergodeeva/cactus-white",
+        "description": "A white version of Cactus Dark, responsive, clean and simple theme for a personal webpage",
+        "watch": 0,
+        "star": 38,
         "fork": 378
+    },
+    {
+        "name": "Bootstrap-Blog",
+        "link": "https://github.com/cgmartin/hexo-theme-bootstrap-blog",
+        "description": "A simple Twitter Bootstrap blog theme",
+        "watch": 9,
+        "star": 99,
+        "fork": 317
+    },
+    {
+        "name": "landscape",
+        "link": "https://github.com/hexojs/hexo-theme-landscape",
+        "description": "A brand new default theme",
+        "watch": 26,
+        "star": 195,
+        "fork": 317
+    },
+    {
+        "name": "Archer",
+        "link": "https://github.com/fi3ework/hexo-theme-archer",
+        "description": "A smart and modern theme",
+        "watch": 21,
+        "star": 808,
+        "fork": 182
+    },
+    {
+        "name": "Matery",
+        "link": "https://github.com/blinkfox/hexo-theme-matery",
+        "description": "A beautiful theme with material design and responsive design",
+        "watch": 26,
+        "star": 681,
+        "fork": 177
     }
 ]

@@ -8,28 +8,12 @@
         "fork": 574
     },
     {
-        "name": "NexT",
-        "link": "https://github.com/theme-next/hexo-theme-next",
-        "description": "NexT is an elegant and powerful theme",
-        "watch": 77,
-        "star": 3519,
-        "fork": 1094
-    },
-    {
         "name": "Icarus",
         "link": "https://github.com/ppoffice/hexo-theme-icarus",
         "description": "A simple, delicate, and modern theme",
         "watch": 67,
         "star": 2535,
         "fork": 793
-    },
-    {
-        "name": "indigo",
-        "link": "https://github.com/yscoder/hexo-theme-indigo",
-        "description": "Material Design theme",
-        "watch": 71,
-        "star": 2277,
-        "fork": 485
     },
     {
         "name": "Maupassant",
@@ -40,14 +24,6 @@
         "fork": 621
     },
     {
-        "name": "Apollo",
-        "link": "https://github.com/pinggod/hexo-theme-apollo",
-        "description": "A theme inspired by http://cn.vuejs.org/",
-        "watch": 45,
-        "star": 1664,
-        "fork": 499
-    },
-    {
         "name": "Tranquilpeak",
         "link": "https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme",
         "description": "A gorgeous responsive theme",
@@ -56,27 +32,51 @@
         "fork": 451
     },
     {
-        "name": "Yelee",
-        "link": "https://github.com/MOxFIVE/hexo-theme-yelee",
-        "description": "Another simple and elegant theme by MOxFIVE",
-        "watch": 66,
-        "star": 1307,
-        "fork": 2154
+        "name": "Archer",
+        "link": "https://github.com/fi3ework/hexo-theme-archer",
+        "description": "A smart and modern theme",
+        "watch": 21,
+        "star": 808,
+        "fork": 182
     },
     {
-        "name": "Cactus",
-        "link": "https://github.com/probberechts/hexo-theme-cactus",
-        "description": "A responsive, clean and simple theme for a personal webpage",
-        "watch": 34,
-        "star": 1232,
-        "fork": 378
+        "name": "Melody",
+        "link": "https://github.com/Molunerfinn/hexo-theme-melody",
+        "description": "A simple & beautiful & fast theme",
+        "watch": 16,
+        "star": 735,
+        "fork": 114
     },
     {
-        "name": "Hueman",
-        "link": "https://github.com/ppoffice/hexo-theme-hueman",
-        "description": "A redesign of Alx's wordpress theme Hueman",
-        "watch": 48,
-        "star": 994,
-        "fork": 318
+        "name": "Anisina",
+        "link": "https://github.com/haojen/hexo-theme-Anisina",
+        "description": "A support qiniu image cdn , simple responsive theme",
+        "watch": 24,
+        "star": 704,
+        "fork": 157
+    },
+    {
+        "name": "Matery",
+        "link": "https://github.com/blinkfox/hexo-theme-matery",
+        "description": "A beautiful theme with material design and responsive design",
+        "watch": 26,
+        "star": 681,
+        "fork": 177
+    },
+    {
+        "name": "Huxblog",
+        "link": "https://github.com/Kaijun/hexo-theme-huxblog",
+        "description": "A lean and elegant Theme with optimized SEO (Ported)",
+        "watch": 21,
+        "star": 553,
+        "fork": 116
+    },
+    {
+        "name": "TKL",
+        "link": "https://github.com/SuperKieran/TKL",
+        "description": "A responsive design theme",
+        "watch": 26,
+        "star": 539,
+        "fork": 172
     }
 ]

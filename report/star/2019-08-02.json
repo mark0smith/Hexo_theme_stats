@@ -1,35 +1,11 @@
 [
     {
-        "name": "indigo",
-        "link": "https://github.com/yscoder/hexo-theme-indigo",
-        "description": "Material Design theme",
-        "watch": 69,
-        "star": 2304,
-        "fork": 490
-    },
-    {
         "name": "Apollo",
         "link": "https://github.com/pinggod/hexo-theme-apollo",
         "description": "A theme inspired by http://cn.vuejs.org/",
         "watch": 45,
         "star": 1670,
         "fork": 504
-    },
-    {
-        "name": "Tranquilpeak",
-        "link": "https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme",
-        "description": "A gorgeous responsive theme",
-        "watch": 55,
-        "star": 1519,
-        "fork": 454
-    },
-    {
-        "name": "Yelee",
-        "link": "https://github.com/MOxFIVE/hexo-theme-yelee",
-        "description": "Another simple and elegant theme by MOxFIVE",
-        "watch": 66,
-        "star": 1314,
-        "fork": 2183
     },
     {
         "name": "Cactus",
@@ -72,11 +48,35 @@
         "fork": 157
     },
     {
-        "name": "spfk",
-        "link": "https://github.com/luuman/hexo-theme-spfk",
-        "description": "A simple solemn theme",
-        "watch": 35,
-        "star": 662,
-        "fork": 196
+        "name": "Diaspora",
+        "link": "https://github.com/Fechin/hexo-theme-diaspora",
+        "description": "A clean and responsive theme",
+        "watch": 4,
+        "star": 501,
+        "fork": 139
+    },
+    {
+        "name": "Anatole",
+        "link": "https://github.com/Ben02/hexo-theme-Anatole",
+        "description": "A white and simple theme, originated from a Farbox theme",
+        "watch": 16,
+        "star": 491,
+        "fork": 108
+    },
+    {
+        "name": "Hacker",
+        "link": "https://github.com/CodeDaraW/Hacker",
+        "description": "A simple theme inspired by Wordpress theme Hacker",
+        "watch": 26,
+        "star": 410,
+        "fork": 110
+    },
+    {
+        "name": "BMW",
+        "link": "https://github.com/dongyuanxin/theme-bmw",
+        "description": "BMW is not only clean but also very powerful theme",
+        "watch": 5,
+        "star": 366,
+        "fork": 44
     }
 ]

@@ -1,27 +1,19 @@
 [
     {
+        "name": "Yelee",
+        "link": "https://github.com/MOxFIVE/hexo-theme-yelee",
+        "description": "Another simple and elegant theme by MOxFIVE",
+        "watch": 66,
+        "star": 1314,
+        "fork": 2183
+    },
+    {
         "name": "NexT",
         "link": "https://github.com/theme-next/hexo-theme-next",
         "description": "NexT is an elegant and powerful theme",
         "watch": 80,
         "star": 3645,
         "fork": 1140
-    },
-    {
-        "name": "Icarus",
-        "link": "https://github.com/ppoffice/hexo-theme-icarus",
-        "description": "A simple, delicate, and modern theme",
-        "watch": 68,
-        "star": 2597,
-        "fork": 805
-    },
-    {
-        "name": "icarus-rtl-jalaali",
-        "link": "https://github.com/ghaseminya/hexo-theme-icarus_rtl_jalaali",
-        "description": "Add jalaali calendar and create a rtl layout on icarus theme",
-        "watch": 1,
-        "star": 12,
-        "fork": 805
     },
     {
         "name": "Maupassant",
@@ -48,20 +40,12 @@
         "fork": 504
     },
     {
-        "name": "indigo",
-        "link": "https://github.com/yscoder/hexo-theme-indigo",
-        "description": "Material Design theme",
-        "watch": 69,
-        "star": 2304,
-        "fork": 490
-    },
-    {
-        "name": "Cactus",
-        "link": "https://github.com/probberechts/hexo-theme-cactus",
-        "description": "A responsive, clean and simple theme for a personal webpage",
-        "watch": 34,
-        "star": 1246,
-        "fork": 385
+        "name": "Tranquilpeak",
+        "link": "https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme",
+        "description": "A gorgeous responsive theme",
+        "watch": 55,
+        "star": 1519,
+        "fork": 454
     },
     {
         "name": "Cactus Light",
@@ -72,11 +56,27 @@
         "fork": 385
     },
     {
+        "name": "Cactus",
+        "link": "https://github.com/probberechts/hexo-theme-cactus",
+        "description": "A responsive, clean and simple theme for a personal webpage",
+        "watch": 34,
+        "star": 1246,
+        "fork": 385
+    },
+    {
         "name": "Cactus White",
         "link": "https://github.com/sergodeeva/cactus-white",
         "description": "A white version of Cactus Dark, responsive, clean and simple theme for a personal webpage",
         "watch": 0,
         "star": 40,
         "fork": 385
+    },
+    {
+        "name": "Bootstrap-Blog",
+        "link": "https://github.com/cgmartin/hexo-theme-bootstrap-blog",
+        "description": "A simple Twitter Bootstrap blog theme",
+        "watch": 9,
+        "star": 99,
+        "fork": 316
     }
 ]

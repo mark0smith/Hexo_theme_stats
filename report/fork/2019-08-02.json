@@ -1,11 +1,59 @@
 [
     {
+        "name": "NexT",
+        "link": "https://github.com/theme-next/hexo-theme-next",
+        "description": "NexT is an elegant and powerful theme",
+        "watch": 80,
+        "star": 3645,
+        "fork": 1139
+    },
+    {
+        "name": "icarus-rtl-jalaali",
+        "link": "https://github.com/ghaseminya/hexo-theme-icarus_rtl_jalaali",
+        "description": "Add jalaali calendar and create a rtl layout on icarus theme",
+        "watch": 1,
+        "star": 12,
+        "fork": 805
+    },
+    {
+        "name": "Maupassant",
+        "link": "https://github.com/tufu9441/maupassant-hexo",
+        "description": "A simple theme with great performance on different devices",
+        "watch": 61,
+        "star": 2023,
+        "fork": 623
+    },
+    {
+        "name": "Material",
+        "link": "https://github.com/viosey/hexo-theme-material",
+        "description": "An elegant & Material Design Theme",
+        "watch": 93,
+        "star": 3723,
+        "fork": 571
+    },
+    {
         "name": "Apollo",
         "link": "https://github.com/pinggod/hexo-theme-apollo",
         "description": "A theme inspired by http://cn.vuejs.org/",
         "watch": 45,
         "star": 1670,
         "fork": 504
+    },
+    {
+        "name": "indigo",
+        "link": "https://github.com/yscoder/hexo-theme-indigo",
+        "description": "Material Design theme",
+        "watch": 69,
+        "star": 2304,
+        "fork": 490
+    },
+    {
+        "name": "Cactus Light",
+        "link": "https://github.com/gabithume/cactus-light",
+        "description": "The light version of Cactus Dark, a responsive, light and simple theme for a personal webpage",
+        "watch": 1,
+        "star": 59,
+        "fork": 385
     },
     {
         "name": "Cactus",
@@ -24,59 +72,11 @@
         "fork": 385
     },
     {
-        "name": "Cactus Light",
-        "link": "https://github.com/gabithume/cactus-light",
-        "description": "The light version of Cactus Dark, a responsive, light and simple theme for a personal webpage",
-        "watch": 1,
-        "star": 59,
-        "fork": 385
-    },
-    {
         "name": "Bootstrap-Blog",
         "link": "https://github.com/cgmartin/hexo-theme-bootstrap-blog",
         "description": "A simple Twitter Bootstrap blog theme",
         "watch": 9,
         "star": 99,
         "fork": 316
-    },
-    {
-        "name": "Even",
-        "link": "https://github.com/ahonn/hexo-theme-even",
-        "description": "A simple theme",
-        "watch": 27,
-        "star": 1067,
-        "fork": 196
-    },
-    {
-        "name": "Archer",
-        "link": "https://github.com/fi3ework/hexo-theme-archer",
-        "description": "A smart and modern theme",
-        "watch": 21,
-        "star": 819,
-        "fork": 182
-    },
-    {
-        "name": "Asnippet",
-        "link": "https://github.com/shenliyang/hexo-theme-snippet",
-        "description": "A simple and interesting theme",
-        "watch": 19,
-        "star": 806,
-        "fork": 179
-    },
-    {
-        "name": "Anisina",
-        "link": "https://github.com/haojen/hexo-theme-Anisina",
-        "description": "A support qiniu image cdn , simple responsive theme",
-        "watch": 24,
-        "star": 708,
-        "fork": 157
-    },
-    {
-        "name": "Freemind",
-        "link": "https://github.com/wzpan/hexo-theme-freemind",
-        "description": "Fully taking advantages of Bootstrap",
-        "watch": 22,
-        "star": 350,
-        "fork": 143
     }
 ]

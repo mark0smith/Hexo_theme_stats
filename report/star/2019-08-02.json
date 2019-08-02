@@ -1,5 +1,37 @@
 [
     {
+        "name": "Material",
+        "link": "https://github.com/viosey/hexo-theme-material",
+        "description": "An elegant & Material Design Theme",
+        "watch": 93,
+        "star": 3723,
+        "fork": 571
+    },
+    {
+        "name": "NexT",
+        "link": "https://github.com/theme-next/hexo-theme-next",
+        "description": "NexT is an elegant and powerful theme",
+        "watch": 80,
+        "star": 3645,
+        "fork": 1139
+    },
+    {
+        "name": "indigo",
+        "link": "https://github.com/yscoder/hexo-theme-indigo",
+        "description": "Material Design theme",
+        "watch": 69,
+        "star": 2304,
+        "fork": 490
+    },
+    {
+        "name": "Maupassant",
+        "link": "https://github.com/tufu9441/maupassant-hexo",
+        "description": "A simple theme with great performance on different devices",
+        "watch": 61,
+        "star": 2023,
+        "fork": 623
+    },
+    {
         "name": "Apollo",
         "link": "https://github.com/pinggod/hexo-theme-apollo",
         "description": "A theme inspired by http://cn.vuejs.org/",
@@ -40,43 +72,11 @@
         "fork": 179
     },
     {
-        "name": "Anisina",
-        "link": "https://github.com/haojen/hexo-theme-Anisina",
-        "description": "A support qiniu image cdn , simple responsive theme",
-        "watch": 24,
-        "star": 708,
-        "fork": 157
-    },
-    {
-        "name": "Diaspora",
-        "link": "https://github.com/Fechin/hexo-theme-diaspora",
-        "description": "A clean and responsive theme",
-        "watch": 4,
-        "star": 501,
-        "fork": 139
-    },
-    {
-        "name": "Anatole",
-        "link": "https://github.com/Ben02/hexo-theme-Anatole",
-        "description": "A white and simple theme, originated from a Farbox theme",
+        "name": "Melody",
+        "link": "https://github.com/Molunerfinn/hexo-theme-melody",
+        "description": "A simple & beautiful & fast theme",
         "watch": 16,
-        "star": 491,
-        "fork": 108
-    },
-    {
-        "name": "Hacker",
-        "link": "https://github.com/CodeDaraW/Hacker",
-        "description": "A simple theme inspired by Wordpress theme Hacker",
-        "watch": 26,
-        "star": 410,
-        "fork": 110
-    },
-    {
-        "name": "BMW",
-        "link": "https://github.com/dongyuanxin/theme-bmw",
-        "description": "BMW is not only clean but also very powerful theme",
-        "watch": 5,
-        "star": 366,
-        "fork": 44
+        "star": 757,
+        "fork": 115
     }
 ]

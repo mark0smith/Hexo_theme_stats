@@ -48,12 +48,12 @@
         "fork": 492
     },
     {
-        "name": "Tranquilpeak",
-        "link": "https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme",
-        "description": "A gorgeous responsive theme",
-        "watch": 55,
-        "star": 1519,
-        "fork": 455
+        "name": "Cactus",
+        "link": "https://github.com/probberechts/hexo-theme-cactus",
+        "description": "A responsive, clean and simple theme for a personal webpage",
+        "watch": 34,
+        "star": 1249,
+        "fork": 384
     },
     {
         "name": "Cactus Light",
@@ -64,19 +64,19 @@
         "fork": 384
     },
     {
-        "name": "Cactus",
-        "link": "https://github.com/probberechts/hexo-theme-cactus",
-        "description": "A responsive, clean and simple theme for a personal webpage",
-        "watch": 34,
-        "star": 1249,
-        "fork": 384
-    },
-    {
         "name": "Cactus White",
         "link": "https://github.com/sergodeeva/cactus-white",
         "description": "A white version of Cactus Dark, responsive, clean and simple theme for a personal webpage",
         "watch": 0,
         "star": 40,
         "fork": 384
+    },
+    {
+        "name": "Bootstrap-Blog",
+        "link": "https://github.com/cgmartin/hexo-theme-bootstrap-blog",
+        "description": "A simple Twitter Bootstrap blog theme",
+        "watch": 9,
+        "star": 99,
+        "fork": 316
     }
 ]

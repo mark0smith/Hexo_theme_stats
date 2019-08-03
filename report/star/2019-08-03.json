@@ -40,14 +40,6 @@
         "fork": 504
     },
     {
-        "name": "Tranquilpeak",
-        "link": "https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme",
-        "description": "A gorgeous responsive theme",
-        "watch": 55,
-        "star": 1519,
-        "fork": 455
-    },
-    {
         "name": "Cactus",
         "link": "https://github.com/probberechts/hexo-theme-cactus",
         "description": "A responsive, clean and simple theme for a personal webpage",
@@ -78,5 +70,13 @@
         "watch": 19,
         "star": 807,
         "fork": 179
+    },
+    {
+        "name": "Melody",
+        "link": "https://github.com/Molunerfinn/hexo-theme-melody",
+        "description": "A simple & beautiful & fast theme",
+        "watch": 16,
+        "star": 757,
+        "fork": 115
     }
 ]

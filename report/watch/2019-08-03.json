@@ -32,14 +32,6 @@
         "fork": 623
     },
     {
-        "name": "Tranquilpeak",
-        "link": "https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme",
-        "description": "A gorgeous responsive theme",
-        "watch": 55,
-        "star": 1519,
-        "fork": 455
-    },
-    {
         "name": "Apollo",
         "link": "https://github.com/pinggod/hexo-theme-apollo",
         "description": "A theme inspired by http://cn.vuejs.org/",
@@ -78,5 +70,13 @@
         "watch": 29,
         "star": 450,
         "fork": 121
+    },
+    {
+        "name": "phase",
+        "link": "https://github.com/hexojs/hexo-theme-phase",
+        "description": "Feel the flow of time with Phase",
+        "watch": 29,
+        "star": 86,
+        "fork": 28
     }
 ]

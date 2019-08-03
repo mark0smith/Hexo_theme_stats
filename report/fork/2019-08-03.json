@@ -8,6 +8,22 @@
         "fork": 1140
     },
     {
+        "name": "Icarus",
+        "link": "https://github.com/ppoffice/hexo-theme-icarus",
+        "description": "A simple, delicate, and modern theme",
+        "watch": 68,
+        "star": 2603,
+        "fork": 806
+    },
+    {
+        "name": "icarus-rtl-jalaali",
+        "link": "https://github.com/ghaseminya/hexo-theme-icarus_rtl_jalaali",
+        "description": "Add jalaali calendar and create a rtl layout on icarus theme",
+        "watch": 1,
+        "star": 12,
+        "fork": 806
+    },
+    {
         "name": "Maupassant",
         "link": "https://github.com/tufu9441/maupassant-hexo",
         "description": "A simple theme with great performance on different devices",
@@ -32,6 +48,14 @@
         "fork": 504
     },
     {
+        "name": "indigo",
+        "link": "https://github.com/yscoder/hexo-theme-indigo",
+        "description": "Material Design theme",
+        "watch": 69,
+        "star": 2304,
+        "fork": 492
+    },
+    {
         "name": "Cactus",
         "link": "https://github.com/probberechts/hexo-theme-cactus",
         "description": "A responsive, clean and simple theme for a personal webpage",
@@ -54,29 +78,5 @@
         "watch": 0,
         "star": 40,
         "fork": 384
-    },
-    {
-        "name": "Bootstrap-Blog",
-        "link": "https://github.com/cgmartin/hexo-theme-bootstrap-blog",
-        "description": "A simple Twitter Bootstrap blog theme",
-        "watch": 9,
-        "star": 99,
-        "fork": 316
-    },
-    {
-        "name": "Even",
-        "link": "https://github.com/ahonn/hexo-theme-even",
-        "description": "A simple theme",
-        "watch": 27,
-        "star": 1067,
-        "fork": 196
-    },
-    {
-        "name": "Matery",
-        "link": "https://github.com/blinkfox/hexo-theme-matery",
-        "description": "A beautiful theme with material design and responsive design",
-        "watch": 28,
-        "star": 746,
-        "fork": 192
     }
 ]

@@ -8,6 +8,14 @@
         "fork": 1140
     },
     {
+        "name": "indigo",
+        "link": "https://github.com/yscoder/hexo-theme-indigo",
+        "description": "Material Design theme",
+        "watch": 69,
+        "star": 2304,
+        "fork": 492
+    },
+    {
         "name": "Apollo",
         "link": "https://github.com/pinggod/hexo-theme-apollo",
         "description": "A theme inspired by http://cn.vuejs.org/",
@@ -22,14 +30,6 @@
         "watch": 55,
         "star": 1519,
         "fork": 455
-    },
-    {
-        "name": "Yelee",
-        "link": "https://github.com/MOxFIVE/hexo-theme-yelee",
-        "description": "Another simple and elegant theme by MOxFIVE",
-        "watch": 66,
-        "star": 1314,
-        "fork": 2183
     },
     {
         "name": "Cactus",

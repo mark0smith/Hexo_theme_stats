@@ -16,14 +16,6 @@
         "fork": 492
     },
     {
-        "name": "Yelee",
-        "link": "https://github.com/MOxFIVE/hexo-theme-yelee",
-        "description": "Another simple and elegant theme by MOxFIVE",
-        "watch": 66,
-        "star": 1314,
-        "fork": 2183
-    },
-    {
         "name": "Tranquilpeak",
         "link": "https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme",
         "description": "A gorgeous responsive theme",
@@ -38,6 +30,14 @@
         "watch": 45,
         "star": 1670,
         "fork": 504
+    },
+    {
+        "name": "spfk",
+        "link": "https://github.com/luuman/hexo-theme-spfk",
+        "description": "A simple solemn theme",
+        "watch": 35,
+        "star": 662,
+        "fork": 197
     },
     {
         "name": "Cactus",
@@ -64,19 +64,19 @@
         "fork": 121
     },
     {
+        "name": "phase",
+        "link": "https://github.com/hexojs/hexo-theme-phase",
+        "description": "Feel the flow of time with Phase",
+        "watch": 29,
+        "star": 86,
+        "fork": 28
+    },
+    {
         "name": "Even",
         "link": "https://github.com/ahonn/hexo-theme-even",
         "description": "A simple theme",
         "watch": 27,
         "star": 1067,
         "fork": 196
-    },
-    {
-        "name": "One",
-        "link": "https://github.com/EYHN/hexo-theme-one",
-        "description": "Material and One page",
-        "watch": 26,
-        "star": 499,
-        "fork": 53
     }
 ]

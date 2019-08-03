@@ -1,19 +1,11 @@
 [
     {
-        "name": "Material",
-        "link": "https://github.com/viosey/hexo-theme-material",
-        "description": "An elegant & Material Design Theme",
-        "watch": 93,
-        "star": 3723,
-        "fork": 571
-    },
-    {
-        "name": "NexT",
-        "link": "https://github.com/theme-next/hexo-theme-next",
-        "description": "NexT is an elegant and powerful theme",
-        "watch": 80,
-        "star": 3651,
-        "fork": 1140
+        "name": "indigo",
+        "link": "https://github.com/yscoder/hexo-theme-indigo",
+        "description": "Material Design theme",
+        "watch": 69,
+        "star": 2304,
+        "fork": 492
     },
     {
         "name": "Yelee",
@@ -24,12 +16,12 @@
         "fork": 2183
     },
     {
-        "name": "Maupassant",
-        "link": "https://github.com/tufu9441/maupassant-hexo",
-        "description": "A simple theme with great performance on different devices",
-        "watch": 61,
-        "star": 2024,
-        "fork": 623
+        "name": "Tranquilpeak",
+        "link": "https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme",
+        "description": "A gorgeous responsive theme",
+        "watch": 55,
+        "star": 1519,
+        "fork": 455
     },
     {
         "name": "Apollo",
@@ -40,12 +32,28 @@
         "fork": 504
     },
     {
+        "name": "spfk",
+        "link": "https://github.com/luuman/hexo-theme-spfk",
+        "description": "A simple solemn theme",
+        "watch": 35,
+        "star": 662,
+        "fork": 197
+    },
+    {
         "name": "Cactus",
         "link": "https://github.com/probberechts/hexo-theme-cactus",
         "description": "A responsive, clean and simple theme for a personal webpage",
         "watch": 34,
         "star": 1249,
         "fork": 384
+    },
+    {
+        "name": "light",
+        "link": "https://github.com/hexojs/hexo-theme-light",
+        "description": "Default theme",
+        "watch": 31,
+        "star": 287,
+        "fork": 170
     },
     {
         "name": "Raytaylorism",
@@ -56,12 +64,12 @@
         "fork": 121
     },
     {
-        "name": "Matery",
-        "link": "https://github.com/blinkfox/hexo-theme-matery",
-        "description": "A beautiful theme with material design and responsive design",
-        "watch": 28,
-        "star": 746,
-        "fork": 192
+        "name": "phase",
+        "link": "https://github.com/hexojs/hexo-theme-phase",
+        "description": "Feel the flow of time with Phase",
+        "watch": 29,
+        "star": 86,
+        "fork": 28
     },
     {
         "name": "Even",
@@ -70,13 +78,5 @@
         "watch": 27,
         "star": 1067,
         "fork": 196
-    },
-    {
-        "name": "One",
-        "link": "https://github.com/EYHN/hexo-theme-one",
-        "description": "Material and One page",
-        "watch": 26,
-        "star": 499,
-        "fork": 53
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "name": "Material",
+        "link": "https://github.com/viosey/hexo-theme-material",
+        "description": "An elegant & Material Design Theme",
+        "watch": 93,
+        "star": 3723,
+        "fork": 571
+    },
+    {
         "name": "indigo",
         "link": "https://github.com/yscoder/hexo-theme-indigo",
         "description": "Material Design theme",
@@ -70,13 +78,5 @@
         "watch": 24,
         "star": 708,
         "fork": 157
-    },
-    {
-        "name": "TKL",
-        "link": "https://github.com/SuperKieran/TKL",
-        "description": "A responsive design theme",
-        "watch": 26,
-        "star": 542,
-        "fork": 172
     }
 ]

@@ -1,11 +1,11 @@
 [
     {
-        "name": "indigo",
-        "link": "https://github.com/yscoder/hexo-theme-indigo",
-        "description": "Material Design theme",
-        "watch": 69,
-        "star": 2304,
-        "fork": 492
+        "name": "NexT",
+        "link": "https://github.com/theme-next/hexo-theme-next",
+        "description": "NexT is an elegant and powerful theme",
+        "watch": 80,
+        "star": 3651,
+        "fork": 1140
     },
     {
         "name": "Apollo",
@@ -64,19 +64,19 @@
         "fork": 179
     },
     {
+        "name": "Melody",
+        "link": "https://github.com/Molunerfinn/hexo-theme-melody",
+        "description": "A simple & beautiful & fast theme",
+        "watch": 16,
+        "star": 757,
+        "fork": 116
+    },
+    {
         "name": "Anisina",
         "link": "https://github.com/haojen/hexo-theme-Anisina",
         "description": "A support qiniu image cdn , simple responsive theme",
         "watch": 24,
         "star": 708,
         "fork": 157
-    },
-    {
-        "name": "spfk",
-        "link": "https://github.com/luuman/hexo-theme-spfk",
-        "description": "A simple solemn theme",
-        "watch": 35,
-        "star": 662,
-        "fork": 197
     }
 ]

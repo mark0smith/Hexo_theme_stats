@@ -8,12 +8,12 @@
         "fork": 2183
     },
     {
-        "name": "icarus-rtl-jalaali",
-        "link": "https://github.com/ghaseminya/hexo-theme-icarus_rtl_jalaali",
-        "description": "Add jalaali calendar and create a rtl layout on icarus theme",
-        "watch": 1,
-        "star": 12,
-        "fork": 806
+        "name": "NexT",
+        "link": "https://github.com/theme-next/hexo-theme-next",
+        "description": "NexT is an elegant and powerful theme",
+        "watch": 80,
+        "star": 3651,
+        "fork": 1140
     },
     {
         "name": "Apollo",
@@ -24,28 +24,12 @@
         "fork": 504
     },
     {
-        "name": "indigo",
-        "link": "https://github.com/yscoder/hexo-theme-indigo",
-        "description": "Material Design theme",
-        "watch": 69,
-        "star": 2304,
-        "fork": 492
-    },
-    {
         "name": "Tranquilpeak",
         "link": "https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme",
         "description": "A gorgeous responsive theme",
         "watch": 55,
         "star": 1519,
         "fork": 455
-    },
-    {
-        "name": "Cactus Light",
-        "link": "https://github.com/gabithume/cactus-light",
-        "description": "The light version of Cactus Dark, a responsive, light and simple theme for a personal webpage",
-        "watch": 1,
-        "star": 59,
-        "fork": 384
     },
     {
         "name": "Cactus",
@@ -64,6 +48,14 @@
         "fork": 384
     },
     {
+        "name": "Cactus Light",
+        "link": "https://github.com/gabithume/cactus-light",
+        "description": "The light version of Cactus Dark, a responsive, light and simple theme for a personal webpage",
+        "watch": 1,
+        "star": 59,
+        "fork": 384
+    },
+    {
         "name": "Bootstrap-Blog",
         "link": "https://github.com/cgmartin/hexo-theme-bootstrap-blog",
         "description": "A simple Twitter Bootstrap blog theme",
@@ -72,11 +64,19 @@
         "fork": 316
     },
     {
-        "name": "landscape",
-        "link": "https://github.com/hexojs/hexo-theme-landscape",
-        "description": "A brand new default theme",
-        "watch": 26,
-        "star": 194,
-        "fork": 316
+        "name": "spfk",
+        "link": "https://github.com/luuman/hexo-theme-spfk",
+        "description": "A simple solemn theme",
+        "watch": 35,
+        "star": 662,
+        "fork": 197
+    },
+    {
+        "name": "Even",
+        "link": "https://github.com/ahonn/hexo-theme-even",
+        "description": "A simple theme",
+        "watch": 27,
+        "star": 1067,
+        "fork": 196
     }
 ]

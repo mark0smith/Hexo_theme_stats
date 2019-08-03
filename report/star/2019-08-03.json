@@ -1,37 +1,5 @@
 [
     {
-        "name": "Material",
-        "link": "https://github.com/viosey/hexo-theme-material",
-        "description": "An elegant & Material Design Theme",
-        "watch": 93,
-        "star": 3723,
-        "fork": 571
-    },
-    {
-        "name": "NexT",
-        "link": "https://github.com/theme-next/hexo-theme-next",
-        "description": "NexT is an elegant and powerful theme",
-        "watch": 80,
-        "star": 3651,
-        "fork": 1140
-    },
-    {
-        "name": "Icarus",
-        "link": "https://github.com/ppoffice/hexo-theme-icarus",
-        "description": "A simple, delicate, and modern theme",
-        "watch": 68,
-        "star": 2603,
-        "fork": 806
-    },
-    {
-        "name": "Maupassant",
-        "link": "https://github.com/tufu9441/maupassant-hexo",
-        "description": "A simple theme with great performance on different devices",
-        "watch": 61,
-        "star": 2024,
-        "fork": 623
-    },
-    {
         "name": "Apollo",
         "link": "https://github.com/pinggod/hexo-theme-apollo",
         "description": "A theme inspired by http://cn.vuejs.org/",
@@ -56,27 +24,59 @@
         "fork": 196
     },
     {
-        "name": "Hueman",
-        "link": "https://github.com/ppoffice/hexo-theme-hueman",
-        "description": "A redesign of Alx's wordpress theme Hueman",
-        "watch": 48,
-        "star": 999,
-        "fork": 320
-    },
-    {
-        "name": "Jacman",
-        "link": "https://github.com/wuchong/jacman",
-        "description": "A fresh looking and responsive theme",
-        "watch": 47,
-        "star": 991,
-        "fork": 377
-    },
-    {
         "name": "Archer",
         "link": "https://github.com/fi3ework/hexo-theme-archer",
         "description": "A smart and modern theme",
         "watch": 21,
         "star": 819,
         "fork": 182
+    },
+    {
+        "name": "Asnippet",
+        "link": "https://github.com/shenliyang/hexo-theme-snippet",
+        "description": "A simple and interesting theme",
+        "watch": 19,
+        "star": 807,
+        "fork": 179
+    },
+    {
+        "name": "Anisina",
+        "link": "https://github.com/haojen/hexo-theme-Anisina",
+        "description": "A support qiniu image cdn , simple responsive theme",
+        "watch": 24,
+        "star": 708,
+        "fork": 157
+    },
+    {
+        "name": "spfk",
+        "link": "https://github.com/luuman/hexo-theme-spfk",
+        "description": "A simple solemn theme",
+        "watch": 35,
+        "star": 662,
+        "fork": 197
+    },
+    {
+        "name": "Diaspora",
+        "link": "https://github.com/Fechin/hexo-theme-diaspora",
+        "description": "A clean and responsive theme",
+        "watch": 4,
+        "star": 502,
+        "fork": 140
+    },
+    {
+        "name": "Anatole",
+        "link": "https://github.com/Ben02/hexo-theme-Anatole",
+        "description": "A white and simple theme, originated from a Farbox theme",
+        "watch": 16,
+        "star": 491,
+        "fork": 108
+    },
+    {
+        "name": "BMW",
+        "link": "https://github.com/dongyuanxin/theme-bmw",
+        "description": "BMW is not only clean but also very powerful theme",
+        "watch": 5,
+        "star": 366,
+        "fork": 45
     }
 ]

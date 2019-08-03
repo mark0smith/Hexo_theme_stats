@@ -1,5 +1,37 @@
 [
     {
+        "name": "Material",
+        "link": "https://github.com/viosey/hexo-theme-material",
+        "description": "An elegant & Material Design Theme",
+        "watch": 93,
+        "star": 3723,
+        "fork": 571
+    },
+    {
+        "name": "NexT",
+        "link": "https://github.com/theme-next/hexo-theme-next",
+        "description": "NexT is an elegant and powerful theme",
+        "watch": 80,
+        "star": 3651,
+        "fork": 1140
+    },
+    {
+        "name": "indigo",
+        "link": "https://github.com/yscoder/hexo-theme-indigo",
+        "description": "Material Design theme",
+        "watch": 69,
+        "star": 2304,
+        "fork": 492
+    },
+    {
+        "name": "Maupassant",
+        "link": "https://github.com/tufu9441/maupassant-hexo",
+        "description": "A simple theme with great performance on different devices",
+        "watch": 61,
+        "star": 2024,
+        "fork": 623
+    },
+    {
         "name": "Apollo",
         "link": "https://github.com/pinggod/hexo-theme-apollo",
         "description": "A theme inspired by http://cn.vuejs.org/",
@@ -24,59 +56,27 @@
         "fork": 384
     },
     {
-        "name": "Even",
-        "link": "https://github.com/ahonn/hexo-theme-even",
-        "description": "A simple theme",
-        "watch": 27,
-        "star": 1067,
-        "fork": 196
+        "name": "light",
+        "link": "https://github.com/hexojs/hexo-theme-light",
+        "description": "Default theme",
+        "watch": 31,
+        "star": 287,
+        "fork": 170
     },
     {
-        "name": "Anisina",
-        "link": "https://github.com/haojen/hexo-theme-Anisina",
-        "description": "A support qiniu image cdn , simple responsive theme",
-        "watch": 24,
-        "star": 708,
-        "fork": 157
+        "name": "Raytaylorism",
+        "link": "https://github.com/raytaylorlin/hexo-theme-raytaylorism",
+        "description": "A Material Design theme of with powerful features",
+        "watch": 29,
+        "star": 450,
+        "fork": 121
     },
     {
-        "name": "Archer",
-        "link": "https://github.com/fi3ework/hexo-theme-archer",
-        "description": "A smart and modern theme",
-        "watch": 21,
-        "star": 819,
-        "fork": 182
-    },
-    {
-        "name": "Asnippet",
-        "link": "https://github.com/shenliyang/hexo-theme-snippet",
-        "description": "A simple and interesting theme",
-        "watch": 19,
-        "star": 807,
-        "fork": 179
-    },
-    {
-        "name": "BlueLake",
-        "link": "https://github.com/chaooo/hexo-theme-BlueLake",
-        "description": "A responsive , simple theme",
-        "watch": 19,
-        "star": 264,
-        "fork": 112
-    },
-    {
-        "name": "Anatole",
-        "link": "https://github.com/Ben02/hexo-theme-Anatole",
-        "description": "A white and simple theme, originated from a Farbox theme",
-        "watch": 16,
-        "star": 491,
-        "fork": 108
-    },
-    {
-        "name": "AlphaDust",
-        "link": "https://github.com/klugjo/hexo-theme-alpha-dust",
-        "description": "A futuristic responsive theme",
-        "watch": 13,
-        "star": 216,
-        "fork": 69
+        "name": "phase",
+        "link": "https://github.com/hexojs/hexo-theme-phase",
+        "description": "Feel the flow of time with Phase",
+        "watch": 29,
+        "star": 86,
+        "fork": 28
     }
 ]

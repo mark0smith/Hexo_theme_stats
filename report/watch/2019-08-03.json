@@ -32,28 +32,12 @@
         "fork": 623
     },
     {
-        "name": "Apollo",
-        "link": "https://github.com/pinggod/hexo-theme-apollo",
-        "description": "A theme inspired by http://cn.vuejs.org/",
-        "watch": 45,
-        "star": 1670,
-        "fork": 504
-    },
-    {
         "name": "spfk",
         "link": "https://github.com/luuman/hexo-theme-spfk",
         "description": "A simple solemn theme",
         "watch": 35,
         "star": 662,
         "fork": 197
-    },
-    {
-        "name": "Cactus",
-        "link": "https://github.com/probberechts/hexo-theme-cactus",
-        "description": "A responsive, clean and simple theme for a personal webpage",
-        "watch": 34,
-        "star": 1249,
-        "fork": 384
     },
     {
         "name": "light",
@@ -78,5 +62,21 @@
         "watch": 29,
         "star": 86,
         "fork": 28
+    },
+    {
+        "name": "Matery",
+        "link": "https://github.com/blinkfox/hexo-theme-matery",
+        "description": "A beautiful theme with material design and responsive design",
+        "watch": 28,
+        "star": 746,
+        "fork": 192
+    },
+    {
+        "name": "Even",
+        "link": "https://github.com/ahonn/hexo-theme-even",
+        "description": "A simple theme",
+        "watch": 27,
+        "star": 1067,
+        "fork": 196
     }
 ]

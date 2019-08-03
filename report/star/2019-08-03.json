@@ -1,21 +1,5 @@
 [
     {
-        "name": "Icarus",
-        "link": "https://github.com/ppoffice/hexo-theme-icarus",
-        "description": "A simple, delicate, and modern theme",
-        "watch": 68,
-        "star": 2603,
-        "fork": 806
-    },
-    {
-        "name": "indigo",
-        "link": "https://github.com/yscoder/hexo-theme-indigo",
-        "description": "Material Design theme",
-        "watch": 69,
-        "star": 2304,
-        "fork": 492
-    },
-    {
         "name": "Apollo",
         "link": "https://github.com/pinggod/hexo-theme-apollo",
         "description": "A theme inspired by http://cn.vuejs.org/",
@@ -56,14 +40,6 @@
         "fork": 196
     },
     {
-        "name": "Hueman",
-        "link": "https://github.com/ppoffice/hexo-theme-hueman",
-        "description": "A redesign of Alx's wordpress theme Hueman",
-        "watch": 48,
-        "star": 999,
-        "fork": 320
-    },
-    {
         "name": "Archer",
         "link": "https://github.com/fi3ework/hexo-theme-archer",
         "description": "A smart and modern theme",
@@ -78,5 +54,29 @@
         "watch": 19,
         "star": 807,
         "fork": 179
+    },
+    {
+        "name": "Anisina",
+        "link": "https://github.com/haojen/hexo-theme-Anisina",
+        "description": "A support qiniu image cdn , simple responsive theme",
+        "watch": 24,
+        "star": 708,
+        "fork": 157
+    },
+    {
+        "name": "TKL",
+        "link": "https://github.com/SuperKieran/TKL",
+        "description": "A responsive design theme",
+        "watch": 26,
+        "star": 542,
+        "fork": 172
+    },
+    {
+        "name": "Diaspora",
+        "link": "https://github.com/Fechin/hexo-theme-diaspora",
+        "description": "A clean and responsive theme",
+        "watch": 4,
+        "star": 502,
+        "fork": 140
     }
 ]

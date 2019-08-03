@@ -16,6 +16,14 @@
         "fork": 1140
     },
     {
+        "name": "Icarus",
+        "link": "https://github.com/ppoffice/hexo-theme-icarus",
+        "description": "A simple, delicate, and modern theme",
+        "watch": 68,
+        "star": 2603,
+        "fork": 806
+    },
+    {
         "name": "indigo",
         "link": "https://github.com/yscoder/hexo-theme-indigo",
         "description": "Material Design theme",
@@ -32,6 +40,22 @@
         "fork": 623
     },
     {
+        "name": "Apollo",
+        "link": "https://github.com/pinggod/hexo-theme-apollo",
+        "description": "A theme inspired by http://cn.vuejs.org/",
+        "watch": 45,
+        "star": 1670,
+        "fork": 504
+    },
+    {
+        "name": "Tranquilpeak",
+        "link": "https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme",
+        "description": "A gorgeous responsive theme",
+        "watch": 55,
+        "star": 1519,
+        "fork": 455
+    },
+    {
         "name": "Yelee",
         "link": "https://github.com/MOxFIVE/hexo-theme-yelee",
         "description": "Another simple and elegant theme by MOxFIVE",
@@ -40,43 +64,19 @@
         "fork": 2183
     },
     {
+        "name": "Cactus",
+        "link": "https://github.com/probberechts/hexo-theme-cactus",
+        "description": "A responsive, clean and simple theme for a personal webpage",
+        "watch": 34,
+        "star": 1249,
+        "fork": 384
+    },
+    {
         "name": "Even",
         "link": "https://github.com/ahonn/hexo-theme-even",
         "description": "A simple theme",
         "watch": 27,
         "star": 1067,
         "fork": 196
-    },
-    {
-        "name": "Melody",
-        "link": "https://github.com/Molunerfinn/hexo-theme-melody",
-        "description": "A simple & beautiful & fast theme",
-        "watch": 16,
-        "star": 757,
-        "fork": 116
-    },
-    {
-        "name": "Matery",
-        "link": "https://github.com/blinkfox/hexo-theme-matery",
-        "description": "A beautiful theme with material design and responsive design",
-        "watch": 28,
-        "star": 746,
-        "fork": 192
-    },
-    {
-        "name": "TKL",
-        "link": "https://github.com/SuperKieran/TKL",
-        "description": "A responsive design theme",
-        "watch": 26,
-        "star": 542,
-        "fork": 172
-    },
-    {
-        "name": "Diaspora",
-        "link": "https://github.com/Fechin/hexo-theme-diaspora",
-        "description": "A clean and responsive theme",
-        "watch": 4,
-        "star": 502,
-        "fork": 140
     }
 ]

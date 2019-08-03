@@ -1,5 +1,13 @@
 [
     {
+        "name": "Material",
+        "link": "https://github.com/viosey/hexo-theme-material",
+        "description": "An elegant & Material Design Theme",
+        "watch": 93,
+        "star": 3723,
+        "fork": 571
+    },
+    {
         "name": "NexT",
         "link": "https://github.com/theme-next/hexo-theme-next",
         "description": "NexT is an elegant and powerful theme",
@@ -16,12 +24,20 @@
         "fork": 492
     },
     {
-        "name": "Tranquilpeak",
-        "link": "https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme",
-        "description": "A gorgeous responsive theme",
-        "watch": 55,
-        "star": 1519,
-        "fork": 455
+        "name": "Maupassant",
+        "link": "https://github.com/tufu9441/maupassant-hexo",
+        "description": "A simple theme with great performance on different devices",
+        "watch": 61,
+        "star": 2024,
+        "fork": 623
+    },
+    {
+        "name": "Jacman",
+        "link": "https://github.com/wuchong/jacman",
+        "description": "A fresh looking and responsive theme",
+        "watch": 47,
+        "star": 991,
+        "fork": 377
     },
     {
         "name": "Apollo",
@@ -62,21 +78,5 @@
         "watch": 29,
         "star": 450,
         "fork": 121
-    },
-    {
-        "name": "phase",
-        "link": "https://github.com/hexojs/hexo-theme-phase",
-        "description": "Feel the flow of time with Phase",
-        "watch": 29,
-        "star": 86,
-        "fork": 28
-    },
-    {
-        "name": "Even",
-        "link": "https://github.com/ahonn/hexo-theme-even",
-        "description": "A simple theme",
-        "watch": 27,
-        "star": 1067,
-        "fork": 196
     }
 ]

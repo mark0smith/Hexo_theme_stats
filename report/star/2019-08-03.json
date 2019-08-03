@@ -1,5 +1,13 @@
 [
     {
+        "name": "Material",
+        "link": "https://github.com/viosey/hexo-theme-material",
+        "description": "An elegant & Material Design Theme",
+        "watch": 93,
+        "star": 3723,
+        "fork": 571
+    },
+    {
         "name": "NexT",
         "link": "https://github.com/theme-next/hexo-theme-next",
         "description": "NexT is an elegant and powerful theme",
@@ -16,20 +24,20 @@
         "fork": 492
     },
     {
+        "name": "Maupassant",
+        "link": "https://github.com/tufu9441/maupassant-hexo",
+        "description": "A simple theme with great performance on different devices",
+        "watch": 61,
+        "star": 2024,
+        "fork": 623
+    },
+    {
         "name": "Apollo",
         "link": "https://github.com/pinggod/hexo-theme-apollo",
         "description": "A theme inspired by http://cn.vuejs.org/",
         "watch": 45,
         "star": 1670,
         "fork": 504
-    },
-    {
-        "name": "Tranquilpeak",
-        "link": "https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme",
-        "description": "A gorgeous responsive theme",
-        "watch": 55,
-        "star": 1519,
-        "fork": 455
     },
     {
         "name": "Cactus",
@@ -48,6 +56,14 @@
         "fork": 196
     },
     {
+        "name": "Jacman",
+        "link": "https://github.com/wuchong/jacman",
+        "description": "A fresh looking and responsive theme",
+        "watch": 47,
+        "star": 991,
+        "fork": 377
+    },
+    {
         "name": "Archer",
         "link": "https://github.com/fi3ework/hexo-theme-archer",
         "description": "A smart and modern theme",
@@ -62,21 +78,5 @@
         "watch": 19,
         "star": 807,
         "fork": 179
-    },
-    {
-        "name": "Anisina",
-        "link": "https://github.com/haojen/hexo-theme-Anisina",
-        "description": "A support qiniu image cdn , simple responsive theme",
-        "watch": 24,
-        "star": 708,
-        "fork": 157
-    },
-    {
-        "name": "spfk",
-        "link": "https://github.com/luuman/hexo-theme-spfk",
-        "description": "A simple solemn theme",
-        "watch": 35,
-        "star": 662,
-        "fork": 197
     }
 ]

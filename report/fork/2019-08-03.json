@@ -1,19 +1,27 @@
 [
     {
-        "name": "Yelee",
-        "link": "https://github.com/MOxFIVE/hexo-theme-yelee",
-        "description": "Another simple and elegant theme by MOxFIVE",
-        "watch": 66,
-        "star": 1314,
-        "fork": 2183
+        "name": "NexT",
+        "link": "https://github.com/theme-next/hexo-theme-next",
+        "description": "NexT is an elegant and powerful theme",
+        "watch": 80,
+        "star": 3651,
+        "fork": 1140
     },
     {
-        "name": "icarus-rtl-jalaali",
-        "link": "https://github.com/ghaseminya/hexo-theme-icarus_rtl_jalaali",
-        "description": "Add jalaali calendar and create a rtl layout on icarus theme",
-        "watch": 1,
-        "star": 12,
-        "fork": 806
+        "name": "Maupassant",
+        "link": "https://github.com/tufu9441/maupassant-hexo",
+        "description": "A simple theme with great performance on different devices",
+        "watch": 61,
+        "star": 2024,
+        "fork": 623
+    },
+    {
+        "name": "Material",
+        "link": "https://github.com/viosey/hexo-theme-material",
+        "description": "An elegant & Material Design Theme",
+        "watch": 93,
+        "star": 3723,
+        "fork": 571
     },
     {
         "name": "Apollo",
@@ -22,22 +30,6 @@
         "watch": 45,
         "star": 1670,
         "fork": 504
-    },
-    {
-        "name": "indigo",
-        "link": "https://github.com/yscoder/hexo-theme-indigo",
-        "description": "Material Design theme",
-        "watch": 69,
-        "star": 2304,
-        "fork": 492
-    },
-    {
-        "name": "Tranquilpeak",
-        "link": "https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme",
-        "description": "A gorgeous responsive theme",
-        "watch": 55,
-        "star": 1519,
-        "fork": 455
     },
     {
         "name": "Cactus",
@@ -72,11 +64,19 @@
         "fork": 316
     },
     {
-        "name": "landscape",
-        "link": "https://github.com/hexojs/hexo-theme-landscape",
-        "description": "A brand new default theme",
-        "watch": 26,
-        "star": 194,
-        "fork": 316
+        "name": "Even",
+        "link": "https://github.com/ahonn/hexo-theme-even",
+        "description": "A simple theme",
+        "watch": 27,
+        "star": 1067,
+        "fork": 196
+    },
+    {
+        "name": "Matery",
+        "link": "https://github.com/blinkfox/hexo-theme-matery",
+        "description": "A beautiful theme with material design and responsive design",
+        "watch": 28,
+        "star": 746,
+        "fork": 192
     }
 ]

@@ -8,36 +8,12 @@
         "fork": 571
     },
     {
-        "name": "NexT",
-        "link": "https://github.com/theme-next/hexo-theme-next",
-        "description": "NexT is an elegant and powerful theme",
-        "watch": 80,
-        "star": 3651,
-        "fork": 1140
-    },
-    {
         "name": "Icarus",
         "link": "https://github.com/ppoffice/hexo-theme-icarus",
         "description": "A simple, delicate, and modern theme",
         "watch": 68,
         "star": 2603,
         "fork": 806
-    },
-    {
-        "name": "indigo",
-        "link": "https://github.com/yscoder/hexo-theme-indigo",
-        "description": "Material Design theme",
-        "watch": 69,
-        "star": 2304,
-        "fork": 492
-    },
-    {
-        "name": "Maupassant",
-        "link": "https://github.com/tufu9441/maupassant-hexo",
-        "description": "A simple theme with great performance on different devices",
-        "watch": 61,
-        "star": 2024,
-        "fork": 623
     },
     {
         "name": "Apollo",
@@ -78,5 +54,29 @@
         "watch": 27,
         "star": 1067,
         "fork": 196
+    },
+    {
+        "name": "Hueman",
+        "link": "https://github.com/ppoffice/hexo-theme-hueman",
+        "description": "A redesign of Alx's wordpress theme Hueman",
+        "watch": 48,
+        "star": 999,
+        "fork": 320
+    },
+    {
+        "name": "Jacman",
+        "link": "https://github.com/wuchong/jacman",
+        "description": "A fresh looking and responsive theme",
+        "watch": 47,
+        "star": 991,
+        "fork": 377
+    },
+    {
+        "name": "Archer",
+        "link": "https://github.com/fi3ework/hexo-theme-archer",
+        "description": "A smart and modern theme",
+        "watch": 21,
+        "star": 819,
+        "fork": 182
     }
 ]

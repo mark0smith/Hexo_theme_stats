@@ -8,22 +8,6 @@
         "fork": 571
     },
     {
-        "name": "NexT",
-        "link": "https://github.com/theme-next/hexo-theme-next",
-        "description": "NexT is an elegant and powerful theme",
-        "watch": 80,
-        "star": 3651,
-        "fork": 1140
-    },
-    {
-        "name": "indigo",
-        "link": "https://github.com/yscoder/hexo-theme-indigo",
-        "description": "Material Design theme",
-        "watch": 69,
-        "star": 2304,
-        "fork": 492
-    },
-    {
         "name": "Icarus",
         "link": "https://github.com/ppoffice/hexo-theme-icarus",
         "description": "A simple, delicate, and modern theme",
@@ -38,14 +22,6 @@
         "watch": 66,
         "star": 1314,
         "fork": 2183
-    },
-    {
-        "name": "Maupassant",
-        "link": "https://github.com/tufu9441/maupassant-hexo",
-        "description": "A simple theme with great performance on different devices",
-        "watch": 61,
-        "star": 2024,
-        "fork": 623
     },
     {
         "name": "Tranquilpeak",
@@ -78,5 +54,29 @@
         "watch": 45,
         "star": 1670,
         "fork": 504
+    },
+    {
+        "name": "Cactus",
+        "link": "https://github.com/probberechts/hexo-theme-cactus",
+        "description": "A responsive, clean and simple theme for a personal webpage",
+        "watch": 34,
+        "star": 1249,
+        "fork": 384
+    },
+    {
+        "name": "Even",
+        "link": "https://github.com/ahonn/hexo-theme-even",
+        "description": "A simple theme",
+        "watch": 27,
+        "star": 1067,
+        "fork": 196
+    },
+    {
+        "name": "Hacker",
+        "link": "https://github.com/CodeDaraW/Hacker",
+        "description": "A simple theme inspired by Wordpress theme Hacker",
+        "watch": 26,
+        "star": 410,
+        "fork": 110
     }
 ]

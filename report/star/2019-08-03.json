@@ -1,27 +1,11 @@
 [
     {
-        "name": "Material",
-        "link": "https://github.com/viosey/hexo-theme-material",
-        "description": "An elegant & Material Design Theme",
-        "watch": 93,
-        "star": 3723,
-        "fork": 571
-    },
-    {
         "name": "NexT",
         "link": "https://github.com/theme-next/hexo-theme-next",
         "description": "NexT is an elegant and powerful theme",
         "watch": 80,
         "star": 3651,
         "fork": 1140
-    },
-    {
-        "name": "indigo",
-        "link": "https://github.com/yscoder/hexo-theme-indigo",
-        "description": "Material Design theme",
-        "watch": 69,
-        "star": 2304,
-        "fork": 492
     },
     {
         "name": "Maupassant",
@@ -56,14 +40,6 @@
         "fork": 196
     },
     {
-        "name": "Jacman",
-        "link": "https://github.com/wuchong/jacman",
-        "description": "A fresh looking and responsive theme",
-        "watch": 47,
-        "star": 991,
-        "fork": 377
-    },
-    {
         "name": "Archer",
         "link": "https://github.com/fi3ework/hexo-theme-archer",
         "description": "A smart and modern theme",
@@ -78,5 +54,29 @@
         "watch": 19,
         "star": 807,
         "fork": 179
+    },
+    {
+        "name": "Melody",
+        "link": "https://github.com/Molunerfinn/hexo-theme-melody",
+        "description": "A simple & beautiful & fast theme",
+        "watch": 16,
+        "star": 757,
+        "fork": 116
+    },
+    {
+        "name": "Matery",
+        "link": "https://github.com/blinkfox/hexo-theme-matery",
+        "description": "A beautiful theme with material design and responsive design",
+        "watch": 28,
+        "star": 746,
+        "fork": 192
+    },
+    {
+        "name": "Anisina",
+        "link": "https://github.com/haojen/hexo-theme-Anisina",
+        "description": "A support qiniu image cdn , simple responsive theme",
+        "watch": 24,
+        "star": 708,
+        "fork": 157
     }
 ]

@@ -8,28 +8,12 @@
         "fork": 1140
     },
     {
-        "name": "icarus-rtl-jalaali",
-        "link": "https://github.com/ghaseminya/hexo-theme-icarus_rtl_jalaali",
-        "description": "Add jalaali calendar and create a rtl layout on icarus theme",
-        "watch": 1,
-        "star": 12,
-        "fork": 806
-    },
-    {
         "name": "Maupassant",
         "link": "https://github.com/tufu9441/maupassant-hexo",
         "description": "A simple theme with great performance on different devices",
         "watch": 61,
         "star": 2024,
         "fork": 623
-    },
-    {
-        "name": "Material",
-        "link": "https://github.com/viosey/hexo-theme-material",
-        "description": "An elegant & Material Design Theme",
-        "watch": 93,
-        "star": 3723,
-        "fork": 571
     },
     {
         "name": "Apollo",
@@ -40,12 +24,12 @@
         "fork": 504
     },
     {
-        "name": "indigo",
-        "link": "https://github.com/yscoder/hexo-theme-indigo",
-        "description": "Material Design theme",
-        "watch": 69,
-        "star": 2304,
-        "fork": 492
+        "name": "Cactus Light",
+        "link": "https://github.com/gabithume/cactus-light",
+        "description": "The light version of Cactus Dark, a responsive, light and simple theme for a personal webpage",
+        "watch": 1,
+        "star": 59,
+        "fork": 384
     },
     {
         "name": "Cactus",
@@ -53,14 +37,6 @@
         "description": "A responsive, clean and simple theme for a personal webpage",
         "watch": 34,
         "star": 1249,
-        "fork": 384
-    },
-    {
-        "name": "Cactus Light",
-        "link": "https://github.com/gabithume/cactus-light",
-        "description": "The light version of Cactus Dark, a responsive, light and simple theme for a personal webpage",
-        "watch": 1,
-        "star": 59,
         "fork": 384
     },
     {
@@ -72,11 +48,35 @@
         "fork": 384
     },
     {
-        "name": "Jacman",
-        "link": "https://github.com/wuchong/jacman",
-        "description": "A fresh looking and responsive theme",
-        "watch": 47,
-        "star": 991,
-        "fork": 377
+        "name": "Bootstrap-Blog",
+        "link": "https://github.com/cgmartin/hexo-theme-bootstrap-blog",
+        "description": "A simple Twitter Bootstrap blog theme",
+        "watch": 9,
+        "star": 99,
+        "fork": 316
+    },
+    {
+        "name": "Even",
+        "link": "https://github.com/ahonn/hexo-theme-even",
+        "description": "A simple theme",
+        "watch": 27,
+        "star": 1067,
+        "fork": 196
+    },
+    {
+        "name": "Matery",
+        "link": "https://github.com/blinkfox/hexo-theme-matery",
+        "description": "A beautiful theme with material design and responsive design",
+        "watch": 28,
+        "star": 746,
+        "fork": 192
+    },
+    {
+        "name": "Archer",
+        "link": "https://github.com/fi3ework/hexo-theme-archer",
+        "description": "A smart and modern theme",
+        "watch": 21,
+        "star": 819,
+        "fork": 182
     }
 ]

@@ -24,6 +24,14 @@
         "fork": 504
     },
     {
+        "name": "Tranquilpeak",
+        "link": "https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme",
+        "description": "A gorgeous responsive theme",
+        "watch": 55,
+        "star": 1519,
+        "fork": 455
+    },
+    {
         "name": "Yelee",
         "link": "https://github.com/MOxFIVE/hexo-theme-yelee",
         "description": "Another simple and elegant theme by MOxFIVE",
@@ -62,14 +70,6 @@
         "watch": 19,
         "star": 807,
         "fork": 179
-    },
-    {
-        "name": "Melody",
-        "link": "https://github.com/Molunerfinn/hexo-theme-melody",
-        "description": "A simple & beautiful & fast theme",
-        "watch": 16,
-        "star": 757,
-        "fork": 116
     },
     {
         "name": "Anisina",

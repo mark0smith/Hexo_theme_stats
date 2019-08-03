@@ -64,19 +64,19 @@
         "fork": 179
     },
     {
-        "name": "Melody",
-        "link": "https://github.com/Molunerfinn/hexo-theme-melody",
-        "description": "A simple & beautiful & fast theme",
-        "watch": 16,
-        "star": 757,
-        "fork": 116
-    },
-    {
         "name": "Anisina",
         "link": "https://github.com/haojen/hexo-theme-Anisina",
         "description": "A support qiniu image cdn , simple responsive theme",
         "watch": 24,
         "star": 708,
         "fork": 157
+    },
+    {
+        "name": "spfk",
+        "link": "https://github.com/luuman/hexo-theme-spfk",
+        "description": "A simple solemn theme",
+        "watch": 35,
+        "star": 662,
+        "fork": 197
     }
 ]

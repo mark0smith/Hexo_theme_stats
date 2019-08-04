@@ -8,14 +8,6 @@
         "fork": 2184
     },
     {
-        "name": "NexT",
-        "link": "https://github.com/theme-next/hexo-theme-next",
-        "description": "NexT is an elegant and powerful theme",
-        "watch": 80,
-        "star": 3662,
-        "fork": 1143
-    },
-    {
         "name": "icarus-rtl-jalaali",
         "link": "https://github.com/ghaseminya/hexo-theme-icarus_rtl_jalaali",
         "description": "Add jalaali calendar and create a rtl layout on icarus theme",
@@ -77,6 +69,14 @@
         "description": "A simple Twitter Bootstrap blog theme",
         "watch": 9,
         "star": 99,
+        "fork": 316
+    },
+    {
+        "name": "landscape",
+        "link": "https://github.com/hexojs/hexo-theme-landscape",
+        "description": "A brand new default theme",
+        "watch": 26,
+        "star": 195,
         "fork": 316
     }
 ]

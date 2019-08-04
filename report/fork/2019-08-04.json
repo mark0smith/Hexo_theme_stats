@@ -8,12 +8,28 @@
         "fork": 2184
     },
     {
+        "name": "icarus-rtl-jalaali",
+        "link": "https://github.com/ghaseminya/hexo-theme-icarus_rtl_jalaali",
+        "description": "Add jalaali calendar and create a rtl layout on icarus theme",
+        "watch": 1,
+        "star": 12,
+        "fork": 808
+    },
+    {
         "name": "Apollo",
         "link": "https://github.com/pinggod/hexo-theme-apollo",
         "description": "A theme inspired by http://cn.vuejs.org/",
         "watch": 45,
         "star": 1670,
         "fork": 504
+    },
+    {
+        "name": "indigo",
+        "link": "https://github.com/yscoder/hexo-theme-indigo",
+        "description": "Material Design theme",
+        "watch": 70,
+        "star": 2304,
+        "fork": 492
     },
     {
         "name": "Tranquilpeak",
@@ -48,14 +64,6 @@
         "fork": 384
     },
     {
-        "name": "Hueman",
-        "link": "https://github.com/ppoffice/hexo-theme-hueman",
-        "description": "A redesign of Alx's wordpress theme Hueman",
-        "watch": 48,
-        "star": 1002,
-        "fork": 320
-    },
-    {
         "name": "Bootstrap-Blog",
         "link": "https://github.com/cgmartin/hexo-theme-bootstrap-blog",
         "description": "A simple Twitter Bootstrap blog theme",
@@ -64,19 +72,11 @@
         "fork": 316
     },
     {
-        "name": "spfk",
-        "link": "https://github.com/luuman/hexo-theme-spfk",
-        "description": "A simple solemn theme",
-        "watch": 35,
-        "star": 662,
-        "fork": 197
-    },
-    {
-        "name": "Even",
-        "link": "https://github.com/ahonn/hexo-theme-even",
-        "description": "A simple theme",
-        "watch": 27,
-        "star": 1067,
-        "fork": 196
+        "name": "landscape",
+        "link": "https://github.com/hexojs/hexo-theme-landscape",
+        "description": "A brand new default theme",
+        "watch": 26,
+        "star": 195,
+        "fork": 316
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "name": "indigo",
+        "link": "https://github.com/yscoder/hexo-theme-indigo",
+        "description": "Material Design theme",
+        "watch": 70,
+        "star": 2304,
+        "fork": 492
+    },
+    {
         "name": "Apollo",
         "link": "https://github.com/pinggod/hexo-theme-apollo",
         "description": "A theme inspired by http://cn.vuejs.org/",
@@ -38,14 +46,6 @@
         "watch": 27,
         "star": 1067,
         "fork": 196
-    },
-    {
-        "name": "Hueman",
-        "link": "https://github.com/ppoffice/hexo-theme-hueman",
-        "description": "A redesign of Alx's wordpress theme Hueman",
-        "watch": 48,
-        "star": 1002,
-        "fork": 320
     },
     {
         "name": "Archer",

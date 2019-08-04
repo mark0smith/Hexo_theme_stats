@@ -1,5 +1,13 @@
 [
     {
+        "name": "indigo",
+        "link": "https://github.com/yscoder/hexo-theme-indigo",
+        "description": "Material Design theme",
+        "watch": 70,
+        "star": 2304,
+        "fork": 492
+    },
+    {
         "name": "Yelee",
         "link": "https://github.com/MOxFIVE/hexo-theme-yelee",
         "description": "Another simple and elegant theme by MOxFIVE",
@@ -14,14 +22,6 @@
         "watch": 55,
         "star": 1520,
         "fork": 455
-    },
-    {
-        "name": "Hueman",
-        "link": "https://github.com/ppoffice/hexo-theme-hueman",
-        "description": "A redesign of Alx's wordpress theme Hueman",
-        "watch": 48,
-        "star": 1002,
-        "fork": 320
     },
     {
         "name": "Apollo",
@@ -48,6 +48,22 @@
         "fork": 197
     },
     {
+        "name": "light",
+        "link": "https://github.com/hexojs/hexo-theme-light",
+        "description": "Default theme",
+        "watch": 31,
+        "star": 287,
+        "fork": 170
+    },
+    {
+        "name": "Raytaylorism",
+        "link": "https://github.com/raytaylorlin/hexo-theme-raytaylorism",
+        "description": "A Material Design theme of with powerful features",
+        "watch": 29,
+        "star": 450,
+        "fork": 121
+    },
+    {
         "name": "phase",
         "link": "https://github.com/hexojs/hexo-theme-phase",
         "description": "Feel the flow of time with Phase",
@@ -62,21 +78,5 @@
         "watch": 27,
         "star": 1067,
         "fork": 196
-    },
-    {
-        "name": "Hacker",
-        "link": "https://github.com/CodeDaraW/Hacker",
-        "description": "A simple theme inspired by Wordpress theme Hacker",
-        "watch": 26,
-        "star": 410,
-        "fork": 110
-    },
-    {
-        "name": "TKL",
-        "link": "https://github.com/SuperKieran/TKL",
-        "description": "A responsive design theme",
-        "watch": 26,
-        "star": 542,
-        "fork": 171
     }
 ]

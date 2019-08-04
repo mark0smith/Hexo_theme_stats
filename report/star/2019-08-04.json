@@ -1,11 +1,11 @@
 [
     {
-        "name": "indigo",
-        "link": "https://github.com/yscoder/hexo-theme-indigo",
-        "description": "Material Design theme",
-        "watch": 70,
-        "star": 2304,
-        "fork": 492
+        "name": "Material",
+        "link": "https://github.com/viosey/hexo-theme-material",
+        "description": "An elegant & Material Design Theme",
+        "watch": 93,
+        "star": 3724,
+        "fork": 571
     },
     {
         "name": "Apollo",
@@ -72,11 +72,11 @@
         "fork": 157
     },
     {
-        "name": "spfk",
-        "link": "https://github.com/luuman/hexo-theme-spfk",
-        "description": "A simple solemn theme",
-        "watch": 35,
-        "star": 662,
-        "fork": 197
+        "name": "TKL",
+        "link": "https://github.com/SuperKieran/TKL",
+        "description": "A responsive design theme",
+        "watch": 26,
+        "star": 542,
+        "fork": 171
     }
 ]

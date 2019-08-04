@@ -8,14 +8,6 @@
         "fork": 1143
     },
     {
-        "name": "indigo",
-        "link": "https://github.com/yscoder/hexo-theme-indigo",
-        "description": "Material Design theme",
-        "watch": 70,
-        "star": 2304,
-        "fork": 492
-    },
-    {
         "name": "Tranquilpeak",
         "link": "https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme",
         "description": "A gorgeous responsive theme",
@@ -40,22 +32,6 @@
         "fork": 384
     },
     {
-        "name": "spfk",
-        "link": "https://github.com/luuman/hexo-theme-spfk",
-        "description": "A simple solemn theme",
-        "watch": 35,
-        "star": 662,
-        "fork": 197
-    },
-    {
-        "name": "light",
-        "link": "https://github.com/hexojs/hexo-theme-light",
-        "description": "Default theme",
-        "watch": 31,
-        "star": 287,
-        "fork": 170
-    },
-    {
         "name": "Raytaylorism",
         "link": "https://github.com/raytaylorlin/hexo-theme-raytaylorism",
         "description": "A Material Design theme of with powerful features",
@@ -64,19 +40,43 @@
         "fork": 121
     },
     {
-        "name": "phase",
-        "link": "https://github.com/hexojs/hexo-theme-phase",
-        "description": "Feel the flow of time with Phase",
-        "watch": 29,
-        "star": 86,
-        "fork": 28
-    },
-    {
         "name": "Even",
         "link": "https://github.com/ahonn/hexo-theme-even",
         "description": "A simple theme",
         "watch": 27,
         "star": 1067,
         "fork": 196
+    },
+    {
+        "name": "One",
+        "link": "https://github.com/EYHN/hexo-theme-one",
+        "description": "Material and One page",
+        "watch": 26,
+        "star": 499,
+        "fork": 53
+    },
+    {
+        "name": "TKL",
+        "link": "https://github.com/SuperKieran/TKL",
+        "description": "A responsive design theme",
+        "watch": 26,
+        "star": 542,
+        "fork": 171
+    },
+    {
+        "name": "Anisina",
+        "link": "https://github.com/haojen/hexo-theme-Anisina",
+        "description": "A support qiniu image cdn , simple responsive theme",
+        "watch": 24,
+        "star": 708,
+        "fork": 157
+    },
+    {
+        "name": "Archer",
+        "link": "https://github.com/fi3ework/hexo-theme-archer",
+        "description": "A smart and modern theme",
+        "watch": 21,
+        "star": 821,
+        "fork": 182
     }
 ]

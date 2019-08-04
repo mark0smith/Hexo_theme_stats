@@ -1,11 +1,51 @@
 [
     {
+        "name": "Yelee",
+        "link": "https://github.com/MOxFIVE/hexo-theme-yelee",
+        "description": "Another simple and elegant theme by MOxFIVE",
+        "watch": 66,
+        "star": 1314,
+        "fork": 2184
+    },
+    {
         "name": "NexT",
         "link": "https://github.com/theme-next/hexo-theme-next",
         "description": "NexT is an elegant and powerful theme",
         "watch": 80,
         "star": 3662,
         "fork": 1143
+    },
+    {
+        "name": "Icarus",
+        "link": "https://github.com/ppoffice/hexo-theme-icarus",
+        "description": "A simple, delicate, and modern theme",
+        "watch": 68,
+        "star": 2610,
+        "fork": 808
+    },
+    {
+        "name": "icarus-rtl-jalaali",
+        "link": "https://github.com/ghaseminya/hexo-theme-icarus_rtl_jalaali",
+        "description": "Add jalaali calendar and create a rtl layout on icarus theme",
+        "watch": 1,
+        "star": 12,
+        "fork": 808
+    },
+    {
+        "name": "Maupassant",
+        "link": "https://github.com/tufu9441/maupassant-hexo",
+        "description": "A simple theme with great performance on different devices",
+        "watch": 61,
+        "star": 2025,
+        "fork": 623
+    },
+    {
+        "name": "Material",
+        "link": "https://github.com/viosey/hexo-theme-material",
+        "description": "An elegant & Material Design Theme",
+        "watch": 93,
+        "star": 3724,
+        "fork": 571
     },
     {
         "name": "Apollo",
@@ -16,12 +56,12 @@
         "fork": 504
     },
     {
-        "name": "Tranquilpeak",
-        "link": "https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme",
-        "description": "A gorgeous responsive theme",
-        "watch": 55,
-        "star": 1520,
-        "fork": 455
+        "name": "indigo",
+        "link": "https://github.com/yscoder/hexo-theme-indigo",
+        "description": "Material Design theme",
+        "watch": 70,
+        "star": 2304,
+        "fork": 492
     },
     {
         "name": "Cactus",
@@ -38,45 +78,5 @@
         "watch": 1,
         "star": 59,
         "fork": 384
-    },
-    {
-        "name": "Cactus White",
-        "link": "https://github.com/sergodeeva/cactus-white",
-        "description": "A white version of Cactus Dark, responsive, clean and simple theme for a personal webpage",
-        "watch": 0,
-        "star": 40,
-        "fork": 384
-    },
-    {
-        "name": "Bootstrap-Blog",
-        "link": "https://github.com/cgmartin/hexo-theme-bootstrap-blog",
-        "description": "A simple Twitter Bootstrap blog theme",
-        "watch": 9,
-        "star": 99,
-        "fork": 316
-    },
-    {
-        "name": "Even",
-        "link": "https://github.com/ahonn/hexo-theme-even",
-        "description": "A simple theme",
-        "watch": 27,
-        "star": 1067,
-        "fork": 196
-    },
-    {
-        "name": "Archer",
-        "link": "https://github.com/fi3ework/hexo-theme-archer",
-        "description": "A smart and modern theme",
-        "watch": 21,
-        "star": 821,
-        "fork": 182
-    },
-    {
-        "name": "Asnippet",
-        "link": "https://github.com/shenliyang/hexo-theme-snippet",
-        "description": "A simple and interesting theme",
-        "watch": 20,
-        "star": 809,
-        "fork": 179
     }
 ]

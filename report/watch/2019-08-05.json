@@ -1,19 +1,19 @@
 [
     {
-        "name": "NexT",
-        "link": "https://github.com/theme-next/hexo-theme-next",
-        "description": "NexT is an elegant and powerful theme",
-        "watch": 80,
-        "star": 3672,
-        "fork": 1146
+        "name": "indigo",
+        "link": "https://github.com/yscoder/hexo-theme-indigo",
+        "description": "Material Design theme",
+        "watch": 70,
+        "star": 2305,
+        "fork": 491
     },
     {
-        "name": "Maupassant",
-        "link": "https://github.com/tufu9441/maupassant-hexo",
-        "description": "A simple theme with great performance on different devices",
-        "watch": 62,
-        "star": 2026,
-        "fork": 622
+        "name": "Yelee",
+        "link": "https://github.com/MOxFIVE/hexo-theme-yelee",
+        "description": "Another simple and elegant theme by MOxFIVE",
+        "watch": 66,
+        "star": 1314,
+        "fork": 2183
     },
     {
         "name": "Tranquilpeak",

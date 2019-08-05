@@ -1,11 +1,11 @@
 [
     {
-        "name": "Icarus",
-        "link": "https://github.com/ppoffice/hexo-theme-icarus",
-        "description": "A simple, delicate, and modern theme",
-        "watch": 68,
-        "star": 2616,
-        "fork": 808
+        "name": "NexT",
+        "link": "https://github.com/theme-next/hexo-theme-next",
+        "description": "NexT is an elegant and powerful theme",
+        "watch": 80,
+        "star": 3672,
+        "fork": 1146
     },
     {
         "name": "Yelee",
@@ -22,22 +22,6 @@
         "watch": 55,
         "star": 1522,
         "fork": 455
-    },
-    {
-        "name": "Hueman",
-        "link": "https://github.com/ppoffice/hexo-theme-hueman",
-        "description": "A redesign of Alx's wordpress theme Hueman",
-        "watch": 48,
-        "star": 1002,
-        "fork": 320
-    },
-    {
-        "name": "Jacman",
-        "link": "https://github.com/wuchong/jacman",
-        "description": "A fresh looking and responsive theme",
-        "watch": 47,
-        "star": 990,
-        "fork": 377
     },
     {
         "name": "Apollo",
@@ -78,5 +62,21 @@
         "watch": 29,
         "star": 451,
         "fork": 121
+    },
+    {
+        "name": "Even",
+        "link": "https://github.com/ahonn/hexo-theme-even",
+        "description": "A simple theme",
+        "watch": 27,
+        "star": 1069,
+        "fork": 196
+    },
+    {
+        "name": "One",
+        "link": "https://github.com/EYHN/hexo-theme-one",
+        "description": "Material and One page",
+        "watch": 26,
+        "star": 499,
+        "fork": 53
     }
 ]

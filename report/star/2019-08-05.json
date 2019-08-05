@@ -1,11 +1,11 @@
 [
     {
-        "name": "Icarus",
-        "link": "https://github.com/ppoffice/hexo-theme-icarus",
-        "description": "A simple, delicate, and modern theme",
-        "watch": 68,
-        "star": 2616,
-        "fork": 808
+        "name": "NexT",
+        "link": "https://github.com/theme-next/hexo-theme-next",
+        "description": "NexT is an elegant and powerful theme",
+        "watch": 80,
+        "star": 3672,
+        "fork": 1146
     },
     {
         "name": "Apollo",
@@ -48,22 +48,6 @@
         "fork": 196
     },
     {
-        "name": "Hueman",
-        "link": "https://github.com/ppoffice/hexo-theme-hueman",
-        "description": "A redesign of Alx's wordpress theme Hueman",
-        "watch": 48,
-        "star": 1002,
-        "fork": 320
-    },
-    {
-        "name": "Jacman",
-        "link": "https://github.com/wuchong/jacman",
-        "description": "A fresh looking and responsive theme",
-        "watch": 47,
-        "star": 990,
-        "fork": 377
-    },
-    {
         "name": "Archer",
         "link": "https://github.com/fi3ework/hexo-theme-archer",
         "description": "A smart and modern theme",
@@ -78,5 +62,21 @@
         "watch": 20,
         "star": 809,
         "fork": 179
+    },
+    {
+        "name": "Anisina",
+        "link": "https://github.com/haojen/hexo-theme-Anisina",
+        "description": "A support qiniu image cdn , simple responsive theme",
+        "watch": 25,
+        "star": 709,
+        "fork": 157
+    },
+    {
+        "name": "spfk",
+        "link": "https://github.com/luuman/hexo-theme-spfk",
+        "description": "A simple solemn theme",
+        "watch": 35,
+        "star": 662,
+        "fork": 197
     }
 ]

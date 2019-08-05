@@ -1,5 +1,13 @@
 [
     {
+        "name": "Material",
+        "link": "https://github.com/viosey/hexo-theme-material",
+        "description": "An elegant & Material Design Theme",
+        "watch": 93,
+        "star": 3725,
+        "fork": 572
+    },
+    {
         "name": "NexT",
         "link": "https://github.com/theme-next/hexo-theme-next",
         "description": "NexT is an elegant and powerful theme",
@@ -8,12 +16,12 @@
         "fork": 1147
     },
     {
-        "name": "Yelee",
-        "link": "https://github.com/MOxFIVE/hexo-theme-yelee",
-        "description": "Another simple and elegant theme by MOxFIVE",
-        "watch": 66,
-        "star": 1314,
-        "fork": 2183
+        "name": "Maupassant",
+        "link": "https://github.com/tufu9441/maupassant-hexo",
+        "description": "A simple theme with great performance on different devices",
+        "watch": 62,
+        "star": 2026,
+        "fork": 622
     },
     {
         "name": "Apollo",
@@ -40,6 +48,14 @@
         "fork": 197
     },
     {
+        "name": "Matery",
+        "link": "https://github.com/blinkfox/hexo-theme-matery",
+        "description": "A beautiful theme with material design and responsive design",
+        "watch": 30,
+        "star": 759,
+        "fork": 193
+    },
+    {
         "name": "Raytaylorism",
         "link": "https://github.com/raytaylorlin/hexo-theme-raytaylorism",
         "description": "A Material Design theme of with powerful features",
@@ -62,21 +78,5 @@
         "watch": 26,
         "star": 499,
         "fork": 53
-    },
-    {
-        "name": "phase",
-        "link": "https://github.com/hexojs/hexo-theme-phase",
-        "description": "Feel the flow of time with Phase",
-        "watch": 26,
-        "star": 86,
-        "fork": 28
-    },
-    {
-        "name": "Anisina",
-        "link": "https://github.com/haojen/hexo-theme-Anisina",
-        "description": "A support qiniu image cdn , simple responsive theme",
-        "watch": 25,
-        "star": 709,
-        "fork": 157
     }
 ]

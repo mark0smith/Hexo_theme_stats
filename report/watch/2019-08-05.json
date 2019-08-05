@@ -1,59 +1,19 @@
 [
     {
-        "name": "Material",
-        "link": "https://github.com/viosey/hexo-theme-material",
-        "description": "An elegant & Material Design Theme",
-        "watch": 93,
-        "star": 3725,
-        "fork": 572
-    },
-    {
         "name": "NexT",
         "link": "https://github.com/theme-next/hexo-theme-next",
         "description": "NexT is an elegant and powerful theme",
         "watch": 80,
         "star": 3672,
-        "fork": 1146
+        "fork": 1147
     },
     {
-        "name": "Icarus",
-        "link": "https://github.com/ppoffice/hexo-theme-icarus",
-        "description": "A simple, delicate, and modern theme",
-        "watch": 68,
-        "star": 2616,
-        "fork": 808
-    },
-    {
-        "name": "Maupassant",
-        "link": "https://github.com/tufu9441/maupassant-hexo",
-        "description": "A simple theme with great performance on different devices",
-        "watch": 62,
-        "star": 2026,
-        "fork": 622
-    },
-    {
-        "name": "Tranquilpeak",
-        "link": "https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme",
-        "description": "A gorgeous responsive theme",
-        "watch": 55,
-        "star": 1522,
-        "fork": 455
-    },
-    {
-        "name": "Hueman",
-        "link": "https://github.com/ppoffice/hexo-theme-hueman",
-        "description": "A redesign of Alx's wordpress theme Hueman",
-        "watch": 48,
-        "star": 1002,
-        "fork": 320
-    },
-    {
-        "name": "Jacman",
-        "link": "https://github.com/wuchong/jacman",
-        "description": "A fresh looking and responsive theme",
-        "watch": 47,
-        "star": 990,
-        "fork": 377
+        "name": "Yelee",
+        "link": "https://github.com/MOxFIVE/hexo-theme-yelee",
+        "description": "Another simple and elegant theme by MOxFIVE",
+        "watch": 66,
+        "star": 1314,
+        "fork": 2183
     },
     {
         "name": "Apollo",
@@ -78,5 +38,45 @@
         "watch": 35,
         "star": 662,
         "fork": 197
+    },
+    {
+        "name": "Raytaylorism",
+        "link": "https://github.com/raytaylorlin/hexo-theme-raytaylorism",
+        "description": "A Material Design theme of with powerful features",
+        "watch": 29,
+        "star": 451,
+        "fork": 121
+    },
+    {
+        "name": "Even",
+        "link": "https://github.com/ahonn/hexo-theme-even",
+        "description": "A simple theme",
+        "watch": 27,
+        "star": 1069,
+        "fork": 196
+    },
+    {
+        "name": "One",
+        "link": "https://github.com/EYHN/hexo-theme-one",
+        "description": "Material and One page",
+        "watch": 26,
+        "star": 499,
+        "fork": 53
+    },
+    {
+        "name": "phase",
+        "link": "https://github.com/hexojs/hexo-theme-phase",
+        "description": "Feel the flow of time with Phase",
+        "watch": 26,
+        "star": 86,
+        "fork": 28
+    },
+    {
+        "name": "Anisina",
+        "link": "https://github.com/haojen/hexo-theme-Anisina",
+        "description": "A support qiniu image cdn , simple responsive theme",
+        "watch": 25,
+        "star": 709,
+        "fork": 157
     }
 ]

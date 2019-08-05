@@ -1,19 +1,19 @@
 [
     {
-        "name": "indigo",
-        "link": "https://github.com/yscoder/hexo-theme-indigo",
-        "description": "Material Design theme",
-        "watch": 70,
-        "star": 2305,
-        "fork": 491
+        "name": "NexT",
+        "link": "https://github.com/theme-next/hexo-theme-next",
+        "description": "NexT is an elegant and powerful theme",
+        "watch": 80,
+        "star": 3672,
+        "fork": 1147
     },
     {
-        "name": "Yelee",
-        "link": "https://github.com/MOxFIVE/hexo-theme-yelee",
-        "description": "Another simple and elegant theme by MOxFIVE",
-        "watch": 66,
-        "star": 1314,
-        "fork": 2183
+        "name": "Tranquilpeak",
+        "link": "https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme",
+        "description": "A gorgeous responsive theme",
+        "watch": 55,
+        "star": 1522,
+        "fork": 455
     },
     {
         "name": "Apollo",
@@ -32,12 +32,12 @@
         "fork": 384
     },
     {
-        "name": "light",
-        "link": "https://github.com/hexojs/hexo-theme-light",
-        "description": "Default theme",
-        "watch": 30,
-        "star": 287,
-        "fork": 170
+        "name": "Raytaylorism",
+        "link": "https://github.com/raytaylorlin/hexo-theme-raytaylorism",
+        "description": "A Material Design theme of with powerful features",
+        "watch": 29,
+        "star": 451,
+        "fork": 121
     },
     {
         "name": "Even",
@@ -48,12 +48,20 @@
         "fork": 196
     },
     {
-        "name": "landscape",
-        "link": "https://github.com/hexojs/hexo-theme-landscape",
-        "description": "A brand new default theme",
+        "name": "One",
+        "link": "https://github.com/EYHN/hexo-theme-one",
+        "description": "Material and One page",
         "watch": 26,
-        "star": 196,
-        "fork": 316
+        "star": 499,
+        "fork": 53
+    },
+    {
+        "name": "TKL",
+        "link": "https://github.com/SuperKieran/TKL",
+        "description": "A responsive design theme",
+        "watch": 26,
+        "star": 542,
+        "fork": 171
     },
     {
         "name": "Anisina",
@@ -70,13 +78,5 @@
         "watch": 21,
         "star": 822,
         "fork": 182
-    },
-    {
-        "name": "Asnippet",
-        "link": "https://github.com/shenliyang/hexo-theme-snippet",
-        "description": "A simple and interesting theme",
-        "watch": 20,
-        "star": 809,
-        "fork": 179
     }
 ]

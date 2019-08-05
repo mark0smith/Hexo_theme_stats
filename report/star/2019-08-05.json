@@ -1,11 +1,11 @@
 [
     {
-        "name": "indigo",
-        "link": "https://github.com/yscoder/hexo-theme-indigo",
-        "description": "Material Design theme",
-        "watch": 70,
-        "star": 2305,
-        "fork": 491
+        "name": "NexT",
+        "link": "https://github.com/theme-next/hexo-theme-next",
+        "description": "NexT is an elegant and powerful theme",
+        "watch": 80,
+        "star": 3672,
+        "fork": 1147
     },
     {
         "name": "Apollo",
@@ -16,12 +16,12 @@
         "fork": 504
     },
     {
-        "name": "Yelee",
-        "link": "https://github.com/MOxFIVE/hexo-theme-yelee",
-        "description": "Another simple and elegant theme by MOxFIVE",
-        "watch": 66,
-        "star": 1314,
-        "fork": 2183
+        "name": "Tranquilpeak",
+        "link": "https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme",
+        "description": "A gorgeous responsive theme",
+        "watch": 55,
+        "star": 1522,
+        "fork": 455
     },
     {
         "name": "Cactus",
@@ -64,19 +64,19 @@
         "fork": 157
     },
     {
+        "name": "TKL",
+        "link": "https://github.com/SuperKieran/TKL",
+        "description": "A responsive design theme",
+        "watch": 26,
+        "star": 542,
+        "fork": 171
+    },
+    {
         "name": "Diaspora",
         "link": "https://github.com/Fechin/hexo-theme-diaspora",
         "description": "A clean and responsive theme",
         "watch": 4,
         "star": 505,
         "fork": 140
-    },
-    {
-        "name": "Anatole",
-        "link": "https://github.com/Ben02/hexo-theme-Anatole",
-        "description": "A white and simple theme, originated from a Farbox theme",
-        "watch": 16,
-        "star": 492,
-        "fork": 108
     }
 ]

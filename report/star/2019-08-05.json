@@ -16,14 +16,6 @@
         "fork": 1146
     },
     {
-        "name": "indigo",
-        "link": "https://github.com/yscoder/hexo-theme-indigo",
-        "description": "Material Design theme",
-        "watch": 70,
-        "star": 2305,
-        "fork": 491
-    },
-    {
         "name": "Maupassant",
         "link": "https://github.com/tufu9441/maupassant-hexo",
         "description": "A simple theme with great performance on different devices",
@@ -78,5 +70,13 @@
         "watch": 16,
         "star": 760,
         "fork": 115
+    },
+    {
+        "name": "Matery",
+        "link": "https://github.com/blinkfox/hexo-theme-matery",
+        "description": "A beautiful theme with material design and responsive design",
+        "watch": 30,
+        "star": 759,
+        "fork": 193
     }
 ]

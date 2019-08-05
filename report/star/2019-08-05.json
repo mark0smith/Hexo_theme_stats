@@ -1,5 +1,13 @@
 [
     {
+        "name": "NexT",
+        "link": "https://github.com/theme-next/hexo-theme-next",
+        "description": "NexT is an elegant and powerful theme",
+        "watch": 80,
+        "star": 3672,
+        "fork": 1147
+    },
+    {
         "name": "indigo",
         "link": "https://github.com/yscoder/hexo-theme-indigo",
         "description": "Material Design theme",
@@ -22,14 +30,6 @@
         "watch": 55,
         "star": 1522,
         "fork": 455
-    },
-    {
-        "name": "Yelee",
-        "link": "https://github.com/MOxFIVE/hexo-theme-yelee",
-        "description": "Another simple and elegant theme by MOxFIVE",
-        "watch": 66,
-        "star": 1314,
-        "fork": 2183
     },
     {
         "name": "Cactus",
@@ -64,19 +64,19 @@
         "fork": 179
     },
     {
+        "name": "Melody",
+        "link": "https://github.com/Molunerfinn/hexo-theme-melody",
+        "description": "A simple & beautiful & fast theme",
+        "watch": 16,
+        "star": 760,
+        "fork": 115
+    },
+    {
         "name": "Anisina",
         "link": "https://github.com/haojen/hexo-theme-Anisina",
         "description": "A support qiniu image cdn , simple responsive theme",
         "watch": 25,
         "star": 709,
         "fork": 157
-    },
-    {
-        "name": "TKL",
-        "link": "https://github.com/SuperKieran/TKL",
-        "description": "A responsive design theme",
-        "watch": 26,
-        "star": 542,
-        "fork": 171
     }
 ]

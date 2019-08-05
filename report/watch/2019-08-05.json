@@ -1,19 +1,19 @@
 [
     {
+        "name": "NexT",
+        "link": "https://github.com/theme-next/hexo-theme-next",
+        "description": "NexT is an elegant and powerful theme",
+        "watch": 80,
+        "star": 3672,
+        "fork": 1147
+    },
+    {
         "name": "indigo",
         "link": "https://github.com/yscoder/hexo-theme-indigo",
         "description": "Material Design theme",
         "watch": 70,
         "star": 2305,
         "fork": 491
-    },
-    {
-        "name": "Yelee",
-        "link": "https://github.com/MOxFIVE/hexo-theme-yelee",
-        "description": "Another simple and elegant theme by MOxFIVE",
-        "watch": 66,
-        "star": 1314,
-        "fork": 2183
     },
     {
         "name": "Tranquilpeak",
@@ -40,6 +40,22 @@
         "fork": 384
     },
     {
+        "name": "spfk",
+        "link": "https://github.com/luuman/hexo-theme-spfk",
+        "description": "A simple solemn theme",
+        "watch": 35,
+        "star": 662,
+        "fork": 197
+    },
+    {
+        "name": "light",
+        "link": "https://github.com/hexojs/hexo-theme-light",
+        "description": "Default theme",
+        "watch": 30,
+        "star": 287,
+        "fork": 170
+    },
+    {
         "name": "Raytaylorism",
         "link": "https://github.com/raytaylorlin/hexo-theme-raytaylorism",
         "description": "A Material Design theme of with powerful features",
@@ -56,27 +72,11 @@
         "fork": 196
     },
     {
-        "name": "TKL",
-        "link": "https://github.com/SuperKieran/TKL",
-        "description": "A responsive design theme",
+        "name": "One",
+        "link": "https://github.com/EYHN/hexo-theme-one",
+        "description": "Material and One page",
         "watch": 26,
-        "star": 542,
-        "fork": 171
-    },
-    {
-        "name": "landscape",
-        "link": "https://github.com/hexojs/hexo-theme-landscape",
-        "description": "A brand new default theme",
-        "watch": 26,
-        "star": 196,
-        "fork": 316
-    },
-    {
-        "name": "Anisina",
-        "link": "https://github.com/haojen/hexo-theme-Anisina",
-        "description": "A support qiniu image cdn , simple responsive theme",
-        "watch": 25,
-        "star": 709,
-        "fork": 157
+        "star": 499,
+        "fork": 53
     }
 ]

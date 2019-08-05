@@ -8,20 +8,20 @@
         "fork": 1146
     },
     {
-        "name": "indigo",
-        "link": "https://github.com/yscoder/hexo-theme-indigo",
-        "description": "Material Design theme",
-        "watch": 70,
-        "star": 2305,
-        "fork": 491
+        "name": "Maupassant",
+        "link": "https://github.com/tufu9441/maupassant-hexo",
+        "description": "A simple theme with great performance on different devices",
+        "watch": 62,
+        "star": 2026,
+        "fork": 622
     },
     {
-        "name": "Yelee",
-        "link": "https://github.com/MOxFIVE/hexo-theme-yelee",
-        "description": "Another simple and elegant theme by MOxFIVE",
-        "watch": 66,
-        "star": 1314,
-        "fork": 2183
+        "name": "Tranquilpeak",
+        "link": "https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme",
+        "description": "A gorgeous responsive theme",
+        "watch": 55,
+        "star": 1522,
+        "fork": 455
     },
     {
         "name": "Apollo",
@@ -38,6 +38,14 @@
         "watch": 35,
         "star": 1254,
         "fork": 384
+    },
+    {
+        "name": "spfk",
+        "link": "https://github.com/luuman/hexo-theme-spfk",
+        "description": "A simple solemn theme",
+        "watch": 35,
+        "star": 662,
+        "fork": 197
     },
     {
         "name": "light",
@@ -70,13 +78,5 @@
         "watch": 26,
         "star": 499,
         "fork": 53
-    },
-    {
-        "name": "landscape",
-        "link": "https://github.com/hexojs/hexo-theme-landscape",
-        "description": "A brand new default theme",
-        "watch": 26,
-        "star": 196,
-        "fork": 316
     }
 ]

@@ -1,13 +1,5 @@
 [
     {
-        "name": "Yelee",
-        "link": "https://github.com/MOxFIVE/hexo-theme-yelee",
-        "description": "Another simple and elegant theme by MOxFIVE",
-        "watch": 66,
-        "star": 1314,
-        "fork": 2183
-    },
-    {
         "name": "NexT",
         "link": "https://github.com/theme-next/hexo-theme-next",
         "description": "NexT is an elegant and powerful theme",
@@ -16,12 +8,12 @@
         "fork": 1146
     },
     {
-        "name": "icarus-rtl-jalaali",
-        "link": "https://github.com/ghaseminya/hexo-theme-icarus_rtl_jalaali",
-        "description": "Add jalaali calendar and create a rtl layout on icarus theme",
-        "watch": 1,
-        "star": 12,
-        "fork": 808
+        "name": "Maupassant",
+        "link": "https://github.com/tufu9441/maupassant-hexo",
+        "description": "A simple theme with great performance on different devices",
+        "watch": 62,
+        "star": 2026,
+        "fork": 622
     },
     {
         "name": "Apollo",
@@ -32,12 +24,12 @@
         "fork": 504
     },
     {
-        "name": "indigo",
-        "link": "https://github.com/yscoder/hexo-theme-indigo",
-        "description": "Material Design theme",
-        "watch": 70,
-        "star": 2305,
-        "fork": 491
+        "name": "Tranquilpeak",
+        "link": "https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme",
+        "description": "A gorgeous responsive theme",
+        "watch": 55,
+        "star": 1522,
+        "fork": 455
     },
     {
         "name": "Cactus",
@@ -78,5 +70,13 @@
         "watch": 26,
         "star": 196,
         "fork": 316
+    },
+    {
+        "name": "spfk",
+        "link": "https://github.com/luuman/hexo-theme-spfk",
+        "description": "A simple solemn theme",
+        "watch": 35,
+        "star": 662,
+        "fork": 197
     }
 ]

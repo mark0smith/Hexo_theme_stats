@@ -1,19 +1,11 @@
 [
     {
-        "name": "Material",
-        "link": "https://github.com/viosey/hexo-theme-material",
-        "description": "An elegant & Material Design Theme",
-        "watch": 93,
-        "star": 3725,
-        "fork": 572
-    },
-    {
-        "name": "NexT",
-        "link": "https://github.com/theme-next/hexo-theme-next",
-        "description": "NexT is an elegant and powerful theme",
-        "watch": 80,
-        "star": 3672,
-        "fork": 1147
+        "name": "indigo",
+        "link": "https://github.com/yscoder/hexo-theme-indigo",
+        "description": "Material Design theme",
+        "watch": 70,
+        "star": 2305,
+        "fork": 491
     },
     {
         "name": "Yelee",
@@ -24,12 +16,12 @@
         "fork": 2183
     },
     {
-        "name": "Maupassant",
-        "link": "https://github.com/tufu9441/maupassant-hexo",
-        "description": "A simple theme with great performance on different devices",
-        "watch": 62,
-        "star": 2026,
-        "fork": 622
+        "name": "Tranquilpeak",
+        "link": "https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme",
+        "description": "A gorgeous responsive theme",
+        "watch": 55,
+        "star": 1522,
+        "fork": 455
     },
     {
         "name": "Apollo",
@@ -48,22 +40,6 @@
         "fork": 384
     },
     {
-        "name": "spfk",
-        "link": "https://github.com/luuman/hexo-theme-spfk",
-        "description": "A simple solemn theme",
-        "watch": 35,
-        "star": 662,
-        "fork": 197
-    },
-    {
-        "name": "Matery",
-        "link": "https://github.com/blinkfox/hexo-theme-matery",
-        "description": "A beautiful theme with material design and responsive design",
-        "watch": 30,
-        "star": 759,
-        "fork": 193
-    },
-    {
         "name": "Raytaylorism",
         "link": "https://github.com/raytaylorlin/hexo-theme-raytaylorism",
         "description": "A Material Design theme of with powerful features",
@@ -78,5 +54,29 @@
         "watch": 27,
         "star": 1069,
         "fork": 196
+    },
+    {
+        "name": "TKL",
+        "link": "https://github.com/SuperKieran/TKL",
+        "description": "A responsive design theme",
+        "watch": 26,
+        "star": 542,
+        "fork": 171
+    },
+    {
+        "name": "landscape",
+        "link": "https://github.com/hexojs/hexo-theme-landscape",
+        "description": "A brand new default theme",
+        "watch": 26,
+        "star": 196,
+        "fork": 316
+    },
+    {
+        "name": "Anisina",
+        "link": "https://github.com/haojen/hexo-theme-Anisina",
+        "description": "A support qiniu image cdn , simple responsive theme",
+        "watch": 25,
+        "star": 709,
+        "fork": 157
     }
 ]

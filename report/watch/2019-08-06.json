@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Icarus",
+        "link": "https://github.com/ppoffice/hexo-theme-icarus",
+        "description": "A simple, delicate, and modern theme",
+        "watch": 68,
+        "star": 2623,
+        "fork": 810
+    },
+    {
+        "name": "Tranquilpeak",
+        "link": "https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme",
+        "description": "A gorgeous responsive theme",
+        "watch": 55,
+        "star": 1521,
+        "fork": 455
+    },
+    {
+        "name": "Hueman",
+        "link": "https://github.com/ppoffice/hexo-theme-hueman",
+        "description": "A redesign of Alx's wordpress theme Hueman",
+        "watch": 48,
+        "star": 1002,
+        "fork": 321
+    },
+    {
+        "name": "Apollo",
+        "link": "https://github.com/pinggod/hexo-theme-apollo",
+        "description": "A theme inspired by http://cn.vuejs.org/",
+        "watch": 45,
+        "star": 1671,
+        "fork": 504
+    },
+    {
+        "name": "spfk",
+        "link": "https://github.com/luuman/hexo-theme-spfk",
+        "description": "A simple solemn theme",
+        "watch": 35,
+        "star": 662,
+        "fork": 197
+    },
+    {
+        "name": "Raytaylorism",
+        "link": "https://github.com/raytaylorlin/hexo-theme-raytaylorism",
+        "description": "A Material Design theme of with powerful features",
+        "watch": 29,
+        "star": 451,
+        "fork": 121
+    },
+    {
+        "name": "Even",
+        "link": "https://github.com/ahonn/hexo-theme-even",
+        "description": "A simple theme",
+        "watch": 27,
+        "star": 1069,
+        "fork": 196
+    },
+    {
+        "name": "Hacker",
+        "link": "https://github.com/CodeDaraW/Hacker",
+        "description": "A simple theme inspired by Wordpress theme Hacker",
+        "watch": 26,
+        "star": 410,
+        "fork": 110
+    },
+    {
+        "name": "TKL",
+        "link": "https://github.com/SuperKieran/TKL",
+        "description": "A responsive design theme",
+        "watch": 26,
+        "star": 542,
+        "fork": 171
+    },
+    {
+        "name": "phase",
+        "link": "https://github.com/hexojs/hexo-theme-phase",
+        "description": "Feel the flow of time with Phase",
+        "watch": 26,
+        "star": 86,
+        "fork": 28
+    }
+]

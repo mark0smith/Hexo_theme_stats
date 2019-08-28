@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Material",
+        "link": "https://github.com/viosey/hexo-theme-material",
+        "description": "An elegant & Material Design Theme",
+        "watch": 93,
+        "star": 3738,
+        "fork": 570
+    },
+    {
+        "name": "NexT",
+        "link": "https://github.com/theme-next/hexo-theme-next",
+        "description": "NexT is an elegant and powerful theme",
+        "watch": 83,
+        "star": 3854,
+        "fork": 1208
+    },
+    {
+        "name": "Icarus",
+        "link": "https://github.com/ppoffice/hexo-theme-icarus",
+        "description": "A simple, delicate, and modern theme",
+        "watch": 70,
+        "star": 2710,
+        "fork": 838
+    },
+    {
+        "name": "indigo",
+        "link": "https://github.com/yscoder/hexo-theme-indigo",
+        "description": "Material Design theme",
+        "watch": 70,
+        "star": 2338,
+        "fork": 494
+    },
+    {
+        "name": "Yelee",
+        "link": "https://github.com/MOxFIVE/hexo-theme-yelee",
+        "description": "Another simple and elegant theme by MOxFIVE",
+        "watch": 68,
+        "star": 1321,
+        "fork": 2209
+    },
+    {
+        "name": "Maupassant",
+        "link": "https://github.com/tufu9441/maupassant-hexo",
+        "description": "A simple theme with great performance on different devices",
+        "watch": 61,
+        "star": 2038,
+        "fork": 623
+    },
+    {
+        "name": "Tranquilpeak",
+        "link": "https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme",
+        "description": "A gorgeous responsive theme",
+        "watch": 56,
+        "star": 1532,
+        "fork": 456
+    },
+    {
+        "name": "Hueman",
+        "link": "https://github.com/ppoffice/hexo-theme-hueman",
+        "description": "A redesign of Alx's wordpress theme Hueman",
+        "watch": 47,
+        "star": 1010,
+        "fork": 324
+    },
+    {
+        "name": "Jacman",
+        "link": "https://github.com/wuchong/jacman",
+        "description": "A fresh looking and responsive theme",
+        "watch": 47,
+        "star": 995,
+        "fork": 375
+    },
+    {
+        "name": "Apollo",
+        "link": "https://github.com/pinggod/hexo-theme-apollo",
+        "description": "A theme inspired by http://cn.vuejs.org/",
+        "watch": 45,
+        "star": 1684,
+        "fork": 513
+    }
+]

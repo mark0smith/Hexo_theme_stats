@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Yelee",
+        "link": "https://github.com/MOxFIVE/hexo-theme-yelee",
+        "description": "Another simple and elegant theme by MOxFIVE",
+        "watch": 67,
+        "star": 1329,
+        "fork": 2217
+    },
+    {
+        "name": "NexT",
+        "link": "https://github.com/theme-next/hexo-theme-next",
+        "description": "NexT is an elegant and powerful theme",
+        "watch": 82,
+        "star": 3947,
+        "fork": 1237
+    },
+    {
+        "name": "Icarus",
+        "link": "https://github.com/ppoffice/hexo-theme-icarus",
+        "description": "A simple, delicate, and modern theme",
+        "watch": 71,
+        "star": 2775,
+        "fork": 858
+    },
+    {
+        "name": "icarus-rtl-jalaali",
+        "link": "https://github.com/ghaseminya/hexo-theme-icarus_rtl_jalaali",
+        "description": "Add jalaali calendar and create a rtl layout on icarus theme",
+        "watch": 1,
+        "star": 12,
+        "fork": 858
+    },
+    {
+        "name": "Maupassant",
+        "link": "https://github.com/tufu9441/maupassant-hexo",
+        "description": "A simple theme with great performance on different devices",
+        "watch": 62,
+        "star": 2054,
+        "fork": 624
+    },
+    {
+        "name": "Material",
+        "link": "https://github.com/viosey/hexo-theme-material",
+        "description": "An elegant & Material Design Theme",
+        "watch": 92,
+        "star": 3753,
+        "fork": 570
+    },
+    {
+        "name": "Apollo",
+        "link": "https://github.com/pinggod/hexo-theme-apollo",
+        "description": "A theme inspired by http://cn.vuejs.org/",
+        "watch": 45,
+        "star": 1687,
+        "fork": 514
+    },
+    {
+        "name": "indigo",
+        "link": "https://github.com/yscoder/hexo-theme-indigo",
+        "description": "Material Design theme",
+        "watch": 71,
+        "star": 2353,
+        "fork": 504
+    },
+    {
+        "name": "Tranquilpeak",
+        "link": "https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme",
+        "description": "A gorgeous responsive theme",
+        "watch": 56,
+        "star": 1533,
+        "fork": 457
+    },
+    {
+        "name": "Cactus",
+        "link": "https://github.com/probberechts/hexo-theme-cactus",
+        "description": "A responsive, clean and simple theme for a personal webpage",
+        "watch": 32,
+        "star": 1304,
+        "fork": 401
+    }
+]

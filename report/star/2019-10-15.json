@@ -16,6 +16,14 @@
         "fork": 573
     },
     {
+        "name": "Icarus",
+        "link": "https://github.com/ppoffice/hexo-theme-icarus",
+        "description": "A simple, delicate, and modern theme",
+        "watch": 73,
+        "star": 2894,
+        "fork": 887
+    },
+    {
         "name": "indigo",
         "link": "https://github.com/yscoder/hexo-theme-indigo",
         "description": "Material Design theme",
@@ -70,13 +78,5 @@
         "watch": 27,
         "star": 1089,
         "fork": 194
-    },
-    {
-        "name": "Matery",
-        "link": "https://github.com/blinkfox/hexo-theme-matery",
-        "description": "A beautiful theme with material design and responsive design",
-        "watch": 37,
-        "star": 1080,
-        "fork": 271
     }
 ]

@@ -56,14 +56,6 @@
         "fork": 176
     },
     {
-        "name": "Anatole",
-        "link": "https://github.com/Ben02/hexo-theme-Anatole",
-        "description": "A white and simple theme, originated from a Farbox theme",
-        "watch": 16,
-        "star": 510,
-        "fork": 116
-    },
-    {
         "name": "One",
         "link": "https://github.com/EYHN/hexo-theme-one",
         "description": "Material and One page",
@@ -72,11 +64,19 @@
         "fork": 57
     },
     {
-        "name": "Minos",
-        "link": "https://github.com/ppoffice/hexo-theme-minos",
-        "description": "A simple and retro styled theme, concentrated more on your ideas",
-        "watch": 21,
-        "star": 495,
-        "fork": 166
+        "name": "pure",
+        "link": "https://github.com/cofess/hexo-theme-pure",
+        "description": "Theme pure. It's a pure theme",
+        "watch": 18,
+        "star": 472,
+        "fork": 141
+    },
+    {
+        "name": "Raytaylorism",
+        "link": "https://github.com/raytaylorlin/hexo-theme-raytaylorism",
+        "description": "A Material Design theme of with powerful features",
+        "watch": 28,
+        "star": 455,
+        "fork": 123
     }
 ]

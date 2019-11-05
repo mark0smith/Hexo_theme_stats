@@ -32,14 +32,6 @@
         "fork": 520
     },
     {
-        "name": "Yelee",
-        "link": "https://github.com/MOxFIVE/hexo-theme-yelee",
-        "description": "Another simple and elegant theme by MOxFIVE",
-        "watch": 67,
-        "star": 13,
-        "fork": 23
-    },
-    {
         "name": "Maupassant",
         "link": "https://github.com/tufu9441/maupassant-hexo",
         "description": "A simple theme with great performance on different devices",
@@ -78,5 +70,13 @@
         "watch": 45,
         "star": 17,
         "fork": 524
+    },
+    {
+        "name": "Matery",
+        "link": "https://github.com/blinkfox/hexo-theme-matery",
+        "description": "A beautiful theme with material design and responsive design",
+        "watch": 38,
+        "star": 12,
+        "fork": 298
     }
 ]

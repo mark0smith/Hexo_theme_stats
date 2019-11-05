@@ -32,6 +32,14 @@
         "fork": 520
     },
     {
+        "name": "Yelee",
+        "link": "https://github.com/MOxFIVE/hexo-theme-yelee",
+        "description": "Another simple and elegant theme by MOxFIVE",
+        "watch": 67,
+        "star": 13,
+        "fork": 23
+    },
+    {
         "name": "Maupassant",
         "link": "https://github.com/tufu9441/maupassant-hexo",
         "description": "A simple theme with great performance on different devices",
@@ -40,28 +48,12 @@
         "fork": 638
     },
     {
-        "name": "Tranquilpeak",
-        "link": "https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme",
-        "description": "A gorgeous responsive theme",
-        "watch": 56,
-        "star": 16,
-        "fork": 460
-    },
-    {
         "name": "Jacman",
         "link": "https://github.com/wuchong/jacman",
         "description": "A fresh looking and responsive theme",
         "watch": 48,
         "star": 1,
         "fork": 372
-    },
-    {
-        "name": "Hueman",
-        "link": "https://github.com/ppoffice/hexo-theme-hueman",
-        "description": "A redesign of Alx's wordpress theme Hueman",
-        "watch": 46,
-        "star": 1,
-        "fork": 333
     },
     {
         "name": "Apollo",
@@ -78,5 +70,13 @@
         "watch": 38,
         "star": 12,
         "fork": 298
+    },
+    {
+        "name": "Cactus",
+        "link": "https://github.com/probberechts/hexo-theme-cactus",
+        "description": "A responsive, clean and simple theme for a personal webpage",
+        "watch": 30,
+        "star": 14,
+        "fork": 433
     }
 ]

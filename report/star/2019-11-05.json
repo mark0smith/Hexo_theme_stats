@@ -32,14 +32,6 @@
         "fork": 155
     },
     {
-        "name": "Diaspora",
-        "link": "https://github.com/Fechin/hexo-theme-diaspora",
-        "description": "A clean and responsive theme",
-        "watch": 7,
-        "star": 629,
-        "fork": 161
-    },
-    {
         "name": "Huxblog",
         "link": "https://github.com/Kaijun/hexo-theme-huxblog",
         "description": "A lean and elegant Theme with optimized SEO (Ported)",
@@ -54,6 +46,14 @@
         "watch": 26,
         "star": 544,
         "fork": 176
+    },
+    {
+        "name": "Anatole",
+        "link": "https://github.com/Ben02/hexo-theme-Anatole",
+        "description": "A white and simple theme, originated from a Farbox theme",
+        "watch": 16,
+        "star": 510,
+        "fork": 116
     },
     {
         "name": "One",

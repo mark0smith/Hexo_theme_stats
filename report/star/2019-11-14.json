@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Archer",
+        "link": "https://github.com/fi3ework/hexo-theme-archer",
+        "description": "A smart and modern theme",
+        "watch": 21,
+        "star": 924,
+        "fork": 195
+    },
+    {
+        "name": "Melody",
+        "link": "https://github.com/Molunerfinn/hexo-theme-melody",
+        "description": "A simple & beautiful & fast theme",
+        "watch": 18,
+        "star": 894,
+        "fork": 133
+    },
+    {
+        "name": "Asnippet",
+        "link": "https://github.com/shenliyang/hexo-theme-snippet",
+        "description": "A simple and interesting theme",
+        "watch": 21,
+        "star": 886,
+        "fork": 194
+    },
+    {
+        "name": "Anisina",
+        "link": "https://github.com/haojen/hexo-theme-Anisina",
+        "description": "A support qiniu image cdn , simple responsive theme",
+        "watch": 25,
+        "star": 711,
+        "fork": 155
+    },
+    {
+        "name": "Diaspora",
+        "link": "https://github.com/Fechin/hexo-theme-diaspora",
+        "description": "A clean and responsive theme",
+        "watch": 7,
+        "star": 641,
+        "fork": 166
+    },
+    {
+        "name": "Huxblog",
+        "link": "https://github.com/Kaijun/hexo-theme-huxblog",
+        "description": "A lean and elegant Theme with optimized SEO (Ported)",
+        "watch": 21,
+        "star": 580,
+        "fork": 118
+    },
+    {
+        "name": "TKL",
+        "link": "https://github.com/SuperKieran/TKL",
+        "description": "A responsive design theme",
+        "watch": 26,
+        "star": 544,
+        "fork": 175
+    },
+    {
+        "name": "Anatole",
+        "link": "https://github.com/Ben02/hexo-theme-Anatole",
+        "description": "A white and simple theme, originated from a Farbox theme",
+        "watch": 16,
+        "star": 513,
+        "fork": 115
+    },
+    {
+        "name": "One",
+        "link": "https://github.com/EYHN/hexo-theme-one",
+        "description": "Material and One page",
+        "watch": 25,
+        "star": 510,
+        "fork": 57
+    },
+    {
+        "name": "Minos",
+        "link": "https://github.com/ppoffice/hexo-theme-minos",
+        "description": "A simple and retro styled theme, concentrated more on your ideas",
+        "watch": 20,
+        "star": 502,
+        "fork": 168
+    }
+]

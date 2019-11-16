@@ -9,7 +9,7 @@ script:
 after_success:
   - git checkout master
   - git remote rm origin
-  - git remote add origin https://mark0smith:$TOKEN@github.com/mark0smith/Hexo_theme_stats.git
+  - git remote add origin https://$USER:$TOKEN@github.com/$USER/Hexo_theme_stats.git
   - git add --all -v
   - git config --global user.email "you@example.com"
   - git config --global user.name "mark0smith"

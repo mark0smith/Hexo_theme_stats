@@ -53,7 +53,7 @@
         "description": "Material Design theme",
         "watch": 72,
         "star": 24,
-        "fork": 522
+        "fork": 523
     },
     {
         "name": "Tranquilpeak",
@@ -72,11 +72,11 @@
         "fork": 440
     },
     {
-        "name": "Cactus White",
-        "link": "https://github.com/sergodeeva/cactus-white",
-        "description": "A white version of Cactus Dark, responsive, clean and simple theme for a personal webpage",
-        "watch": 0,
-        "star": 46,
+        "name": "Cactus Light",
+        "link": "https://github.com/gabithume/cactus-light",
+        "description": "The light version of Cactus Dark, a responsive, light and simple theme for a personal webpage",
+        "watch": 2,
+        "star": 64,
         "fork": 440
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "name": "Archer",
+        "link": "https://github.com/fi3ework/hexo-theme-archer",
+        "description": "A smart and modern theme",
+        "watch": 21,
+        "star": 927,
+        "fork": 195
+    },
+    {
         "name": "Melody",
         "link": "https://github.com/Molunerfinn/hexo-theme-melody",
         "description": "A simple & beautiful & fast theme",
@@ -22,6 +30,14 @@
         "watch": 25,
         "star": 710,
         "fork": 156
+    },
+    {
+        "name": "Diaspora",
+        "link": "https://github.com/Fechin/hexo-theme-diaspora",
+        "description": "A clean and responsive theme",
+        "watch": 7,
+        "star": 649,
+        "fork": 168
     },
     {
         "name": "Huxblog",
@@ -62,21 +78,5 @@
         "watch": 20,
         "star": 506,
         "fork": 169
-    },
-    {
-        "name": "pure",
-        "link": "https://github.com/cofess/hexo-theme-pure",
-        "description": "Theme pure. It's a pure theme",
-        "watch": 18,
-        "star": 482,
-        "fork": 146
-    },
-    {
-        "name": "Vexo",
-        "link": "https://github.com/yanm1ng/hexo-theme-vexo",
-        "description": "Vexo is a theme inspired by Vue's official website",
-        "watch": 12,
-        "star": 467,
-        "fork": 106
     }
 ]

@@ -64,19 +64,19 @@
         "fork": 372
     },
     {
+        "name": "Hueman",
+        "link": "https://github.com/ppoffice/hexo-theme-hueman",
+        "description": "A redesign of Alx's wordpress theme Hueman",
+        "watch": 46,
+        "star": 1,
+        "fork": 335
+    },
+    {
         "name": "Apollo",
         "link": "https://github.com/pinggod/hexo-theme-apollo",
         "description": "A theme inspired by http://cn.vuejs.org/",
         "watch": 45,
         "star": 17,
         "fork": 522
-    },
-    {
-        "name": "Matery",
-        "link": "https://github.com/blinkfox/hexo-theme-matery",
-        "description": "A beautiful theme with material design and responsive design",
-        "watch": 39,
-        "star": 13,
-        "fork": 317
     }
 ]

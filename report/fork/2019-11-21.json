@@ -72,11 +72,11 @@
         "fork": 443
     },
     {
-        "name": "Jacman",
-        "link": "https://github.com/wuchong/jacman",
-        "description": "A fresh looking and responsive theme",
-        "watch": 48,
-        "star": 1,
-        "fork": 372
+        "name": "Cactus White",
+        "link": "https://github.com/sergodeeva/cactus-white",
+        "description": "A white version of Cactus Dark, responsive, clean and simple theme for a personal webpage",
+        "watch": 0,
+        "star": 47,
+        "fork": 443
     }
 ]

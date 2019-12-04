@@ -8,14 +8,6 @@
         "fork": 935
     },
     {
-        "name": "icarus-rtl-jalaali",
-        "link": "https://github.com/ghaseminya/hexo-theme-icarus_rtl_jalaali",
-        "description": "Add jalaali calendar and create a rtl layout on icarus theme",
-        "watch": 1,
-        "star": 13,
-        "fork": 935
-    },
-    {
         "name": "Maupassant",
         "link": "https://github.com/tufu9441/maupassant-hexo",
         "description": "A simple theme with great performance on different devices",
@@ -72,11 +64,19 @@
         "fork": 452
     },
     {
-        "name": "Cactus Light",
-        "link": "https://github.com/gabithume/cactus-light",
-        "description": "The light version of Cactus Dark, a responsive, light and simple theme for a personal webpage",
-        "watch": 2,
-        "star": 65,
+        "name": "Cactus White",
+        "link": "https://github.com/sergodeeva/cactus-white",
+        "description": "A white version of Cactus Dark, responsive, clean and simple theme for a personal webpage",
+        "watch": 0,
+        "star": 47,
         "fork": 452
+    },
+    {
+        "name": "Jacman",
+        "link": "https://github.com/wuchong/jacman",
+        "description": "A fresh looking and responsive theme",
+        "watch": 48,
+        "star": 1,
+        "fork": 372
     }
 ]

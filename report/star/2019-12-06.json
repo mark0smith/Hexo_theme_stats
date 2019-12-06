@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Archer",
+        "link": "https://github.com/fi3ework/hexo-theme-archer",
+        "description": "A smart and modern theme",
+        "watch": 21,
+        "star": 937,
+        "fork": 201
+    },
+    {
+        "name": "Melody",
+        "link": "https://github.com/Molunerfinn/hexo-theme-melody",
+        "description": "A simple & beautiful & fast theme",
+        "watch": 20,
+        "star": 927,
+        "fork": 140
+    },
+    {
+        "name": "Asnippet",
+        "link": "https://github.com/shenliyang/hexo-theme-snippet",
+        "description": "A simple and interesting theme",
+        "watch": 21,
+        "star": 899,
+        "fork": 196
+    },
+    {
+        "name": "Anisina",
+        "link": "https://github.com/haojen/hexo-theme-Anisina",
+        "description": "A support qiniu image cdn , simple responsive theme",
+        "watch": 25,
+        "star": 714,
+        "fork": 157
+    },
+    {
+        "name": "Diaspora",
+        "link": "https://github.com/Fechin/hexo-theme-diaspora",
+        "description": "A clean and responsive theme",
+        "watch": 7,
+        "star": 661,
+        "fork": 174
+    },
+    {
+        "name": "Huxblog",
+        "link": "https://github.com/Kaijun/hexo-theme-huxblog",
+        "description": "A lean and elegant Theme with optimized SEO (Ported)",
+        "watch": 21,
+        "star": 586,
+        "fork": 120
+    },
+    {
+        "name": "TKL",
+        "link": "https://github.com/SuperKieran/TKL",
+        "description": "A responsive design theme",
+        "watch": 27,
+        "star": 547,
+        "fork": 176
+    },
+    {
+        "name": "Anatole",
+        "link": "https://github.com/Ben02/hexo-theme-Anatole",
+        "description": "A white and simple theme, originated from a Farbox theme",
+        "watch": 16,
+        "star": 513,
+        "fork": 115
+    },
+    {
+        "name": "Minos",
+        "link": "https://github.com/ppoffice/hexo-theme-minos",
+        "description": "A simple and retro styled theme, concentrated more on your ideas",
+        "watch": 20,
+        "star": 513,
+        "fork": 169
+    },
+    {
+        "name": "One",
+        "link": "https://github.com/EYHN/hexo-theme-one",
+        "description": "Material and One page",
+        "watch": 25,
+        "star": 510,
+        "fork": 58
+    }
+]

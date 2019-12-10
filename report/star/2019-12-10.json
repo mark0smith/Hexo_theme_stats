@@ -1,5 +1,21 @@
 [
     {
+        "name": "Archer",
+        "link": "https://github.com/fi3ework/hexo-theme-archer",
+        "description": "A smart and modern theme",
+        "watch": 21,
+        "star": 939,
+        "fork": 201
+    },
+    {
+        "name": "Melody",
+        "link": "https://github.com/Molunerfinn/hexo-theme-melody",
+        "description": "A simple & beautiful & fast theme",
+        "watch": 20,
+        "star": 931,
+        "fork": 140
+    },
+    {
         "name": "Asnippet",
         "link": "https://github.com/shenliyang/hexo-theme-snippet",
         "description": "A simple and interesting theme",
@@ -56,27 +72,11 @@
         "fork": 169
     },
     {
-        "name": "pure",
-        "link": "https://github.com/cofess/hexo-theme-pure",
-        "description": "Theme pure. It's a pure theme",
-        "watch": 18,
-        "star": 503,
-        "fork": 149
-    },
-    {
-        "name": "Vexo",
-        "link": "https://github.com/yanm1ng/hexo-theme-vexo",
-        "description": "Vexo is a theme inspired by Vue's official website",
-        "watch": 12,
-        "star": 469,
-        "fork": 106
-    },
-    {
-        "name": "Skapp",
-        "link": "https://github.com/Mrminfive/hexo-theme-skapp",
-        "description": "A simple & beautiful & fast theme",
-        "watch": 16,
-        "star": 432,
-        "fork": 115
+        "name": "One",
+        "link": "https://github.com/EYHN/hexo-theme-one",
+        "description": "Material and One page",
+        "watch": 25,
+        "star": 510,
+        "fork": 58
     }
 ]

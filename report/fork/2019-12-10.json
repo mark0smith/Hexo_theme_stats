@@ -1,5 +1,13 @@
 [
     {
+        "name": "Icarus",
+        "link": "https://github.com/ppoffice/hexo-theme-icarus",
+        "description": "A simple, delicate, and modern theme",
+        "watch": 70,
+        "star": 31,
+        "fork": 945
+    },
+    {
         "name": "icarus-rtl-jalaali",
         "link": "https://github.com/ghaseminya/hexo-theme-icarus_rtl_jalaali",
         "description": "Add jalaali calendar and create a rtl layout on icarus theme",
@@ -70,13 +78,5 @@
         "watch": 29,
         "star": 14,
         "fork": 453
-    },
-    {
-        "name": "Jacman",
-        "link": "https://github.com/wuchong/jacman",
-        "description": "A fresh looking and responsive theme",
-        "watch": 48,
-        "star": 1,
-        "fork": 372
     }
 ]

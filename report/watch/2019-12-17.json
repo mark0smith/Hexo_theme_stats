@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Material",
+        "link": "https://github.com/viosey/hexo-theme-material",
+        "description": "An elegant & Material Design Theme",
+        "watch": 91,
+        "star": 38,
+        "fork": 579
+    },
+    {
+        "name": "NexT",
+        "link": "https://github.com/theme-next/hexo-theme-next",
+        "description": "NexT is an elegant and powerful theme",
+        "watch": 90,
+        "star": 46,
+        "fork": 14
+    },
+    {
+        "name": "indigo",
+        "link": "https://github.com/yscoder/hexo-theme-indigo",
+        "description": "Material Design theme",
+        "watch": 73,
+        "star": 25,
+        "fork": 529
+    },
+    {
+        "name": "Icarus",
+        "link": "https://github.com/ppoffice/hexo-theme-icarus",
+        "description": "A simple, delicate, and modern theme",
+        "watch": 69,
+        "star": 31,
+        "fork": 955
+    },
+    {
+        "name": "Yelee",
+        "link": "https://github.com/MOxFIVE/hexo-theme-yelee",
+        "description": "Another simple and elegant theme by MOxFIVE",
+        "watch": 66,
+        "star": 13,
+        "fork": 23
+    },
+    {
+        "name": "Maupassant",
+        "link": "https://github.com/tufu9441/maupassant-hexo",
+        "description": "A simple theme with great performance on different devices",
+        "watch": 62,
+        "star": 21,
+        "fork": 644
+    },
+    {
+        "name": "Tranquilpeak",
+        "link": "https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme",
+        "description": "A gorgeous responsive theme",
+        "watch": 55,
+        "star": 16,
+        "fork": 467
+    },
+    {
+        "name": "Jacman",
+        "link": "https://github.com/wuchong/jacman",
+        "description": "A fresh looking and responsive theme",
+        "watch": 48,
+        "star": 1,
+        "fork": 372
+    },
+    {
+        "name": "Apollo",
+        "link": "https://github.com/pinggod/hexo-theme-apollo",
+        "description": "A theme inspired by http://cn.vuejs.org/",
+        "watch": 45,
+        "star": 17,
+        "fork": 526
+    },
+    {
+        "name": "Hueman",
+        "link": "https://github.com/ppoffice/hexo-theme-hueman",
+        "description": "A redesign of Alx's wordpress theme Hueman",
+        "watch": 45,
+        "star": 1,
+        "fork": 341
+    }
+]

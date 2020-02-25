@@ -48,19 +48,19 @@
         "fork": 479
     },
     {
-        "name": "Cactus White",
-        "link": "https://github.com/sergodeeva/cactus-white",
-        "description": "A white version of Cactus Dark, responsive, clean and simple theme for a personal webpage",
-        "watch": 0,
-        "star": 48,
-        "fork": 479
-    },
-    {
         "name": "Cactus",
         "link": "https://github.com/probberechts/hexo-theme-cactus",
         "description": "A responsive, clean and simple theme for a personal webpage",
         "watch": 31,
         "star": 15,
+        "fork": 479
+    },
+    {
+        "name": "Cactus White",
+        "link": "https://github.com/sergodeeva/cactus-white",
+        "description": "A white version of Cactus Dark, responsive, clean and simple theme for a personal webpage",
+        "watch": 0,
+        "star": 48,
         "fork": 479
     },
     {

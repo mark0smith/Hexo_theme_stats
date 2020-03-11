@@ -72,11 +72,11 @@
         "fork": 170
     },
     {
-        "name": "One",
-        "link": "https://github.com/EYHN/hexo-theme-one",
-        "description": "Material and One page",
-        "watch": 26,
-        "star": 514,
-        "fork": 61
+        "name": "Anatole",
+        "link": "https://github.com/Ben02/hexo-theme-Anatole",
+        "description": "A white and simple theme, originated from a Farbox theme",
+        "watch": 16,
+        "star": 529,
+        "fork": 118
     }
 ]

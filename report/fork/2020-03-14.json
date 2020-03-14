@@ -40,11 +40,11 @@
         "fork": 536
     },
     {
-        "name": "Cactus",
-        "link": "https://github.com/probberechts/hexo-theme-cactus",
-        "description": "A responsive, clean and simple theme for a personal webpage",
-        "watch": 31,
-        "star": 16,
+        "name": "Cactus Light",
+        "link": "https://github.com/gabithume/cactus-light",
+        "description": "The light version of Cactus Dark, a responsive, light and simple theme for a personal webpage",
+        "watch": 2,
+        "star": 69,
         "fork": 485
     },
     {
@@ -56,11 +56,11 @@
         "fork": 485
     },
     {
-        "name": "Cactus Light",
-        "link": "https://github.com/gabithume/cactus-light",
-        "description": "The light version of Cactus Dark, a responsive, light and simple theme for a personal webpage",
-        "watch": 2,
-        "star": 69,
+        "name": "Cactus",
+        "link": "https://github.com/probberechts/hexo-theme-cactus",
+        "description": "A responsive, clean and simple theme for a personal webpage",
+        "watch": 31,
+        "star": 16,
         "fork": 485
     },
     {

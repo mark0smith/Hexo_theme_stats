@@ -24,6 +24,14 @@
         "fork": 549
     },
     {
+        "name": "Apollo",
+        "link": "https://github.com/pinggod/hexo-theme-apollo",
+        "description": "A theme inspired by http://cn.vuejs.org/",
+        "watch": 45,
+        "star": 17,
+        "fork": 535
+    },
+    {
         "name": "Hermes",
         "link": "https://github.com/claymcleod/hexo-theme-hermes",
         "description": "Updated, opinionated continuation of the Apollo theme",
@@ -40,14 +48,6 @@
         "fork": 491
     },
     {
-        "name": "Cactus Light",
-        "link": "https://github.com/gabithume/cactus-light",
-        "description": "The light version of Cactus Dark, a responsive, light and simple theme for a personal webpage",
-        "watch": 2,
-        "star": 69,
-        "fork": 491
-    },
-    {
         "name": "Cactus White",
         "link": "https://github.com/sergodeeva/cactus-white",
         "description": "A white version of Cactus Dark, responsive, clean and simple theme for a personal webpage",
@@ -56,27 +56,27 @@
         "fork": 491
     },
     {
+        "name": "Cactus Light",
+        "link": "https://github.com/gabithume/cactus-light",
+        "description": "The light version of Cactus Dark, a responsive, light and simple theme for a personal webpage",
+        "watch": 2,
+        "star": 69,
+        "fork": 491
+    },
+    {
+        "name": "Tranquilpeak",
+        "link": "https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme",
+        "description": "A gorgeous responsive theme",
+        "watch": 52,
+        "star": 16,
+        "fork": 474
+    },
+    {
         "name": "Matery",
         "link": "https://github.com/blinkfox/hexo-theme-matery",
         "description": "A beautiful theme with material design and responsive design",
         "watch": 49,
         "star": 18,
         "fork": 459
-    },
-    {
-        "name": "Hueman",
-        "link": "https://github.com/ppoffice/hexo-theme-hueman",
-        "description": "A redesign of Alx's wordpress theme Hueman",
-        "watch": 45,
-        "star": 11,
-        "fork": 338
-    },
-    {
-        "name": "landscape",
-        "link": "https://github.com/hexojs/hexo-theme-landscape",
-        "description": "A brand new default theme",
-        "watch": 27,
-        "star": 211,
-        "fork": 336
     }
 ]

@@ -64,19 +64,19 @@
         "fork": 178
     },
     {
+        "name": "Minos",
+        "link": "https://github.com/ppoffice/hexo-theme-minos",
+        "description": "A simple and retro styled theme, concentrated more on your ideas",
+        "watch": 24,
+        "star": 552,
+        "fork": 171
+    },
+    {
         "name": "Anatole",
         "link": "https://github.com/Ben02/hexo-theme-Anatole",
         "description": "A white and simple theme, originated from a Farbox theme",
         "watch": 16,
         "star": 531,
         "fork": 118
-    },
-    {
-        "name": "Material-X",
-        "link": "https://github.com/xaoxuu/hexo-theme-material-x",
-        "description": "a material design theme",
-        "watch": 18,
-        "star": 523,
-        "fork": 180
     }
 ]

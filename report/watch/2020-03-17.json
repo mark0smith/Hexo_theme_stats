@@ -16,14 +16,6 @@
         "fork": 16
     },
     {
-        "name": "Icarus",
-        "link": "https://github.com/ppoffice/hexo-theme-icarus",
-        "description": "A simple, delicate, and modern theme",
-        "watch": 73,
-        "star": 34,
-        "fork": 1
-    },
-    {
         "name": "indigo",
         "link": "https://github.com/yscoder/hexo-theme-indigo",
         "description": "Material Design theme",
@@ -48,14 +40,6 @@
         "fork": 652
     },
     {
-        "name": "Tranquilpeak",
-        "link": "https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme",
-        "description": "A gorgeous responsive theme",
-        "watch": 52,
-        "star": 16,
-        "fork": 474
-    },
-    {
         "name": "Matery",
         "link": "https://github.com/blinkfox/hexo-theme-matery",
         "description": "A beautiful theme with material design and responsive design",
@@ -64,19 +48,35 @@
         "fork": 459
     },
     {
-        "name": "Jacman",
-        "link": "https://github.com/wuchong/jacman",
-        "description": "A fresh looking and responsive theme",
-        "watch": 47,
-        "star": 1,
-        "fork": 376
+        "name": "Hueman",
+        "link": "https://github.com/ppoffice/hexo-theme-hueman",
+        "description": "A redesign of Alx's wordpress theme Hueman",
+        "watch": 45,
+        "star": 11,
+        "fork": 338
     },
     {
-        "name": "Apollo",
-        "link": "https://github.com/pinggod/hexo-theme-apollo",
-        "description": "A theme inspired by http://cn.vuejs.org/",
-        "watch": 45,
-        "star": 17,
-        "fork": 535
+        "name": "light",
+        "link": "https://github.com/hexojs/hexo-theme-light",
+        "description": "Default theme",
+        "watch": 32,
+        "star": 292,
+        "fork": 169
+    },
+    {
+        "name": "Cactus",
+        "link": "https://github.com/probberechts/hexo-theme-cactus",
+        "description": "A responsive, clean and simple theme for a personal webpage",
+        "watch": 31,
+        "star": 16,
+        "fork": 491
+    },
+    {
+        "name": "Raytaylorism",
+        "link": "https://github.com/raytaylorlin/hexo-theme-raytaylorism",
+        "description": "A Material Design theme of with powerful features",
+        "watch": 28,
+        "star": 456,
+        "fork": 122
     }
 ]

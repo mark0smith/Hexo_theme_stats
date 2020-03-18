@@ -16,14 +16,6 @@
         "fork": 579
     },
     {
-        "name": "indigo",
-        "link": "https://github.com/yscoder/hexo-theme-indigo",
-        "description": "Material Design theme",
-        "watch": 73,
-        "star": 25,
-        "fork": 549
-    },
-    {
         "name": "Apollo",
         "link": "https://github.com/pinggod/hexo-theme-apollo",
         "description": "A theme inspired by http://cn.vuejs.org/",
@@ -48,19 +40,19 @@
         "fork": 491
     },
     {
-        "name": "Cactus Light",
-        "link": "https://github.com/gabithume/cactus-light",
-        "description": "The light version of Cactus Dark, a responsive, light and simple theme for a personal webpage",
-        "watch": 2,
-        "star": 69,
-        "fork": 491
-    },
-    {
         "name": "Cactus White",
         "link": "https://github.com/sergodeeva/cactus-white",
         "description": "A white version of Cactus Dark, responsive, clean and simple theme for a personal webpage",
         "watch": 0,
         "star": 49,
+        "fork": 491
+    },
+    {
+        "name": "Cactus Light",
+        "link": "https://github.com/gabithume/cactus-light",
+        "description": "The light version of Cactus Dark, a responsive, light and simple theme for a personal webpage",
+        "watch": 2,
+        "star": 69,
         "fork": 491
     },
     {
@@ -78,5 +70,13 @@
         "watch": 49,
         "star": 18,
         "fork": 458
+    },
+    {
+        "name": "Jacman",
+        "link": "https://github.com/wuchong/jacman",
+        "description": "A fresh looking and responsive theme",
+        "watch": 47,
+        "star": 1,
+        "fork": 376
     }
 ]

@@ -24,14 +24,6 @@
         "fork": 1
     },
     {
-        "name": "indigo",
-        "link": "https://github.com/yscoder/hexo-theme-indigo",
-        "description": "Material Design theme",
-        "watch": 73,
-        "star": 25,
-        "fork": 549
-    },
-    {
         "name": "Yelee",
         "link": "https://github.com/MOxFIVE/hexo-theme-yelee",
         "description": "Another simple and elegant theme by MOxFIVE",
@@ -78,5 +70,13 @@
         "watch": 45,
         "star": 17,
         "fork": 535
+    },
+    {
+        "name": "Hueman",
+        "link": "https://github.com/ppoffice/hexo-theme-hueman",
+        "description": "A redesign of Alx's wordpress theme Hueman",
+        "watch": 45,
+        "star": 11,
+        "fork": 338
     }
 ]

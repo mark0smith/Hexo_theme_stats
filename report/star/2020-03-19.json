@@ -48,6 +48,14 @@
         "fork": 126
     },
     {
+        "name": "pure",
+        "link": "https://github.com/cofess/hexo-theme-pure",
+        "description": "Theme pure. It's a pure theme",
+        "watch": 17,
+        "star": 564,
+        "fork": 170
+    },
+    {
         "name": "TKL",
         "link": "https://github.com/SuperKieran/TKL",
         "description": "A responsive design theme",
@@ -70,13 +78,5 @@
         "watch": 16,
         "star": 531,
         "fork": 118
-    },
-    {
-        "name": "Material-X",
-        "link": "https://github.com/xaoxuu/hexo-theme-material-x",
-        "description": "a material design theme",
-        "watch": 18,
-        "star": 524,
-        "fork": 182
     }
 ]

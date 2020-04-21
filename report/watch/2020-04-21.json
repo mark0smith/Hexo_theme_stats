@@ -1,19 +1,11 @@
 [
     {
-        "name": "indigo",
-        "link": "https://github.com/yscoder/hexo-theme-indigo",
-        "description": "Material Design theme",
-        "watch": 72,
-        "star": 26,
-        "fork": 552
-    },
-    {
-        "name": "light",
-        "link": "https://github.com/hexojs/hexo-theme-light",
-        "description": "Default theme",
-        "watch": 32,
-        "star": 291,
-        "fork": 171
+        "name": "Tranquilpeak",
+        "link": "https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme",
+        "description": "A gorgeous responsive theme",
+        "watch": 51,
+        "star": 16,
+        "fork": 481
     },
     {
         "name": "TKL",
@@ -24,14 +16,6 @@
         "fork": 179
     },
     {
-        "name": "One",
-        "link": "https://github.com/EYHN/hexo-theme-one",
-        "description": "Material and One page",
-        "watch": 26,
-        "star": 513,
-        "fork": 61
-    },
-    {
         "name": "Even",
         "link": "https://github.com/ahonn/hexo-theme-even",
         "description": "A simple theme",
@@ -40,36 +24,20 @@
         "fork": 205
     },
     {
-        "name": "Melody",
-        "link": "https://github.com/Molunerfinn/hexo-theme-melody",
+        "name": "Minos",
+        "link": "https://github.com/ppoffice/hexo-theme-minos",
+        "description": "A simple and retro styled theme, concentrated more on your ideas",
+        "watch": 24,
+        "star": 568,
+        "fork": 174
+    },
+    {
+        "name": "Skapp",
+        "link": "https://github.com/Mrminfive/hexo-theme-skapp",
         "description": "A simple & beautiful & fast theme",
-        "watch": 21,
-        "star": 11,
-        "fork": 163
-    },
-    {
-        "name": "pure",
-        "link": "https://github.com/cofess/hexo-theme-pure",
-        "description": "Theme pure. It's a pure theme",
-        "watch": 17,
-        "star": 595,
-        "fork": 176
-    },
-    {
-        "name": "Anatole",
-        "link": "https://github.com/Ben02/hexo-theme-Anatole",
-        "description": "A white and simple theme, originated from a Farbox theme",
-        "watch": 16,
-        "star": 539,
-        "fork": 120
-    },
-    {
-        "name": "Sakura",
-        "link": "https://github.com/honjun/hexo-theme-sakura",
-        "description": "A beautiful theme",
-        "watch": 14,
-        "star": 396,
-        "fork": 147
+        "watch": 19,
+        "star": 457,
+        "fork": 117
     },
     {
         "name": "AlphaDust",
@@ -78,5 +46,37 @@
         "watch": 14,
         "star": 254,
         "fork": 82
+    },
+    {
+        "name": "Hiker",
+        "link": "https://github.com/iTimeTraveler/hexo-theme-hiker",
+        "description": "An attractive, exquisite theme",
+        "watch": 13,
+        "star": 325,
+        "fork": 78
+    },
+    {
+        "name": "Aath",
+        "link": "https://github.com/lewis-geek/hexo-theme-Aath",
+        "description": "A theme inspired by zhihu and juejin",
+        "watch": 11,
+        "star": 154,
+        "fork": 26
+    },
+    {
+        "name": "Very-Simple",
+        "link": "https://github.com/lotabout/very-simple",
+        "description": "A black/white theme for which tend to be simple and elegant",
+        "watch": 9,
+        "star": 131,
+        "fork": 40
+    },
+    {
+        "name": "Freemind.386",
+        "link": "https://github.com/blackshow/hexo-theme-freemind.386",
+        "description": "Freemind.386 is a retro-style theme",
+        "watch": 9,
+        "star": 155,
+        "fork": 44
     }
 ]

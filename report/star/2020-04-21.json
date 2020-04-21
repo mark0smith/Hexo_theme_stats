@@ -1,11 +1,11 @@
 [
     {
-        "name": "pure",
-        "link": "https://github.com/cofess/hexo-theme-pure",
-        "description": "Theme pure. It's a pure theme",
-        "watch": 17,
-        "star": 595,
-        "fork": 176
+        "name": "Minos",
+        "link": "https://github.com/ppoffice/hexo-theme-minos",
+        "description": "A simple and retro styled theme, concentrated more on your ideas",
+        "watch": 24,
+        "star": 568,
+        "fork": 174
     },
     {
         "name": "TKL",
@@ -16,44 +16,20 @@
         "fork": 179
     },
     {
-        "name": "Anatole",
-        "link": "https://github.com/Ben02/hexo-theme-Anatole",
-        "description": "A white and simple theme, originated from a Farbox theme",
-        "watch": 16,
-        "star": 539,
-        "fork": 120
+        "name": "Skapp",
+        "link": "https://github.com/Mrminfive/hexo-theme-skapp",
+        "description": "A simple & beautiful & fast theme",
+        "watch": 19,
+        "star": 457,
+        "fork": 117
     },
     {
-        "name": "One",
-        "link": "https://github.com/EYHN/hexo-theme-one",
-        "description": "Material and One page",
-        "watch": 26,
-        "star": 513,
-        "fork": 61
-    },
-    {
-        "name": "Sakura",
-        "link": "https://github.com/honjun/hexo-theme-sakura",
-        "description": "A beautiful theme",
-        "watch": 14,
-        "star": 396,
-        "fork": 147
-    },
-    {
-        "name": "Inside",
-        "link": "https://github.com/elmorec/hexo-theme-inside",
-        "description": "❤️ SPA, flat and clean theme.",
-        "watch": 6,
-        "star": 366,
-        "fork": 73
-    },
-    {
-        "name": "CleanBlog",
-        "link": "https://github.com/klugjo/hexo-theme-clean-blog",
-        "description": "Fully featured, bootstrap blog",
-        "watch": 11,
-        "star": 342,
-        "fork": 129
+        "name": "Hiker",
+        "link": "https://github.com/iTimeTraveler/hexo-theme-hiker",
+        "description": "An attractive, exquisite theme",
+        "watch": 13,
+        "star": 325,
+        "fork": 78
     },
     {
         "name": "MiccallTheme",
@@ -64,19 +40,43 @@
         "fork": 83
     },
     {
-        "name": "light",
-        "link": "https://github.com/hexojs/hexo-theme-light",
-        "description": "Default theme",
-        "watch": 32,
-        "star": 291,
-        "fork": 171
+        "name": "AlphaDust",
+        "link": "https://github.com/klugjo/hexo-theme-alpha-dust",
+        "description": "A futuristic responsive theme",
+        "watch": 14,
+        "star": 254,
+        "fork": 82
     },
     {
-        "name": "PolarBear",
-        "link": "https://github.com/frostfan/hexo-theme-polarbear",
-        "description": "A light theme base on Even, inspired by Giuem",
-        "watch": 11,
-        "star": 267,
+        "name": "Claudia",
+        "link": "https://github.com/Haojen/hexo-theme-Claudia",
+        "description": "Grace, simple theme",
+        "watch": 6,
+        "star": 241,
+        "fork": 50
+    },
+    {
+        "name": "Cafe",
+        "link": "https://github.com/giscafer/hexo-theme-cafe",
+        "description": "Pursuit of simplicity, simple operation, reading comfort",
+        "watch": 7,
+        "star": 205,
         "fork": 56
+    },
+    {
+        "name": "Freemind.386",
+        "link": "https://github.com/blackshow/hexo-theme-freemind.386",
+        "description": "Freemind.386 is a retro-style theme",
+        "watch": 9,
+        "star": 155,
+        "fork": 44
+    },
+    {
+        "name": "Aath",
+        "link": "https://github.com/lewis-geek/hexo-theme-Aath",
+        "description": "A theme inspired by zhihu and juejin",
+        "watch": 11,
+        "star": 154,
+        "fork": 26
     }
 ]

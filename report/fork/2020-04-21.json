@@ -1,11 +1,11 @@
 [
     {
-        "name": "indigo",
-        "link": "https://github.com/yscoder/hexo-theme-indigo",
-        "description": "Material Design theme",
-        "watch": 72,
-        "star": 26,
-        "fork": 552
+        "name": "Tranquilpeak",
+        "link": "https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme",
+        "description": "A gorgeous responsive theme",
+        "watch": 51,
+        "star": 16,
+        "fork": 481
     },
     {
         "name": "Even",
@@ -24,59 +24,59 @@
         "fork": 179
     },
     {
-        "name": "pure",
-        "link": "https://github.com/cofess/hexo-theme-pure",
-        "description": "Theme pure. It's a pure theme",
-        "watch": 17,
-        "star": 595,
-        "fork": 176
+        "name": "Minos",
+        "link": "https://github.com/ppoffice/hexo-theme-minos",
+        "description": "A simple and retro styled theme, concentrated more on your ideas",
+        "watch": 24,
+        "star": 568,
+        "fork": 174
     },
     {
-        "name": "light",
-        "link": "https://github.com/hexojs/hexo-theme-light",
-        "description": "Default theme",
-        "watch": 32,
-        "star": 291,
-        "fork": 171
-    },
-    {
-        "name": "Twitter Bootstrap",
-        "link": "https://github.com/philippkeller/hexo-theme-twbootstrap",
-        "description": "Suited for coding. Green accented. Bootstrapped based. With disqus support",
-        "watch": 0,
-        "star": 7,
-        "fork": 171
-    },
-    {
-        "name": "Melody",
-        "link": "https://github.com/Molunerfinn/hexo-theme-melody",
+        "name": "Skapp",
+        "link": "https://github.com/Mrminfive/hexo-theme-skapp",
         "description": "A simple & beautiful & fast theme",
-        "watch": 21,
-        "star": 11,
-        "fork": 163
+        "watch": 19,
+        "star": 457,
+        "fork": 117
     },
     {
-        "name": "Sakura",
-        "link": "https://github.com/honjun/hexo-theme-sakura",
-        "description": "A beautiful theme",
+        "name": "MiccallTheme",
+        "link": "https://github.com/miccall/hexo-theme-Mic_Theme",
+        "description": "A theme with Gorgeous fullscreen background image",
+        "watch": 7,
+        "star": 311,
+        "fork": 83
+    },
+    {
+        "name": "AlphaDust",
+        "link": "https://github.com/klugjo/hexo-theme-alpha-dust",
+        "description": "A futuristic responsive theme",
         "watch": 14,
-        "star": 396,
-        "fork": 147
+        "star": 254,
+        "fork": 82
     },
     {
-        "name": "CleanBlog",
-        "link": "https://github.com/klugjo/hexo-theme-clean-blog",
-        "description": "Fully featured, bootstrap blog",
-        "watch": 11,
-        "star": 342,
-        "fork": 129
+        "name": "Hiker",
+        "link": "https://github.com/iTimeTraveler/hexo-theme-hiker",
+        "description": "An attractive, exquisite theme",
+        "watch": 13,
+        "star": 325,
+        "fork": 78
     },
     {
-        "name": "Anatole",
-        "link": "https://github.com/Ben02/hexo-theme-Anatole",
-        "description": "A white and simple theme, originated from a Farbox theme",
-        "watch": 16,
-        "star": 539,
-        "fork": 120
+        "name": "Cafe",
+        "link": "https://github.com/giscafer/hexo-theme-cafe",
+        "description": "Pursuit of simplicity, simple operation, reading comfort",
+        "watch": 7,
+        "star": 205,
+        "fork": 56
+    },
+    {
+        "name": "Claudia",
+        "link": "https://github.com/Haojen/hexo-theme-Claudia",
+        "description": "Grace, simple theme",
+        "watch": 6,
+        "star": 241,
+        "fork": 50
     }
 ]

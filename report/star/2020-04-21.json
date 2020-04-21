@@ -1,13 +1,5 @@
 [
     {
-        "name": "Huxblog",
-        "link": "https://github.com/Kaijun/hexo-theme-huxblog",
-        "description": "A lean and elegant Theme with optimized SEO (Ported)",
-        "watch": 20,
-        "star": 611,
-        "fork": 124
-    },
-    {
         "name": "pure",
         "link": "https://github.com/cofess/hexo-theme-pure",
         "description": "Theme pure. It's a pure theme",
@@ -16,28 +8,20 @@
         "fork": 176
     },
     {
-        "name": "TKL",
-        "link": "https://github.com/SuperKieran/TKL",
-        "description": "A responsive design theme",
-        "watch": 27,
-        "star": 560,
-        "fork": 179
-    },
-    {
-        "name": "Replica",
-        "link": "https://github.com/sabrinaluo/hexo-theme-replica",
-        "description": "A github style replication theme",
-        "watch": 7,
-        "star": 457,
+        "name": "One",
+        "link": "https://github.com/EYHN/hexo-theme-one",
+        "description": "Material and One page",
+        "watch": 26,
+        "star": 513,
         "fork": 61
     },
     {
-        "name": "Skapp",
-        "link": "https://github.com/Mrminfive/hexo-theme-skapp",
-        "description": "A simple & beautiful & fast theme",
-        "watch": 19,
-        "star": 457,
-        "fork": 117
+        "name": "Wikitten",
+        "link": "https://github.com/zthxxx/hexo-theme-Wikitten",
+        "description": "A personal wiki imitate Wikitten style",
+        "watch": 12,
+        "star": 462,
+        "fork": 109
     },
     {
         "name": "A-Ayer",
@@ -56,27 +40,43 @@
         "fork": 147
     },
     {
-        "name": "MiccallTheme",
-        "link": "https://github.com/miccall/hexo-theme-Mic_Theme",
-        "description": "A theme with Gorgeous fullscreen background image",
-        "watch": 7,
-        "star": 311,
-        "fork": 83
-    },
-    {
-        "name": "PolarBear",
-        "link": "https://github.com/frostfan/hexo-theme-polarbear",
-        "description": "A light theme base on Even, inspired by Giuem",
+        "name": "CleanBlog",
+        "link": "https://github.com/klugjo/hexo-theme-clean-blog",
+        "description": "Fully featured, bootstrap blog",
         "watch": 11,
-        "star": 267,
-        "fork": 56
+        "star": 342,
+        "fork": 129
     },
     {
-        "name": "gal",
-        "link": "https://github.com/ZEROKISEKI/hexo-theme-gal",
-        "description": "https://mygalgame.com wordpress theme",
-        "watch": 12,
-        "star": 267,
-        "fork": 75
+        "name": "light",
+        "link": "https://github.com/hexojs/hexo-theme-light",
+        "description": "Default theme",
+        "watch": 32,
+        "star": 291,
+        "fork": 171
+    },
+    {
+        "name": "AlphaDust",
+        "link": "https://github.com/klugjo/hexo-theme-alpha-dust",
+        "description": "A futuristic responsive theme",
+        "watch": 14,
+        "star": 254,
+        "fork": 82
+    },
+    {
+        "name": "Yilia-plus",
+        "link": "https://github.com/JoeyBling/hexo-theme-yilia-plus",
+        "description": "A simple and elegant theme for hexo.",
+        "watch": 9,
+        "star": 249,
+        "fork": 74
+    },
+    {
+        "name": "Claudia",
+        "link": "https://github.com/Haojen/hexo-theme-Claudia",
+        "description": "Grace, simple theme",
+        "watch": 6,
+        "star": 241,
+        "fork": 50
     }
 ]

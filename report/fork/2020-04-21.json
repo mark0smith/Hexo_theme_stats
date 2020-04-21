@@ -1,5 +1,13 @@
 [
     {
+        "name": "Maupassant",
+        "link": "https://github.com/tufu9441/maupassant-hexo",
+        "description": "A simple theme with great performance on different devices",
+        "watch": 63,
+        "star": 22,
+        "fork": 661
+    },
+    {
         "name": "indigo",
         "link": "https://github.com/yscoder/hexo-theme-indigo",
         "description": "Material Design theme",
@@ -16,12 +24,36 @@
         "fork": 537
     },
     {
+        "name": "Matery",
+        "link": "https://github.com/blinkfox/hexo-theme-matery",
+        "description": "A beautiful theme with material design and responsive design",
+        "watch": 49,
+        "star": 2,
+        "fork": 518
+    },
+    {
         "name": "Cactus",
         "link": "https://github.com/probberechts/hexo-theme-cactus",
         "description": "A responsive, clean and simple theme for a personal webpage",
         "watch": 30,
         "star": 16,
         "fork": 496
+    },
+    {
+        "name": "Cactus Light",
+        "link": "https://github.com/gabithume/cactus-light",
+        "description": "The light version of Cactus Dark, a responsive, light and simple theme for a personal webpage",
+        "watch": 2,
+        "star": 72,
+        "fork": 496
+    },
+    {
+        "name": "Tranquilpeak",
+        "link": "https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme",
+        "description": "A gorgeous responsive theme",
+        "watch": 51,
+        "star": 16,
+        "fork": 481
     },
     {
         "name": "Jacman",
@@ -32,51 +64,19 @@
         "fork": 377
     },
     {
-        "name": "pure",
-        "link": "https://github.com/cofess/hexo-theme-pure",
-        "description": "Theme pure. It's a pure theme",
-        "watch": 17,
-        "star": 595,
-        "fork": 176
+        "name": "landscape",
+        "link": "https://github.com/hexojs/hexo-theme-landscape",
+        "description": "A brand new default theme",
+        "watch": 27,
+        "star": 216,
+        "fork": 340
     },
     {
-        "name": "light",
-        "link": "https://github.com/hexojs/hexo-theme-light",
-        "description": "Default theme",
-        "watch": 32,
-        "star": 291,
-        "fork": 171
-    },
-    {
-        "name": "Twitter Bootstrap",
-        "link": "https://github.com/philippkeller/hexo-theme-twbootstrap",
-        "description": "Suited for coding. Green accented. Bootstrapped based. With disqus support",
-        "watch": 0,
-        "star": 7,
-        "fork": 171
-    },
-    {
-        "name": "Sakura",
-        "link": "https://github.com/honjun/hexo-theme-sakura",
-        "description": "A beautiful theme",
-        "watch": 14,
-        "star": 396,
-        "fork": 147
-    },
-    {
-        "name": "A-Ayer",
-        "link": "https://github.com/Shen-Yu/hexo-theme-ayer",
-        "description": "A Clean and Beautiful Theme for Hexo, also responsive.",
-        "watch": 12,
-        "star": 427,
-        "fork": 134
-    },
-    {
-        "name": "CleanBlog",
-        "link": "https://github.com/klugjo/hexo-theme-clean-blog",
-        "description": "Fully featured, bootstrap blog",
-        "watch": 11,
-        "star": 342,
-        "fork": 129
+        "name": "Bootstrap-Blog",
+        "link": "https://github.com/cgmartin/hexo-theme-bootstrap-blog",
+        "description": "A simple Twitter Bootstrap blog theme",
+        "watch": 8,
+        "star": 106,
+        "fork": 340
     }
 ]

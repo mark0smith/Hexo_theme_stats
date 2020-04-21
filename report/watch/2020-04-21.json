@@ -1,11 +1,43 @@
 [
     {
+        "name": "Icarus",
+        "link": "https://github.com/ppoffice/hexo-theme-icarus",
+        "description": "A simple, delicate, and modern theme",
+        "watch": 72,
+        "star": 35,
+        "fork": 11
+    },
+    {
         "name": "indigo",
         "link": "https://github.com/yscoder/hexo-theme-indigo",
         "description": "Material Design theme",
         "watch": 72,
         "star": 26,
         "fork": 552
+    },
+    {
+        "name": "Maupassant",
+        "link": "https://github.com/tufu9441/maupassant-hexo",
+        "description": "A simple theme with great performance on different devices",
+        "watch": 63,
+        "star": 22,
+        "fork": 661
+    },
+    {
+        "name": "Tranquilpeak",
+        "link": "https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme",
+        "description": "A gorgeous responsive theme",
+        "watch": 51,
+        "star": 16,
+        "fork": 481
+    },
+    {
+        "name": "Matery",
+        "link": "https://github.com/blinkfox/hexo-theme-matery",
+        "description": "A beautiful theme with material design and responsive design",
+        "watch": 49,
+        "star": 2,
+        "fork": 518
     },
     {
         "name": "Jacman",
@@ -32,51 +64,19 @@
         "fork": 496
     },
     {
-        "name": "phase",
-        "link": "https://github.com/hexojs/hexo-theme-phase",
-        "description": "Feel the flow of time with Phase",
+        "name": "landscape",
+        "link": "https://github.com/hexojs/hexo-theme-landscape",
+        "description": "A brand new default theme",
         "watch": 27,
-        "star": 89,
-        "fork": 27
+        "star": 216,
+        "fork": 340
     },
     {
-        "name": "One",
-        "link": "https://github.com/EYHN/hexo-theme-one",
-        "description": "Material and One page",
-        "watch": 26,
-        "star": 513,
-        "fork": 61
-    },
-    {
-        "name": "pure",
-        "link": "https://github.com/cofess/hexo-theme-pure",
-        "description": "Theme pure. It's a pure theme",
-        "watch": 17,
-        "star": 595,
-        "fork": 176
-    },
-    {
-        "name": "Sakura",
-        "link": "https://github.com/honjun/hexo-theme-sakura",
-        "description": "A beautiful theme",
-        "watch": 14,
-        "star": 396,
-        "fork": 147
-    },
-    {
-        "name": "AlphaDust",
-        "link": "https://github.com/klugjo/hexo-theme-alpha-dust",
-        "description": "A futuristic responsive theme",
-        "watch": 14,
-        "star": 254,
-        "fork": 82
-    },
-    {
-        "name": "Wikitten",
-        "link": "https://github.com/zthxxx/hexo-theme-Wikitten",
-        "description": "A personal wiki imitate Wikitten style",
-        "watch": 12,
-        "star": 462,
-        "fork": 109
+        "name": "TKL",
+        "link": "https://github.com/SuperKieran/TKL",
+        "description": "A responsive design theme",
+        "watch": 27,
+        "star": 560,
+        "fork": 179
     }
 ]

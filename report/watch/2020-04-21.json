@@ -1,11 +1,27 @@
 [
     {
-        "name": "Tranquilpeak",
-        "link": "https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme",
-        "description": "A gorgeous responsive theme",
-        "watch": 51,
-        "star": 16,
-        "fork": 481
+        "name": "Yelee",
+        "link": "https://github.com/MOxFIVE/hexo-theme-yelee",
+        "description": "Another simple and elegant theme by MOxFIVE",
+        "watch": 64,
+        "star": 14,
+        "fork": 24
+    },
+    {
+        "name": "Jacman",
+        "link": "https://github.com/wuchong/jacman",
+        "description": "A fresh looking and responsive theme",
+        "watch": 47,
+        "star": 1,
+        "fork": 377
+    },
+    {
+        "name": "Apollo",
+        "link": "https://github.com/pinggod/hexo-theme-apollo",
+        "description": "A theme inspired by http://cn.vuejs.org/",
+        "watch": 44,
+        "star": 18,
+        "fork": 537
     },
     {
         "name": "TKL",
@@ -16,20 +32,28 @@
         "fork": 179
     },
     {
-        "name": "Even",
-        "link": "https://github.com/ahonn/hexo-theme-even",
-        "description": "A simple theme",
-        "watch": 25,
-        "star": 12,
-        "fork": 205
+        "name": "phase",
+        "link": "https://github.com/hexojs/hexo-theme-phase",
+        "description": "Feel the flow of time with Phase",
+        "watch": 27,
+        "star": 89,
+        "fork": 27
     },
     {
-        "name": "Minos",
-        "link": "https://github.com/ppoffice/hexo-theme-minos",
-        "description": "A simple and retro styled theme, concentrated more on your ideas",
-        "watch": 24,
-        "star": 568,
-        "fork": 174
+        "name": "Melody",
+        "link": "https://github.com/Molunerfinn/hexo-theme-melody",
+        "description": "A simple & beautiful & fast theme",
+        "watch": 21,
+        "star": 11,
+        "fork": 163
+    },
+    {
+        "name": "Huxblog",
+        "link": "https://github.com/Kaijun/hexo-theme-huxblog",
+        "description": "A lean and elegant Theme with optimized SEO (Ported)",
+        "watch": 20,
+        "star": 611,
+        "fork": 124
     },
     {
         "name": "Skapp",
@@ -40,43 +64,19 @@
         "fork": 117
     },
     {
-        "name": "AlphaDust",
-        "link": "https://github.com/klugjo/hexo-theme-alpha-dust",
-        "description": "A futuristic responsive theme",
+        "name": "pure",
+        "link": "https://github.com/cofess/hexo-theme-pure",
+        "description": "Theme pure. It's a pure theme",
+        "watch": 17,
+        "star": 595,
+        "fork": 176
+    },
+    {
+        "name": "Sakura",
+        "link": "https://github.com/honjun/hexo-theme-sakura",
+        "description": "A beautiful theme",
         "watch": 14,
-        "star": 254,
-        "fork": 82
-    },
-    {
-        "name": "Hiker",
-        "link": "https://github.com/iTimeTraveler/hexo-theme-hiker",
-        "description": "An attractive, exquisite theme",
-        "watch": 13,
-        "star": 325,
-        "fork": 78
-    },
-    {
-        "name": "Aath",
-        "link": "https://github.com/lewis-geek/hexo-theme-Aath",
-        "description": "A theme inspired by zhihu and juejin",
-        "watch": 11,
-        "star": 154,
-        "fork": 26
-    },
-    {
-        "name": "Very-Simple",
-        "link": "https://github.com/lotabout/very-simple",
-        "description": "A black/white theme for which tend to be simple and elegant",
-        "watch": 9,
-        "star": 131,
-        "fork": 40
-    },
-    {
-        "name": "Freemind.386",
-        "link": "https://github.com/blackshow/hexo-theme-freemind.386",
-        "description": "Freemind.386 is a retro-style theme",
-        "watch": 9,
-        "star": 155,
-        "fork": 44
+        "star": 396,
+        "fork": 147
     }
 ]

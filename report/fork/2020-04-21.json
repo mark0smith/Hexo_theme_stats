@@ -1,0 +1,82 @@
+[
+    {
+        "name": "indigo",
+        "link": "https://github.com/yscoder/hexo-theme-indigo",
+        "description": "Material Design theme",
+        "watch": 72,
+        "star": 26,
+        "fork": 552
+    },
+    {
+        "name": "Even",
+        "link": "https://github.com/ahonn/hexo-theme-even",
+        "description": "A simple theme",
+        "watch": 25,
+        "star": 12,
+        "fork": 205
+    },
+    {
+        "name": "TKL",
+        "link": "https://github.com/SuperKieran/TKL",
+        "description": "A responsive design theme",
+        "watch": 27,
+        "star": 560,
+        "fork": 179
+    },
+    {
+        "name": "pure",
+        "link": "https://github.com/cofess/hexo-theme-pure",
+        "description": "Theme pure. It's a pure theme",
+        "watch": 17,
+        "star": 595,
+        "fork": 176
+    },
+    {
+        "name": "light",
+        "link": "https://github.com/hexojs/hexo-theme-light",
+        "description": "Default theme",
+        "watch": 32,
+        "star": 291,
+        "fork": 171
+    },
+    {
+        "name": "Twitter Bootstrap",
+        "link": "https://github.com/philippkeller/hexo-theme-twbootstrap",
+        "description": "Suited for coding. Green accented. Bootstrapped based. With disqus support",
+        "watch": 0,
+        "star": 7,
+        "fork": 171
+    },
+    {
+        "name": "Melody",
+        "link": "https://github.com/Molunerfinn/hexo-theme-melody",
+        "description": "A simple & beautiful & fast theme",
+        "watch": 21,
+        "star": 11,
+        "fork": 163
+    },
+    {
+        "name": "Sakura",
+        "link": "https://github.com/honjun/hexo-theme-sakura",
+        "description": "A beautiful theme",
+        "watch": 14,
+        "star": 396,
+        "fork": 147
+    },
+    {
+        "name": "CleanBlog",
+        "link": "https://github.com/klugjo/hexo-theme-clean-blog",
+        "description": "Fully featured, bootstrap blog",
+        "watch": 11,
+        "star": 342,
+        "fork": 129
+    },
+    {
+        "name": "Anatole",
+        "link": "https://github.com/Ben02/hexo-theme-Anatole",
+        "description": "A white and simple theme, originated from a Farbox theme",
+        "watch": 16,
+        "star": 539,
+        "fork": 120
+    }
+]

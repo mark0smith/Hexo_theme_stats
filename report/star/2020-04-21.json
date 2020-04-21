@@ -1,0 +1,82 @@
+[
+    {
+        "name": "pure",
+        "link": "https://github.com/cofess/hexo-theme-pure",
+        "description": "Theme pure. It's a pure theme",
+        "watch": 17,
+        "star": 595,
+        "fork": 176
+    },
+    {
+        "name": "TKL",
+        "link": "https://github.com/SuperKieran/TKL",
+        "description": "A responsive design theme",
+        "watch": 27,
+        "star": 560,
+        "fork": 179
+    },
+    {
+        "name": "Anatole",
+        "link": "https://github.com/Ben02/hexo-theme-Anatole",
+        "description": "A white and simple theme, originated from a Farbox theme",
+        "watch": 16,
+        "star": 539,
+        "fork": 120
+    },
+    {
+        "name": "One",
+        "link": "https://github.com/EYHN/hexo-theme-one",
+        "description": "Material and One page",
+        "watch": 26,
+        "star": 513,
+        "fork": 61
+    },
+    {
+        "name": "Sakura",
+        "link": "https://github.com/honjun/hexo-theme-sakura",
+        "description": "A beautiful theme",
+        "watch": 14,
+        "star": 396,
+        "fork": 147
+    },
+    {
+        "name": "Inside",
+        "link": "https://github.com/elmorec/hexo-theme-inside",
+        "description": "❤️ SPA, flat and clean theme.",
+        "watch": 6,
+        "star": 366,
+        "fork": 73
+    },
+    {
+        "name": "CleanBlog",
+        "link": "https://github.com/klugjo/hexo-theme-clean-blog",
+        "description": "Fully featured, bootstrap blog",
+        "watch": 11,
+        "star": 342,
+        "fork": 129
+    },
+    {
+        "name": "MiccallTheme",
+        "link": "https://github.com/miccall/hexo-theme-Mic_Theme",
+        "description": "A theme with Gorgeous fullscreen background image",
+        "watch": 7,
+        "star": 311,
+        "fork": 83
+    },
+    {
+        "name": "light",
+        "link": "https://github.com/hexojs/hexo-theme-light",
+        "description": "Default theme",
+        "watch": 32,
+        "star": 291,
+        "fork": 171
+    },
+    {
+        "name": "PolarBear",
+        "link": "https://github.com/frostfan/hexo-theme-polarbear",
+        "description": "A light theme base on Even, inspired by Giuem",
+        "watch": 11,
+        "star": 267,
+        "fork": 56
+    }
+]

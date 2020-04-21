@@ -16,6 +16,14 @@
         "fork": 191
     },
     {
+        "name": "Fluid",
+        "link": "https://github.com/fluid-dev/hexo-theme-fluid",
+        "description": "An elegant and light theme",
+        "watch": 12,
+        "star": 799,
+        "fork": 161
+    },
+    {
         "name": "Butterfly",
         "link": "https://github.com/jerryc127/hexo-theme-butterfly",
         "description": "A simple & beautiful & fast theme",
@@ -70,13 +78,5 @@
         "watch": 27,
         "star": 560,
         "fork": 179
-    },
-    {
-        "name": "Anatole",
-        "link": "https://github.com/Ben02/hexo-theme-Anatole",
-        "description": "A white and simple theme, originated from a Farbox theme",
-        "watch": 16,
-        "star": 539,
-        "fork": 120
     }
 ]

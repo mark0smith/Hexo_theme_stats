@@ -32,6 +32,22 @@
         "fork": 552
     },
     {
+        "name": "Yelee",
+        "link": "https://github.com/MOxFIVE/hexo-theme-yelee",
+        "description": "Another simple and elegant theme by MOxFIVE",
+        "watch": 64,
+        "star": 14,
+        "fork": 24
+    },
+    {
+        "name": "Maupassant",
+        "link": "https://github.com/tufu9441/maupassant-hexo",
+        "description": "A simple theme with great performance on different devices",
+        "watch": 63,
+        "star": 22,
+        "fork": 661
+    },
+    {
         "name": "Tranquilpeak",
         "link": "https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme",
         "description": "A gorgeous responsive theme",
@@ -56,27 +72,11 @@
         "fork": 377
     },
     {
-        "name": "TKL",
-        "link": "https://github.com/SuperKieran/TKL",
-        "description": "A responsive design theme",
-        "watch": 27,
-        "star": 560,
-        "fork": 179
-    },
-    {
-        "name": "phase",
-        "link": "https://github.com/hexojs/hexo-theme-phase",
-        "description": "Feel the flow of time with Phase",
-        "watch": 27,
-        "star": 89,
-        "fork": 27
-    },
-    {
-        "name": "Freemind",
-        "link": "https://github.com/wzpan/hexo-theme-freemind",
-        "description": "Fully taking advantages of Bootstrap",
-        "watch": 24,
-        "star": 363,
-        "fork": 146
+        "name": "Hueman",
+        "link": "https://github.com/ppoffice/hexo-theme-hueman",
+        "description": "A redesign of Alx's wordpress theme Hueman",
+        "watch": 45,
+        "star": 11,
+        "fork": 333
     }
 ]

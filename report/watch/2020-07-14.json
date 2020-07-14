@@ -16,6 +16,14 @@
         "fork": 587
     },
     {
+        "name": "Icarus",
+        "link": "https://github.com/ppoffice/hexo-theme-icarus",
+        "description": "A simple, delicate, and modern theme",
+        "watch": 74,
+        "star": 39,
+        "fork": 12
+    },
+    {
         "name": "indigo",
         "link": "https://github.com/yscoder/hexo-theme-indigo",
         "description": "Material Design theme",
@@ -70,13 +78,5 @@
         "watch": 46,
         "star": 11,
         "fork": 334
-    },
-    {
-        "name": "Apollo",
-        "link": "https://github.com/pinggod/hexo-theme-apollo",
-        "description": "A theme inspired by http://cn.vuejs.org/",
-        "watch": 43,
-        "star": 18,
-        "fork": 533
     }
 ]

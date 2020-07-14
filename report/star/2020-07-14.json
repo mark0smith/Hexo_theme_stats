@@ -40,6 +40,22 @@
         "fork": 197
     },
     {
+        "name": "Huxblog",
+        "link": "https://github.com/Kaijun/hexo-theme-huxblog",
+        "description": "A lean and elegant Theme with optimized SEO (Ported)",
+        "watch": 19,
+        "star": 624,
+        "fork": 131
+    },
+    {
+        "name": "Minos",
+        "link": "https://github.com/ppoffice/hexo-theme-minos",
+        "description": "A simple and retro styled theme, concentrated more on your ideas",
+        "watch": 24,
+        "star": 584,
+        "fork": 185
+    },
+    {
         "name": "TKL",
         "link": "https://github.com/SuperKieran/TKL",
         "description": "A responsive design theme",
@@ -62,21 +78,5 @@
         "watch": 9,
         "star": 548,
         "fork": 77
-    },
-    {
-        "name": "Ayer",
-        "link": "https://github.com/Shen-Yu/hexo-theme-ayer",
-        "description": "A Clean and Beautiful Theme for Hexo, also responsive.",
-        "watch": 15,
-        "star": 528,
-        "fork": 165
-    },
-    {
-        "name": "One",
-        "link": "https://github.com/EYHN/hexo-theme-one",
-        "description": "Material and One page",
-        "watch": 26,
-        "star": 515,
-        "fork": 59
     }
 ]

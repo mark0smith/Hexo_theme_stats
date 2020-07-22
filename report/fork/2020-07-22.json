@@ -32,12 +32,28 @@
         "fork": 555
     },
     {
+        "name": "Apollo",
+        "link": "https://github.com/pinggod/hexo-theme-apollo",
+        "description": "A theme inspired by http://cn.vuejs.org/",
+        "watch": 43,
+        "star": 18,
+        "fork": 534
+    },
+    {
         "name": "Hermes",
         "link": "https://github.com/claymcleod/hexo-theme-hermes",
         "description": "Updated, opinionated continuation of the Apollo theme",
         "watch": 0,
         "star": 13,
         "fork": 534
+    },
+    {
+        "name": "Cactus Light",
+        "link": "https://github.com/gabithume/cactus-light",
+        "description": "The light version of Cactus Dark, a responsive, light and simple theme for a personal webpage",
+        "watch": 2,
+        "star": 73,
+        "fork": 517
     },
     {
         "name": "Cactus",
@@ -48,35 +64,19 @@
         "fork": 517
     },
     {
+        "name": "Cactus White",
+        "link": "https://github.com/sergodeeva/cactus-white",
+        "description": "A white version of Cactus Dark, responsive, clean and simple theme for a personal webpage",
+        "watch": 0,
+        "star": 54,
+        "fork": 517
+    },
+    {
         "name": "Tranquilpeak",
         "link": "https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak",
         "description": "A gorgeous responsive theme",
         "watch": 48,
         "star": 16,
         "fork": 478
-    },
-    {
-        "name": "Jacman",
-        "link": "https://github.com/wuchong/jacman",
-        "description": "A fresh looking and responsive theme",
-        "watch": 47,
-        "star": 1,
-        "fork": 379
-    },
-    {
-        "name": "landscape",
-        "link": "https://github.com/hexojs/hexo-theme-landscape",
-        "description": "A brand new default theme",
-        "watch": 28,
-        "star": 224,
-        "fork": 341
-    },
-    {
-        "name": "Bootstrap-Blog",
-        "link": "https://github.com/cgmartin/hexo-theme-bootstrap-blog",
-        "description": "A simple Twitter Bootstrap blog theme",
-        "watch": 8,
-        "star": 105,
-        "fork": 341
     }
 ]

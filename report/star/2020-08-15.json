@@ -1,5 +1,13 @@
 [
     {
+        "name": "Asnippet",
+        "link": "https://github.com/shenliyang/hexo-theme-snippet",
+        "description": "A simple and interesting theme",
+        "watch": 24,
+        "star": 967,
+        "fork": 205
+    },
+    {
         "name": "Diaspora",
         "link": "https://github.com/Fechin/hexo-theme-diaspora",
         "description": "A clean and responsive theme",
@@ -70,13 +78,5 @@
         "watch": 28,
         "star": 567,
         "fork": 178
-    },
-    {
-        "name": "Anatole",
-        "link": "https://github.com/Ben02/hexo-theme-Anatole",
-        "description": "A white and simple theme, originated from a Farbox theme",
-        "watch": 16,
-        "star": 551,
-        "fork": 122
     }
 ]

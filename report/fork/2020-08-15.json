@@ -40,14 +40,6 @@
         "fork": 532
     },
     {
-        "name": "Hermes",
-        "link": "https://github.com/claymcleod/hexo-theme-hermes",
-        "description": "Updated, opinionated continuation of the Apollo theme",
-        "watch": 0,
-        "star": 12,
-        "fork": 532
-    },
-    {
         "name": "Cactus White",
         "link": "https://github.com/sergodeeva/cactus-white",
         "description": "A white version of Cactus Dark, responsive, clean and simple theme for a personal webpage",
@@ -78,5 +70,13 @@
         "watch": 47,
         "star": 16,
         "fork": 479
+    },
+    {
+        "name": "Jacman",
+        "link": "https://github.com/wuchong/jacman",
+        "description": "A fresh looking and responsive theme",
+        "watch": 47,
+        "star": 1,
+        "fork": 377
     }
 ]

@@ -1,21 +1,5 @@
 [
     {
-        "name": "Asnippet",
-        "link": "https://github.com/shenliyang/hexo-theme-snippet",
-        "description": "A simple and interesting theme",
-        "watch": 24,
-        "star": 965,
-        "fork": 205
-    },
-    {
-        "name": "Diaspora",
-        "link": "https://github.com/Fechin/hexo-theme-diaspora",
-        "description": "A clean and responsive theme",
-        "watch": 10,
-        "star": 890,
-        "fork": 211
-    },
-    {
         "name": "Volantis",
         "link": "https://github.com/xaoxuu/hexo-theme-volantis",
         "description": "A Wonderful Theme for Hexo",
@@ -72,11 +56,27 @@
         "fork": 171
     },
     {
-        "name": "TKL",
-        "link": "https://github.com/SuperKieran/TKL",
-        "description": "A responsive design theme",
-        "watch": 28,
-        "star": 567,
-        "fork": 178
+        "name": "Anatole",
+        "link": "https://github.com/Ben02/hexo-theme-Anatole",
+        "description": "A white and simple theme, originated from a Farbox theme",
+        "watch": 16,
+        "star": 552,
+        "fork": 122
+    },
+    {
+        "name": "Skapp",
+        "link": "https://github.com/Mrminfive/hexo-theme-skapp",
+        "description": "A simple & beautiful & fast theme",
+        "watch": 20,
+        "star": 477,
+        "fork": 124
+    },
+    {
+        "name": "Replica",
+        "link": "https://github.com/sabrinaluo/hexo-theme-replica",
+        "description": "A github style replication theme",
+        "watch": 5,
+        "star": 470,
+        "fork": 64
     }
 ]

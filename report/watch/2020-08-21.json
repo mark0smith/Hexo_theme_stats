@@ -32,6 +32,14 @@
         "fork": 12
     },
     {
+        "name": "Yelee",
+        "link": "https://github.com/MOxFIVE/hexo-theme-yelee",
+        "description": "Another simple and elegant theme by MOxFIVE",
+        "watch": 64,
+        "star": 14,
+        "fork": 24
+    },
+    {
         "name": "Maupassant",
         "link": "https://github.com/tufu9441/maupassant-hexo",
         "description": "A simple theme with great performance on different devices",
@@ -56,27 +64,19 @@
         "fork": 376
     },
     {
-        "name": "Apollo",
-        "link": "https://github.com/pinggod/hexo-theme-apollo",
-        "description": "A theme inspired by http://cn.vuejs.org/",
-        "watch": 43,
-        "star": 18,
-        "fork": 531
+        "name": "Tranquilpeak",
+        "link": "https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak",
+        "description": "A gorgeous responsive theme",
+        "watch": 47,
+        "star": 16,
+        "fork": 478
     },
     {
-        "name": "light",
-        "link": "https://github.com/hexojs/hexo-theme-light",
-        "description": "Default theme",
-        "watch": 33,
-        "star": 297,
-        "fork": 175
-    },
-    {
-        "name": "Raytaylorism",
-        "link": "https://github.com/raytaylorlin/hexo-theme-raytaylorism",
-        "description": "A Material Design theme of with powerful features",
-        "watch": 28,
-        "star": 464,
-        "fork": 122
+        "name": "Hueman",
+        "link": "https://github.com/ppoffice/hexo-theme-hueman",
+        "description": "A redesign of Alx's wordpress theme Hueman",
+        "watch": 47,
+        "star": 11,
+        "fork": 334
     }
 ]

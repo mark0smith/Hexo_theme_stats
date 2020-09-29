@@ -32,20 +32,20 @@
         "fork": 12
     },
     {
-        "name": "Yelee",
-        "link": "https://github.com/MOxFIVE/hexo-theme-yelee",
-        "description": "Another simple and elegant theme by MOxFIVE",
-        "watch": 64,
-        "star": 14,
-        "fork": 24
-    },
-    {
         "name": "Maupassant",
         "link": "https://github.com/tufu9441/maupassant-hexo",
         "description": "A simple theme with great performance on different devices",
         "watch": 64,
         "star": 23,
         "fork": 664
+    },
+    {
+        "name": "Yelee",
+        "link": "https://github.com/MOxFIVE/hexo-theme-yelee",
+        "description": "Another simple and elegant theme by MOxFIVE",
+        "watch": 64,
+        "star": 14,
+        "fork": 24
     },
     {
         "name": "Matery",

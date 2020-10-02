@@ -56,19 +56,19 @@
         "fork": 531
     },
     {
-        "name": "Apollo",
-        "link": "https://github.com/pinggod/hexo-theme-apollo",
-        "description": "A theme inspired by http://cn.vuejs.org/",
-        "watch": 43,
-        "star": 18,
-        "fork": 529
-    },
-    {
         "name": "Hermes",
         "link": "https://github.com/claymcleod/hexo-theme-hermes",
         "description": "Updated, opinionated continuation of the Apollo theme",
         "watch": 0,
         "star": 12,
+        "fork": 529
+    },
+    {
+        "name": "Apollo",
+        "link": "https://github.com/pinggod/hexo-theme-apollo",
+        "description": "A theme inspired by http://cn.vuejs.org/",
+        "watch": 43,
+        "star": 18,
         "fork": 529
     },
     {

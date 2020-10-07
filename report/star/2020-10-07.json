@@ -24,12 +24,12 @@
         "fork": 292
     },
     {
-        "name": "pure",
-        "link": "https://github.com/cofess/hexo-theme-pure",
-        "description": "Theme pure. It's a pure theme",
-        "watch": 20,
-        "star": 681,
-        "fork": 204
+        "name": "Anisina",
+        "link": "https://github.com/haojen/hexo-theme-Anisina",
+        "description": "A support qiniu image cdn , simple responsive theme",
+        "watch": 24,
+        "star": 740,
+        "fork": 158
     },
     {
         "name": "Ayer",
@@ -38,6 +38,22 @@
         "watch": 15,
         "star": 650,
         "fork": 186
+    },
+    {
+        "name": "Huxblog",
+        "link": "https://github.com/Kaijun/hexo-theme-huxblog",
+        "description": "A lean and elegant Theme with optimized SEO (Ported)",
+        "watch": 19,
+        "star": 632,
+        "fork": 134
+    },
+    {
+        "name": "Nexmoe",
+        "link": "https://github.com/theme-nexmoe/hexo-theme-nexmoe",
+        "description": "A special Hexo theme",
+        "watch": 11,
+        "star": 631,
+        "fork": 92
     },
     {
         "name": "Minos",
@@ -56,27 +72,11 @@
         "fork": 179
     },
     {
-        "name": "One",
-        "link": "https://github.com/EYHN/hexo-theme-one",
-        "description": "Material and One page",
-        "watch": 26,
-        "star": 517,
-        "fork": 58
-    },
-    {
-        "name": "Replica",
-        "link": "https://github.com/sabrinaluo/hexo-theme-replica",
-        "description": "A github style replication theme",
-        "watch": 5,
-        "star": 475,
-        "fork": 63
-    },
-    {
-        "name": "Sakura",
-        "link": "https://github.com/honjun/hexo-theme-sakura",
-        "description": "A beautiful theme",
-        "watch": 14,
-        "star": 470,
-        "fork": 173
+        "name": "Anatole",
+        "link": "https://github.com/Ben02/hexo-theme-Anatole",
+        "description": "A white and simple theme, originated from a Farbox theme",
+        "watch": 16,
+        "star": 556,
+        "fork": 124
     }
 ]

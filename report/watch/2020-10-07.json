@@ -1,5 +1,13 @@
 [
     {
+        "name": "NexT",
+        "link": "https://github.com/theme-next/hexo-theme-next",
+        "description": "NexT is an elegant and powerful theme",
+        "watch": 96,
+        "star": 61,
+        "fork": 19
+    },
+    {
         "name": "Material",
         "link": "https://github.com/bolnh/hexo-theme-material",
         "description": "An elegant & Material Design Theme",
@@ -8,12 +16,36 @@
         "fork": 583
     },
     {
+        "name": "indigo",
+        "link": "https://github.com/yscoder/hexo-theme-indigo",
+        "description": "Material Design theme",
+        "watch": 75,
+        "star": 27,
+        "fork": 563
+    },
+    {
         "name": "Icarus",
         "link": "https://github.com/ppoffice/hexo-theme-icarus",
         "description": "A simple, delicate, and modern theme",
         "watch": 71,
         "star": 41,
         "fork": 12
+    },
+    {
+        "name": "Maupassant",
+        "link": "https://github.com/tufu9441/maupassant-hexo",
+        "description": "A simple theme with great performance on different devices",
+        "watch": 64,
+        "star": 23,
+        "fork": 666
+    },
+    {
+        "name": "Yelee",
+        "link": "https://github.com/MOxFIVE/hexo-theme-yelee",
+        "description": "Another simple and elegant theme by MOxFIVE",
+        "watch": 64,
+        "star": 14,
+        "fork": 24
     },
     {
         "name": "Matery",
@@ -32,51 +64,19 @@
         "fork": 377
     },
     {
-        "name": "Cactus",
-        "link": "https://github.com/probberechts/hexo-theme-cactus",
-        "description": "A responsive, clean and simple theme for a personal webpage",
-        "watch": 31,
-        "star": 17,
-        "fork": 532
+        "name": "Tranquilpeak",
+        "link": "https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak",
+        "description": "A gorgeous responsive theme",
+        "watch": 47,
+        "star": 16,
+        "fork": 479
     },
     {
-        "name": "TKL",
-        "link": "https://github.com/SuperKieran/TKL",
-        "description": "A responsive design theme",
-        "watch": 28,
-        "star": 568,
-        "fork": 179
-    },
-    {
-        "name": "Raytaylorism",
-        "link": "https://github.com/raytaylorlin/hexo-theme-raytaylorism",
-        "description": "A Material Design theme of with powerful features",
-        "watch": 28,
-        "star": 464,
-        "fork": 122
-    },
-    {
-        "name": "Volantis",
-        "link": "https://github.com/xaoxuu/hexo-theme-volantis",
-        "description": "A Wonderful Theme for Hexo",
-        "watch": 27,
-        "star": 878,
-        "fork": 292
-    },
-    {
-        "name": "One",
-        "link": "https://github.com/EYHN/hexo-theme-one",
-        "description": "Material and One page",
-        "watch": 26,
-        "star": 517,
-        "fork": 58
-    },
-    {
-        "name": "Even",
-        "link": "https://github.com/ahonn/hexo-theme-even",
-        "description": "A simple theme",
-        "watch": 25,
-        "star": 12,
-        "fork": 213
+        "name": "Hueman",
+        "link": "https://github.com/ppoffice/hexo-theme-hueman",
+        "description": "A redesign of Alx's wordpress theme Hueman",
+        "watch": 46,
+        "star": 11,
+        "fork": 335
     }
 ]

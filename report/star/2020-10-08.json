@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Diaspora",
+        "link": "https://github.com/Fechin/hexo-theme-diaspora",
+        "description": "A clean and responsive theme",
+        "watch": 11,
+        "star": 912,
+        "fork": 212
+    },
+    {
+        "name": "Volantis",
+        "link": "https://github.com/xaoxuu/hexo-theme-volantis",
+        "description": "A Wonderful Theme for Hexo",
+        "watch": 27,
+        "star": 878,
+        "fork": 292
+    },
+    {
+        "name": "Anisina",
+        "link": "https://github.com/haojen/hexo-theme-Anisina",
+        "description": "A support qiniu image cdn , simple responsive theme",
+        "watch": 24,
+        "star": 740,
+        "fork": 158
+    },
+    {
+        "name": "pure",
+        "link": "https://github.com/cofess/hexo-theme-pure",
+        "description": "Theme pure. It's a pure theme",
+        "watch": 20,
+        "star": 683,
+        "fork": 205
+    },
+    {
+        "name": "Ayer",
+        "link": "https://github.com/Shen-Yu/hexo-theme-ayer",
+        "description": "A Clean and Beautiful Theme for Hexo, also responsive.",
+        "watch": 15,
+        "star": 653,
+        "fork": 185
+    },
+    {
+        "name": "Nexmoe",
+        "link": "https://github.com/theme-nexmoe/hexo-theme-nexmoe",
+        "description": "A special Hexo theme",
+        "watch": 11,
+        "star": 631,
+        "fork": 91
+    },
+    {
+        "name": "Minos",
+        "link": "https://github.com/ppoffice/hexo-theme-minos",
+        "description": "A simple and retro styled theme, concentrated more on your ideas",
+        "watch": 24,
+        "star": 606,
+        "fork": 185
+    },
+    {
+        "name": "TKL",
+        "link": "https://github.com/SuperKieran/TKL",
+        "description": "A responsive design theme",
+        "watch": 28,
+        "star": 568,
+        "fork": 179
+    },
+    {
+        "name": "Anatole",
+        "link": "https://github.com/Ben02/hexo-theme-Anatole",
+        "description": "A white and simple theme, originated from a Farbox theme",
+        "watch": 16,
+        "star": 555,
+        "fork": 124
+    },
+    {
+        "name": "Vexo",
+        "link": "https://github.com/yanm1ng/hexo-theme-vexo",
+        "description": "Vexo is a theme inspired by Vue's official website",
+        "watch": 14,
+        "star": 527,
+        "fork": 119
+    }
+]

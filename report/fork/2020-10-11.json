@@ -8,43 +8,11 @@
         "fork": 691
     },
     {
-        "name": "Maupassant",
-        "link": "https://github.com/tufu9441/maupassant-hexo",
-        "description": "A simple theme with great performance on different devices",
-        "watch": 64,
-        "star": 23,
-        "fork": 666
-    },
-    {
-        "name": "Material",
-        "link": "https://github.com/bolnh/hexo-theme-material",
-        "description": "An elegant & Material Design Theme",
-        "watch": 89,
-        "star": 39,
-        "fork": 584
-    },
-    {
-        "name": "indigo",
-        "link": "https://github.com/yscoder/hexo-theme-indigo",
-        "description": "Material Design theme",
-        "watch": 74,
-        "star": 27,
-        "fork": 565
-    },
-    {
-        "name": "Cactus White",
-        "link": "https://github.com/sergodeeva/cactus-white",
-        "description": "A white version of Cactus Dark, responsive, clean and simple theme for a personal webpage",
-        "watch": 0,
-        "star": 56,
-        "fork": 533
-    },
-    {
-        "name": "Cactus Light",
-        "link": "https://github.com/gabithume/cactus-light",
-        "description": "The light version of Cactus Dark, a responsive, light and simple theme for a personal webpage",
-        "watch": 2,
-        "star": 73,
+        "name": "Cactus",
+        "link": "https://github.com/probberechts/hexo-theme-cactus",
+        "description": "A responsive, clean and simple theme for a personal webpage",
+        "watch": 31,
+        "star": 17,
         "fork": 533
     },
     {
@@ -56,27 +24,59 @@
         "fork": 526
     },
     {
-        "name": "Apollo",
-        "link": "https://github.com/pinggod/hexo-theme-apollo",
-        "description": "A theme inspired by http://cn.vuejs.org/",
-        "watch": 43,
-        "star": 18,
-        "fork": 526
+        "name": "Jacman",
+        "link": "https://github.com/wuchong/jacman",
+        "description": "A fresh looking and responsive theme",
+        "watch": 48,
+        "star": 1,
+        "fork": 377
     },
     {
-        "name": "Tranquilpeak",
-        "link": "https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak",
-        "description": "A gorgeous responsive theme",
-        "watch": 47,
-        "star": 16,
-        "fork": 478
+        "name": "Bootstrap-Blog",
+        "link": "https://github.com/cgmartin/hexo-theme-bootstrap-blog",
+        "description": "A simple Twitter Bootstrap blog theme",
+        "watch": 8,
+        "star": 105,
+        "fork": 344
     },
     {
-        "name": "Butterfly",
-        "link": "https://github.com/jerryc127/hexo-theme-butterfly",
-        "description": "A Simple and Card UI Design theme for Hexo",
+        "name": "Hueman",
+        "link": "https://github.com/ppoffice/hexo-theme-hueman",
+        "description": "A redesign of Alx's wordpress theme Hueman",
+        "watch": 46,
+        "star": 11,
+        "fork": 334
+    },
+    {
+        "name": "Fluid",
+        "link": "https://github.com/fluid-dev/hexo-theme-fluid",
+        "description": "An elegant and light theme",
         "watch": 24,
-        "star": 15,
-        "fork": 387
+        "star": 18,
+        "fork": 272
+    },
+    {
+        "name": "Archer",
+        "link": "https://github.com/fi3ework/hexo-theme-archer",
+        "description": "A smart and modern theme",
+        "watch": 25,
+        "star": 11,
+        "fork": 238
+    },
+    {
+        "name": "Even",
+        "link": "https://github.com/ahonn/hexo-theme-even",
+        "description": "A simple theme",
+        "watch": 25,
+        "star": 12,
+        "fork": 213
+    },
+    {
+        "name": "Diaspora",
+        "link": "https://github.com/Fechin/hexo-theme-diaspora",
+        "description": "A clean and responsive theme",
+        "watch": 11,
+        "star": 913,
+        "fork": 213
     }
 ]

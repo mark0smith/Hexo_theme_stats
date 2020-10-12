@@ -40,43 +40,43 @@
         "fork": 533
     },
     {
+        "name": "Cactus",
+        "link": "https://github.com/probberechts/hexo-theme-cactus",
+        "description": "A responsive, clean and simple theme for a personal webpage",
+        "watch": 31,
+        "star": 17,
+        "fork": 533
+    },
+    {
+        "name": "Cactus White",
+        "link": "https://github.com/sergodeeva/cactus-white",
+        "description": "A white version of Cactus Dark, responsive, clean and simple theme for a personal webpage",
+        "watch": 0,
+        "star": 56,
+        "fork": 533
+    },
+    {
+        "name": "Hermes",
+        "link": "https://github.com/claymcleod/hexo-theme-hermes",
+        "description": "Updated, opinionated continuation of the Apollo theme",
+        "watch": 0,
+        "star": 12,
+        "fork": 526
+    },
+    {
+        "name": "Apollo",
+        "link": "https://github.com/pinggod/hexo-theme-apollo",
+        "description": "A theme inspired by http://cn.vuejs.org/",
+        "watch": 43,
+        "star": 18,
+        "fork": 526
+    },
+    {
         "name": "Tranquilpeak",
         "link": "https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak",
         "description": "A gorgeous responsive theme",
         "watch": 47,
         "star": 16,
         "fork": 477
-    },
-    {
-        "name": "Bootstrap-Blog",
-        "link": "https://github.com/cgmartin/hexo-theme-bootstrap-blog",
-        "description": "A simple Twitter Bootstrap blog theme",
-        "watch": 8,
-        "star": 105,
-        "fork": 343
-    },
-    {
-        "name": "landscape",
-        "link": "https://github.com/hexojs/hexo-theme-landscape",
-        "description": "A brand new default theme",
-        "watch": 28,
-        "star": 228,
-        "fork": 343
-    },
-    {
-        "name": "Hueman",
-        "link": "https://github.com/ppoffice/hexo-theme-hueman",
-        "description": "A redesign of Alx's wordpress theme Hueman",
-        "watch": 46,
-        "star": 11,
-        "fork": 334
-    },
-    {
-        "name": "Archer",
-        "link": "https://github.com/fi3ework/hexo-theme-archer",
-        "description": "A smart and modern theme",
-        "watch": 25,
-        "star": 11,
-        "fork": 238
     }
 ]

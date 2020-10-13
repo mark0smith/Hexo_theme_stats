@@ -48,14 +48,6 @@
         "fork": 666
     },
     {
-        "name": "Matery",
-        "link": "https://github.com/blinkfox/hexo-theme-matery",
-        "description": "A beautiful theme with material design and responsive design",
-        "watch": 55,
-        "star": 26,
-        "fork": 692
-    },
-    {
         "name": "Jacman",
         "link": "https://github.com/wuchong/jacman",
         "description": "A fresh looking and responsive theme",
@@ -78,5 +70,13 @@
         "watch": 46,
         "star": 11,
         "fork": 334
+    },
+    {
+        "name": "Apollo",
+        "link": "https://github.com/pinggod/hexo-theme-apollo",
+        "description": "A theme inspired by http://cn.vuejs.org/",
+        "watch": 43,
+        "star": 18,
+        "fork": 526
     }
 ]

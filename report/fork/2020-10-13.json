@@ -1,13 +1,5 @@
 [
     {
-        "name": "Matery",
-        "link": "https://github.com/blinkfox/hexo-theme-matery",
-        "description": "A beautiful theme with material design and responsive design",
-        "watch": 55,
-        "star": 26,
-        "fork": 692
-    },
-    {
         "name": "Maupassant",
         "link": "https://github.com/tufu9441/maupassant-hexo",
         "description": "A simple theme with great performance on different devices",
@@ -78,5 +70,13 @@
         "watch": 47,
         "star": 16,
         "fork": 477
+    },
+    {
+        "name": "Butterfly",
+        "link": "https://github.com/jerryc127/hexo-theme-butterfly",
+        "description": "A Simple and Card UI Design theme for Hexo",
+        "watch": 24,
+        "star": 15,
+        "fork": 387
     }
 ]

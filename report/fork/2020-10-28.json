@@ -16,6 +16,14 @@
         "fork": 664
     },
     {
+        "name": "Material",
+        "link": "https://github.com/bolnh/hexo-theme-material",
+        "description": "An elegant & Material Design Theme",
+        "watch": 88,
+        "star": 39,
+        "fork": 582
+    },
+    {
         "name": "indigo",
         "link": "https://github.com/yscoder/hexo-theme-indigo",
         "description": "Material Design theme",
@@ -37,6 +45,14 @@
         "description": "The light version of Cactus Dark, a responsive, light and simple theme for a personal webpage",
         "watch": 2,
         "star": 73,
+        "fork": 534
+    },
+    {
+        "name": "Cactus",
+        "link": "https://github.com/probberechts/hexo-theme-cactus",
+        "description": "A responsive, clean and simple theme for a personal webpage",
+        "watch": 31,
+        "star": 18,
         "fork": 534
     },
     {
@@ -62,21 +78,5 @@
         "watch": 47,
         "star": 16,
         "fork": 477
-    },
-    {
-        "name": "Butterfly",
-        "link": "https://github.com/jerryc127/hexo-theme-butterfly",
-        "description": "A Simple and Card UI Design theme for Hexo",
-        "watch": 23,
-        "star": 16,
-        "fork": 399
-    },
-    {
-        "name": "Jacman",
-        "link": "https://github.com/wuchong/jacman",
-        "description": "A fresh looking and responsive theme",
-        "watch": 48,
-        "star": 1,
-        "fork": 378
     }
 ]

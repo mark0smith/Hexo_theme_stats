@@ -1,5 +1,21 @@
 [
     {
+        "name": "Asnippet",
+        "link": "https://github.com/shenliyang/hexo-theme-snippet",
+        "description": "A simple and interesting theme",
+        "watch": 24,
+        "star": 968,
+        "fork": 206
+    },
+    {
+        "name": "Diaspora",
+        "link": "https://github.com/Fechin/hexo-theme-diaspora",
+        "description": "A clean and responsive theme",
+        "watch": 11,
+        "star": 917,
+        "fork": 215
+    },
+    {
         "name": "Volantis",
         "link": "https://github.com/xaoxuu/hexo-theme-volantis",
         "description": "A Wonderful Theme for Hexo",
@@ -14,6 +30,22 @@
         "watch": 24,
         "star": 741,
         "fork": 158
+    },
+    {
+        "name": "pure",
+        "link": "https://github.com/cofess/hexo-theme-pure",
+        "description": "Theme pure. It's a pure theme",
+        "watch": 20,
+        "star": 691,
+        "fork": 209
+    },
+    {
+        "name": "Ayer",
+        "link": "https://github.com/Shen-Yu/hexo-theme-ayer",
+        "description": "A Clean and Beautiful Theme for Hexo, also responsive.",
+        "watch": 15,
+        "star": 680,
+        "fork": 193
     },
     {
         "name": "Nexmoe",
@@ -46,37 +78,5 @@
         "watch": 28,
         "star": 571,
         "fork": 178
-    },
-    {
-        "name": "Vexo",
-        "link": "https://github.com/yanm1ng/hexo-theme-vexo",
-        "description": "Vexo is a theme inspired by Vue's official website",
-        "watch": 14,
-        "star": 529,
-        "fork": 120
-    },
-    {
-        "name": "One",
-        "link": "https://github.com/EYHN/hexo-theme-one",
-        "description": "Material and One page",
-        "watch": 26,
-        "star": 515,
-        "fork": 57
-    },
-    {
-        "name": "Wikitten",
-        "link": "https://github.com/zthxxx/hexo-theme-Wikitten",
-        "description": "A personal wiki imitate Wikitten style",
-        "watch": 14,
-        "star": 513,
-        "fork": 112
-    },
-    {
-        "name": "Skapp",
-        "link": "https://github.com/Mrminfive/hexo-theme-skapp",
-        "description": "A simple & beautiful & fast theme",
-        "watch": 20,
-        "star": 487,
-        "fork": 127
     }
 ]

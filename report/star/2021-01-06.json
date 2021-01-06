@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Volantis",
+        "link": "https://github.com/xaoxuu/hexo-theme-volantis",
+        "description": "A Wonderful Theme for Hexo",
+        "watch": 27,
+        "star": 979,
+        "fork": 304
+    },
+    {
+        "name": "Asnippet",
+        "link": "https://github.com/shenliyang/hexo-theme-snippet",
+        "description": "A simple and interesting theme",
+        "watch": 24,
+        "star": 969,
+        "fork": 205
+    },
+    {
+        "name": "Diaspora",
+        "link": "https://github.com/Fechin/hexo-theme-diaspora",
+        "description": "A clean and responsive theme",
+        "watch": 10,
+        "star": 957,
+        "fork": 219
+    },
+    {
+        "name": "Ayer",
+        "link": "https://github.com/Shen-Yu/hexo-theme-ayer",
+        "description": "A Clean and Beautiful Theme for Hexo, also responsive.",
+        "watch": 16,
+        "star": 777,
+        "fork": 205
+    },
+    {
+        "name": "Anisina",
+        "link": "https://github.com/haojen/hexo-theme-Anisina",
+        "description": "A support qiniu image cdn , simple responsive theme",
+        "watch": 24,
+        "star": 742,
+        "fork": 158
+    },
+    {
+        "name": "Nexmoe",
+        "link": "https://github.com/theme-nexmoe/hexo-theme-nexmoe",
+        "description": "A special Hexo theme",
+        "watch": 12,
+        "star": 724,
+        "fork": 104
+    },
+    {
+        "name": "pure",
+        "link": "https://github.com/cofess/hexo-theme-pure",
+        "description": "Theme pure. It's a pure theme",
+        "watch": 20,
+        "star": 716,
+        "fork": 219
+    },
+    {
+        "name": "Huxblog",
+        "link": "https://github.com/Kaijun/hexo-theme-huxblog",
+        "description": "A lean and elegant Theme with optimized SEO (Ported)",
+        "watch": 18,
+        "star": 641,
+        "fork": 133
+    },
+    {
+        "name": "Minos",
+        "link": "https://github.com/ppoffice/hexo-theme-minos",
+        "description": "A simple and retro styled theme, concentrated more on your ideas",
+        "watch": 24,
+        "star": 623,
+        "fork": 189
+    },
+    {
+        "name": "TKL",
+        "link": "https://github.com/SuperKieran/TKL",
+        "description": "A responsive design theme",
+        "watch": 28,
+        "star": 573,
+        "fork": 180
+    }
+]

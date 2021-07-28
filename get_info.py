@@ -31,6 +31,8 @@ def get_theme_info(link):
     "从链接获取github上关注信息"
     try:
         assert link.startswith('https://github.com/')
+        print("downloading {}".format(link))
+
         a = requests.get(link,timeout=7)
         a.raise_for_status()
         soup = BeautifulSoup(a.text, 'lxml')

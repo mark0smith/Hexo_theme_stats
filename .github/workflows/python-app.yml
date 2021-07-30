@@ -1,0 +1,45 @@
+# This workflow will install Python dependencies, run tests and lint with a single version of Python
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
+
+name: Python application
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.6
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.6
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install flake8 pytest
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    - name: Generate Web Pages
+      run: |
+        python get_info.py
+        python generate_html.py
+    - name: Git Commit on Workflow
+      # You may pin to the exact commit or the version.
+      # uses: matheusalbino/git-commit@ec22539edac987513eb1787b652fb3375a200807
+      uses: matheusalbino/git-commit@v1.0.1
+      with:
+        # Github Token
+        github-token: ${{ secrets.token }}
+        # Git user.name
+        user-name: Github Actions - Git Commit
+        # Git user.email
+        user-email: github-actions-git-commit@users.noreply.github.com
+        # Git message
+        message: Github Actions - Git Commit
+        

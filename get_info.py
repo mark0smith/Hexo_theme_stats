@@ -36,8 +36,9 @@ def get_theme_info(link):
         a = requests.get(link,timeout=7)
         a.raise_for_status()
         soup = BeautifulSoup(a.text, 'lxml')
-        tags = soup.select('.pagehead-actions')[0]
-        tag_list = tags.find_all("a", attrs={'class': 'social-count'})
+        tag_list = soup.find_all("a", attrs={'class': 'social-count'})
+        assert len(tag_list) == 4
+        del tag_list[1]
         # watch star fork link
         watch, star, fork = [
             int(re.sub(r"[^\d]+", '', x.text.strip())) for x in tag_list]

@@ -31,24 +31,22 @@ def get_theme_info(link):
     "从链接获取github上关注信息"
     try:
         assert link.startswith('https://github.com/')
-        print("downloading {}".format(link))
-
         a = requests.get(link,timeout=7)
         a.raise_for_status()
         soup = BeautifulSoup(a.text, 'lxml')
-        tag_list = soup.find_all("a", attrs={'class': 'social-count'})
-        assert len(tag_list) == 4
-        del tag_list[1]
-        # watch star fork link
-        watch, star, fork = [
+        tag_list = soup.find_all("a", class_="social-count")
+        assert len(tag_list) == 2
+        star, fork = [
             int(re.sub(r"[^\d]+", '', x.text.strip())) for x in tag_list]
-        return {'watch': watch, 'star': star, 'fork': fork}
-    except AssertionError:
+        return {'star': star, 'fork': fork}
+    except AssertionError as e:
+        logging.exception(e)
         return None
     except KeyboardInterrupt:
         exit()
-    except requests.exceptions.HTTPError:
+    except requests.exceptions.HTTPError as e:
         print('{} 连接异常'.format(link))
+        logging.exception(e)
         return None
     except requests.exceptions.ConnectionError:
         print('{} 连接异常'.format(link))
@@ -64,7 +62,7 @@ def get_theme_info(link):
 def main():
     themes = get_theme_list()
     results = []
-    with ThreadPoolExecutor(max_workers=10) as executor:
+    with ThreadPoolExecutor(max_workers=3) as executor:
         future_to_info = {executor.submit(
             get_theme_info, theme['link']): theme for theme in themes}
         for future in as_completed(future_to_info):

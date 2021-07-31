@@ -26,6 +26,38 @@ def get_theme_list():
         __themes_list.append(x)
     return __themes_list
 
+def get_theme_info_from_api(link):
+    "使用GitHub API 获取信息"
+    try:
+        assert link.startswith('https://github.com/')
+        while link.endswith("/"):
+            link = link[:-1]
+        if link.endswith(".git"):
+            link = link[:-4]
+        github_token = os.environ['A_GITHUB_TOKEN']
+        repo_owner = link.split("/")[-2]
+        repo_name = link.split("/")[-1]
+        url = f"https://api.github.com/repos/{repo_owner}/{repo_name}"
+        headers = {
+            "Authorization": "token {}".format(github_token),
+            "Accept": "application/vnd.github.v3+json"
+        }
+        info = requests.get(url,headers=headers)
+        info.raise_for_status()
+        json_info = info.json()
+        fork = json_info["forks_count"]
+        star = json_info["stargazers_count"]
+        watch = json_info["watchers_count"]
+        return {'watch':watch,'star': star, 'fork': fork}
+    except KeyError:
+        exit()
+    except KeyboardInterrupt:
+        exit()
+
+    except Exception as e:
+        logging.exception(e)
+        return None
+
 
 def get_theme_info(link):
     "从链接获取github上关注信息"
@@ -64,7 +96,7 @@ def main():
     results = []
     with ThreadPoolExecutor(max_workers=3) as executor:
         future_to_info = {executor.submit(
-            get_theme_info, theme['link']): theme for theme in themes}
+            get_theme_info_from_api, theme['link']): theme for theme in themes}
         for future in as_completed(future_to_info):
             theme = future_to_info[future]
             try:

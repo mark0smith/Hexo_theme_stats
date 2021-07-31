@@ -5,54 +5,54 @@
         "description": "A simple, delicate, and modern theme",
         "watch": 4794,
         "star": 4794,
-        "fork": 1318
+        "fork": 1320
     },
     {
         "name": "Matery",
         "link": "https://github.com/blinkfox/hexo-theme-matery",
         "description": "A beautiful theme with material design and responsive design",
-        "watch": 3540,
-        "star": 3540,
-        "fork": 961
+        "watch": 3542,
+        "star": 3542,
+        "fork": 960
     },
     {
         "name": "Maupassant",
         "link": "https://github.com/tufu9441/maupassant-hexo",
         "description": "A simple theme with great performance on different devices",
-        "watch": 2346,
-        "star": 2346,
+        "watch": 2347,
+        "star": 2347,
         "fork": 640
     },
     {
         "name": "Butterfly",
         "link": "https://github.com/jerryc127/hexo-theme-butterfly",
         "description": "A Simple and Card UI Design theme for Hexo",
-        "watch": 2575,
-        "star": 2575,
+        "watch": 2577,
+        "star": 2577,
         "fork": 597
     },
     {
         "name": "Fluid",
         "link": "https://github.com/fluid-dev/hexo-theme-fluid",
         "description": "An elegant and light theme",
-        "watch": 3094,
-        "star": 3094,
-        "fork": 592
+        "watch": 3103,
+        "star": 3103,
+        "fork": 593
     },
     {
         "name": "Cactus",
         "link": "https://github.com/probberechts/hexo-theme-cactus",
         "description": "A responsive, clean and simple theme for a personal webpage",
-        "watch": 2050,
-        "star": 2050,
+        "watch": 2051,
+        "star": 2051,
         "fork": 591
     },
     {
         "name": "Material",
         "link": "https://github.com/bolnh/hexo-theme-material",
         "description": "An elegant & Material Design Theme",
-        "watch": 3999,
-        "star": 3999,
+        "watch": 4000,
+        "star": 4000,
         "fork": 579
     },
     {
@@ -61,7 +61,7 @@
         "description": "Material Design theme",
         "watch": 2742,
         "star": 2742,
-        "fork": 564
+        "fork": 565
     },
     {
         "name": "Apollo",
@@ -69,14 +69,14 @@
         "description": "A theme inspired by http://cn.vuejs.org/",
         "watch": 1789,
         "star": 1789,
-        "fork": 534
+        "fork": 535
     },
     {
         "name": "Tranquilpeak",
         "link": "https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak",
         "description": "A gorgeous responsive theme",
-        "watch": 1697,
-        "star": 1697,
+        "watch": 1698,
+        "star": 1698,
         "fork": 489
     }
 ]

@@ -49,11 +49,6 @@ def get_theme_info_from_api(link):
         star = json_info["stargazers_count"]
         watch = json_info["watchers_count"]
         return {'watch':watch,'star': star, 'fork': fork}
-    except KeyError:
-        exit()
-    except KeyboardInterrupt:
-        exit()
-
     except Exception as e:
         logging.exception(e)
         return None

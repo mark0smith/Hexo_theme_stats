@@ -26,6 +26,8 @@ jobs:
         pip install flake8 pytest
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Generate Web Pages
+      env: # Or as an environment variable
+        A_GITHUB_TOKEN: ${{ secrets.A_GITHUB_TOKEN }}
       run: |
         python get_info.py
         python generate_html.py

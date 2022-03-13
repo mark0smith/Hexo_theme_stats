@@ -13,7 +13,7 @@
         "description": "A beautiful theme with material design and responsive design",
         "watch": 4125,
         "star": 4125,
-        "fork": 1102
+        "fork": 1103
     },
     {
         "name": "Fluid",
@@ -21,31 +21,31 @@
         "description": "An elegant and light theme",
         "watch": 4067,
         "star": 4067,
-        "fork": 811
+        "fork": 812
     },
     {
         "name": "Butterfly",
         "link": "https://github.com/jerryc127/hexo-theme-butterfly",
         "description": "A Simple and Card UI Design theme for Hexo",
-        "watch": 3478,
-        "star": 3478,
+        "watch": 3485,
+        "star": 3485,
         "fork": 755
     },
     {
         "name": "Maupassant",
         "link": "https://github.com/tufu9441/maupassant-hexo",
         "description": "A simple theme with great performance on different devices",
-        "watch": 2410,
-        "star": 2410,
+        "watch": 2411,
+        "star": 2411,
         "fork": 651
     },
     {
         "name": "Cactus",
         "link": "https://github.com/probberechts/hexo-theme-cactus",
         "description": "A responsive, clean and simple theme for a personal webpage",
-        "watch": 2211,
-        "star": 2211,
-        "fork": 636
+        "watch": 2212,
+        "star": 2212,
+        "fork": 635
     },
     {
         "name": "Material",

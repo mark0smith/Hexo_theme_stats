@@ -115,7 +115,7 @@ def main():
     def write_out(theme_list, file_name):
         with open(file_name, 'w') as f:
             f.write(json.dumps(theme_list, indent=4, ensure_ascii=False))
-    paths = ["report/{}".format(x) for x in ['star', 'fork', 'watch']]
+    paths = ["report/{}".format(x) for x in ['star', 'fork', 'watch','total']]
     for path in paths:
         if not os.path.exists(path):
             os.makedirs(path)
@@ -123,6 +123,7 @@ def main():
     write_out(theme_star_top_10, "{}/{}.json".format(paths[0], today_date))
     write_out(theme_fork_top_10, "{}/{}.json".format(paths[1], today_date))
     write_out(theme_watch_top_10, "{}/{}.json".format(paths[2], today_date))
+    write_out(results, "{}/{}.json".format(paths[3], today_date))
 
 
 if __name__ == '__main__':

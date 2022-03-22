@@ -1,0 +1,2794 @@
+[
+    {
+        "name": "purer",
+        "link": "https://github.com/fengkx/hexo-theme-purer",
+        "description": "Theme rewrite based on pure, purer.",
+        "watch": 39,
+        "star": 39,
+        "fork": 5
+    },
+    {
+        "name": "AlphaDust",
+        "link": "https://github.com/klugjo/hexo-theme-alpha-dust",
+        "description": "A futuristic responsive theme",
+        "watch": 288,
+        "star": 288,
+        "fork": 96
+    },
+    {
+        "name": "beautiful-hexo",
+        "link": "https://github.com/twoyao/beautiful-hexo",
+        "description": "A simple responsive beautiful theme",
+        "watch": 63,
+        "star": 63,
+        "fork": 37
+    },
+    {
+        "name": "icalm",
+        "link": "https://github.com/nameoverflow/hexo-theme-icalm",
+        "description": "Light and elegant",
+        "watch": 121,
+        "star": 121,
+        "fork": 29
+    },
+    {
+        "name": "One-paper",
+        "link": "https://github.com/zheli-design/hexo-theme-one-paper",
+        "description": "A light, paper-like theme for writing and reading.",
+        "watch": 10,
+        "star": 10,
+        "fork": 2
+    },
+    {
+        "name": "Anatolo",
+        "link": "https://github.com/Lhcfl/hexo-theme-anatolo",
+        "description": "A simple hexo theme based on Anatole.",
+        "watch": 13,
+        "star": 13,
+        "fork": 5
+    },
+    {
+        "name": "A-RSnippet",
+        "link": "https://github.com/huyingjie/hexo-theme-A-RSnippet",
+        "description": "A beautiful and comprehensive responsive theme. The goal is to achieve as many functionalities as possible",
+        "watch": 67,
+        "star": 67,
+        "fork": 21
+    },
+    {
+        "name": "Aath",
+        "link": "https://github.com/lewis-geek/hexo-theme-Aath",
+        "description": "A theme inspired by zhihu and juejin",
+        "watch": 151,
+        "star": 151,
+        "fork": 23
+    },
+    {
+        "name": "Only",
+        "link": "https://github.com/lazzzis/hexo-theme-only",
+        "description": "Nothing strange. It's only a theme",
+        "watch": 33,
+        "star": 33,
+        "fork": 4
+    },
+    {
+        "name": "legend",
+        "link": "https://github.com/iHongRen/legend",
+        "description": "A theme with background video and audio",
+        "watch": 15,
+        "star": 15,
+        "fork": 6
+    },
+    {
+        "name": "Again",
+        "link": "https://github.com/lyyourc/hexo-theme-again",
+        "description": "Medium like, but more awesome",
+        "watch": 101,
+        "star": 101,
+        "fork": 32
+    },
+    {
+        "name": "Maupassant",
+        "link": "https://github.com/tufu9441/maupassant-hexo",
+        "description": "A simple theme with great performance on different devices",
+        "watch": 2412,
+        "star": 2412,
+        "fork": 651
+    },
+    {
+        "name": "zhl",
+        "link": "https://github.com/lizehongss/hexo-theme-zhl",
+        "description": "A sample and clean theme",
+        "watch": 5,
+        "star": 5,
+        "fork": 1
+    },
+    {
+        "name": "Anisina",
+        "link": "https://github.com/haojen/hexo-theme-Anisina",
+        "description": "A support qiniu image cdn , simple responsive theme",
+        "watch": 751,
+        "star": 751,
+        "fork": 163
+    },
+    {
+        "name": "Academia",
+        "link": "https://github.com/PhosphorW/hexo-theme-academia",
+        "description": "A simple page for academic websites on Hexo.",
+        "watch": 120,
+        "star": 120,
+        "fork": 35
+    },
+    {
+        "name": "PolarBear",
+        "link": "https://github.com/frostfan/hexo-theme-polarbear",
+        "description": "A light theme base on Even, inspired by Giuem",
+        "watch": 318,
+        "star": 318,
+        "fork": 68
+    },
+    {
+        "name": "TKL",
+        "link": "https://github.com/SuperKieran/TKL",
+        "description": "A responsive design theme",
+        "watch": 588,
+        "star": 588,
+        "fork": 179
+    },
+    {
+        "name": "Hive",
+        "link": "https://github.com/farnaziifz/hive-hexo",
+        "description": "a minimalist theme",
+        "watch": 12,
+        "star": 12,
+        "fork": 0
+    },
+    {
+        "name": "Primer",
+        "link": "https://github.com/justpsvm/hexo-theme-primer",
+        "description": "Github Style Theme",
+        "watch": 116,
+        "star": 116,
+        "fork": 25
+    },
+    {
+        "name": "still",
+        "link": "https://github.com/JeremyFan/hexo-theme-still",
+        "description": "Still is a minimal, pure colored theme inspired by farbox and apollo",
+        "watch": 24,
+        "star": 24,
+        "fork": 6
+    },
+    {
+        "name": "Clexy",
+        "link": "https://github.com/mkkhedawat/clexy",
+        "description": "Clexy, A clean and elegant theme",
+        "watch": 48,
+        "star": 48,
+        "fork": 16
+    },
+    {
+        "name": "Volantis",
+        "link": "https://github.com/volantis-x/hexo-theme-volantis",
+        "description": "A Wonderful Theme for Hexo",
+        "watch": 1388,
+        "star": 1388,
+        "fork": 442
+    },
+    {
+        "name": "cube",
+        "link": "https://github.com/ZEROKISEKI/hexo-theme-cube",
+        "description": "A Theme inspired by DIYgod wordpress theme",
+        "watch": 53,
+        "star": 53,
+        "fork": 20
+    },
+    {
+        "name": "Gandalfr",
+        "link": "https://github.com/MikeCoder/hexo-theme-Gandalfr",
+        "description": "Yet, just another blog theme, based on theme apollo",
+        "watch": 32,
+        "star": 32,
+        "fork": 11
+    },
+    {
+        "name": "Minidyne",
+        "link": "https://github.com/tomap/hexo-theme-minidyne",
+        "description": "Minimalistic Theme",
+        "watch": 3,
+        "star": 3,
+        "fork": 2
+    },
+    {
+        "name": "Suka",
+        "link": "https://github.com/SukkaW/hexo-theme-suka",
+        "description": "A Modern and Simple Theme, with a lot of powerful features",
+        "watch": 540,
+        "star": 540,
+        "fork": 51
+    },
+    {
+        "name": "Type",
+        "link": "https://github.com/aiokr/hexo-theme-type",
+        "description": "A material design hexo theme",
+        "watch": 12,
+        "star": 12,
+        "fork": 1
+    },
+    {
+        "name": "Line",
+        "link": "https://github.com/zhaobao/hexo-theme-line",
+        "description": "A responsive, neat and simple theme",
+        "watch": 7,
+        "star": 7,
+        "fork": 3
+    },
+    {
+        "name": "X'new",
+        "link": "https://github.com/XadillaX/hexo-xnew",
+        "description": "X'new theme. Referred from https://github.com/sjaakvandenberg/flexy",
+        "watch": 26,
+        "star": 26,
+        "fork": 6
+    },
+    {
+        "name": "artemisX",
+        "link": "https://github.com/wwwuxt/hexo-theme-artemisX",
+        "description": "A simple theme based on artemis, add new feature and new style",
+        "watch": 7,
+        "star": 7,
+        "fork": 1
+    },
+    {
+        "name": "Jacman",
+        "link": "https://github.com/wuchong/jacman",
+        "description": "A fresh looking and responsive theme",
+        "watch": 1022,
+        "star": 1022,
+        "fork": 379
+    },
+    {
+        "name": "Anodyne",
+        "link": "https://github.com/klugjo/hexo-theme-anodyne",
+        "description": "Clean and Bright Theme with cute icons",
+        "watch": 144,
+        "star": 144,
+        "fork": 36
+    },
+    {
+        "name": "Samljen",
+        "link": "https://github.com/chunqiuyiyu/hexo-theme-samljen",
+        "description": "Another simple blog theme, inspired by Choo",
+        "watch": 14,
+        "star": 14,
+        "fork": 1
+    },
+    {
+        "name": "nebula",
+        "link": "https://github.com/Suolawangzai/hexo-theme-nebula",
+        "description": "A simple, clean, dark theme",
+        "watch": 6,
+        "star": 6,
+        "fork": 5
+    },
+    {
+        "name": "Yearn",
+        "link": "https://github.com/Youthink/hexo-themes-yearn",
+        "description": "A responsive and simple theme",
+        "watch": 37,
+        "star": 37,
+        "fork": 9
+    },
+    {
+        "name": "Replica",
+        "link": "https://github.com/sabrinaluo/hexo-theme-replica",
+        "description": "A github style replication theme",
+        "watch": 514,
+        "star": 514,
+        "fork": 63
+    },
+    {
+        "name": "Nlvi",
+        "link": "https://github.com/ColMugX/hexo-theme-Nlvi",
+        "description": "A simple theme named Nlvi",
+        "watch": 227,
+        "star": 227,
+        "fork": 23
+    },
+    {
+        "name": "hannah",
+        "link": "https://github.com/objectyan/hexo-theme-hannah",
+        "description": "A simple & beautiful & fast theme",
+        "watch": 14,
+        "star": 14,
+        "fork": 2
+    },
+    {
+        "name": "Ocean",
+        "link": "https://github.com/zhwangart/hexo-theme-ocean",
+        "description": "Ocean is a mobile-enabled theme based on the features in theme landscape",
+        "watch": 429,
+        "star": 429,
+        "fork": 83
+    },
+    {
+        "name": "Xups",
+        "link": "https://github.com/jangdelong/hexo-theme-xups",
+        "description": "A simple and flat theme",
+        "watch": 114,
+        "star": 114,
+        "fork": 50
+    },
+    {
+        "name": "PureBlue",
+        "link": "https://github.com/Chorer/hexo-theme-PureBlue",
+        "description": "A light color theme with simple style.",
+        "watch": 51,
+        "star": 51,
+        "fork": 4
+    },
+    {
+        "name": "Aurora",
+        "link": "https://github.com/auroral-ui/hexo-theme-aurora",
+        "description": "Futuristic auroral Hexo theme.",
+        "watch": 416,
+        "star": 416,
+        "fork": 87
+    },
+    {
+        "name": "Kaze",
+        "link": "https://github.com/theme-kaze/hexo-theme-Kaze",
+        "description": "A simple, responsive and modern Hexo theme",
+        "watch": 118,
+        "star": 118,
+        "fork": 12
+    },
+    {
+        "name": "NexT",
+        "link": "https://github.com/next-theme/hexo-theme-next",
+        "description": "NexT is an elegant and powerful theme",
+        "watch": 1372,
+        "star": 1372,
+        "fork": 273
+    },
+    {
+        "name": "Utone",
+        "link": "https://github.com/shixiaohu2206/hexo-theme-utone",
+        "description": "A pure and minimalist theme",
+        "watch": 21,
+        "star": 21,
+        "fork": 4
+    },
+    {
+        "name": "A-Obsidian",
+        "link": "https://github.com/bennyxguo/hexo-theme-obsidian",
+        "description": "A dark Hexo theme, it's responsive, simple but elegant.",
+        "watch": 608,
+        "star": 608,
+        "fork": 97
+    },
+    {
+        "name": "A-Pure",
+        "link": "https://github.com/renbaoshuo/hexo-theme-pure",
+        "description": "A modern and simple theme for Hexo.",
+        "watch": 58,
+        "star": 58,
+        "fork": 8
+    },
+    {
+        "name": "brewski",
+        "link": "https://github.com/tiaanduplessis/hexo-theme-brewski",
+        "description": "A minimal theme",
+        "watch": 83,
+        "star": 83,
+        "fork": 21
+    },
+    {
+        "name": "believe",
+        "link": "https://github.com/th720309/hexo-theme-believe",
+        "description": "A sample theme named believe",
+        "watch": 86,
+        "star": 86,
+        "fork": 11
+    },
+    {
+        "name": "Shoka",
+        "link": "https://github.com/amehime/hexo-theme-shoka",
+        "description": "A simple hexo theme for YumeShoka.",
+        "watch": 356,
+        "star": 356,
+        "fork": 123
+    },
+    {
+        "name": "Ascent",
+        "link": "https://github.com/cjquines/hexo-theme-ascent",
+        "description": "An opinionated Hexo theme for blogs with long blocks of text.",
+        "watch": 36,
+        "star": 36,
+        "fork": 8
+    },
+    {
+        "name": "hexadillax",
+        "link": "https://github.com/XadillaX/hexadillax",
+        "description": "XadillaX built this theme with love and an otaku heart",
+        "watch": 67,
+        "star": 67,
+        "fork": 17
+    },
+    {
+        "name": "Raytaylorism",
+        "link": "https://github.com/raytaylorlin/hexo-theme-raytaylorism",
+        "description": "A Material Design theme of with powerful features",
+        "watch": 467,
+        "star": 467,
+        "fork": 113
+    },
+    {
+        "name": "XOXO",
+        "link": "https://github.com/KevinOfNeu/hexo-theme-xoxo",
+        "description": "A responsive and simple theme",
+        "watch": 155,
+        "star": 155,
+        "fork": 36
+    },
+    {
+        "name": "Yin",
+        "link": "https://github.com/Yin-Hongwei/hexo-theme-Yin",
+        "description": "A Simple Theme for hexo.",
+        "watch": 8,
+        "star": 8,
+        "fork": 4
+    },
+    {
+        "name": "Aomori",
+        "link": "https://github.com/lh1me/hexo-theme-aomori",
+        "description": "A Hexo Theme.",
+        "watch": 268,
+        "star": 268,
+        "fork": 35
+    },
+    {
+        "name": "Candelas",
+        "link": "https://github.com/DukeLuo/hexo-theme-candelas",
+        "description": "The next generation of the hexo default theme Landscape.",
+        "watch": 5,
+        "star": 5,
+        "fork": 1
+    },
+    {
+        "name": "Cactus Light",
+        "link": "https://github.com/gabithume/cactus-light",
+        "description": "The light version of Cactus Dark, a responsive, light and simple theme for a personal webpage",
+        "watch": 78,
+        "star": 78,
+        "fork": 19
+    },
+    {
+        "name": "Starry",
+        "link": "https://github.com/meethigher/hexo-theme-starry",
+        "description": "A responsive starry theme for Hexo.",
+        "watch": 18,
+        "star": 18,
+        "fork": 1
+    },
+    {
+        "name": "Conci",
+        "link": "https://github.com/cspp01/concise",
+        "description": "A concise theme",
+        "watch": 8,
+        "star": 8,
+        "fork": 3
+    },
+    {
+        "name": "Nothinglin",
+        "link": "https://github.com/Nothing-lin/hexo-theme-nothinglin",
+        "description": "A beauty-simple theme for Hexo.",
+        "watch": 4,
+        "star": 4,
+        "fork": 1
+    },
+    {
+        "name": "Lap",
+        "link": "https://github.com/BosenY/Lap",
+        "description": "A beautiful and clean theme, with station search and easy comment",
+        "watch": 16,
+        "star": 16,
+        "fork": 2
+    },
+    {
+        "name": "Chord",
+        "link": "https://github.com/Simlesos/hexo-theme-chord",
+        "description": "A simple and pure template",
+        "watch": 15,
+        "star": 15,
+        "fork": 5
+    },
+    {
+        "name": "Adoubi",
+        "link": "https://github.com/shinux/hexo-theme-adoubi",
+        "description": "A simple theme without tags, categories, comments and other chaos",
+        "watch": 38,
+        "star": 38,
+        "fork": 11
+    },
+    {
+        "name": "Aircv",
+        "link": "https://github.com/molavec/hexo-theme-aircv",
+        "description": "This is Hexo Theme with a beautiful style design form KeenThemes adapted to hexo by Molavec.",
+        "watch": 36,
+        "star": 36,
+        "fork": 10
+    },
+    {
+        "name": "Icarus",
+        "link": "https://github.com/ppoffice/hexo-theme-icarus",
+        "description": "A simple, delicate, and modern theme",
+        "watch": 5223,
+        "star": 5223,
+        "fork": 1426
+    },
+    {
+        "name": "Web-Nary",
+        "link": "https://github.com/BRAVO68WEB/hexo-webnary-theme",
+        "description": "A Fully Customised Hexo Flat Modular Theme for Bloging and More ...",
+        "watch": 4,
+        "star": 4,
+        "fork": 1
+    },
+    {
+        "name": "Butterfly",
+        "link": "https://github.com/jerryc127/hexo-theme-butterfly",
+        "description": "A Simple and Card UI Design theme for Hexo",
+        "watch": 3544,
+        "star": 3544,
+        "fork": 761
+    },
+    {
+        "name": "Even",
+        "link": "https://github.com/ahonn/hexo-theme-even",
+        "description": "A simple theme",
+        "watch": 1295,
+        "star": 1295,
+        "fork": 220
+    },
+    {
+        "name": "fabric",
+        "link": "https://github.com/wd/hexo-fabric",
+        "description": "A simple theme, support archive and tags cloud",
+        "watch": 10,
+        "star": 10,
+        "fork": 3
+    },
+    {
+        "name": "Klise",
+        "link": "https://github.com/dewjohn/hexo-theme-klise",
+        "description": "A simple, concise, and fast theme for Hexo.",
+        "watch": 6,
+        "star": 6,
+        "fork": 1
+    },
+    {
+        "name": "icarus-rtl-jalaali",
+        "link": "https://github.com/ghaseminya/hexo-theme-icarus_rtl_jalaali",
+        "description": "Add jalaali calendar and create a rtl layout on icarus theme",
+        "watch": 16,
+        "star": 16,
+        "fork": 6
+    },
+    {
+        "name": "mono",
+        "link": "https://github.com/problem233/hexo-theme-mono",
+        "description": "An extremely simple and customizable blog theme",
+        "watch": 1,
+        "star": 1,
+        "fork": 1
+    },
+    {
+        "name": "Aero-Dual",
+        "link": "https://github.com/levblanc/hexo-theme-aero-dual",
+        "description": "Minimal and responsive. Easy/automatic switch of dark and light theme style by simple configuration. Theme color change is also easy",
+        "watch": 151,
+        "star": 151,
+        "fork": 49
+    },
+    {
+        "name": "Simplest",
+        "link": "https://github.com/dnxbf321/hexo-theme-simplest",
+        "description": "Very simple, written with swig & scss",
+        "watch": 25,
+        "star": 25,
+        "fork": 6
+    },
+    {
+        "name": "React",
+        "link": "https://github.com/NoahDragon/hexo-theme-react",
+        "description": "Material design multipurpose theme",
+        "watch": 75,
+        "star": 75,
+        "fork": 22
+    },
+    {
+        "name": "Ochuunn",
+        "link": "https://github.com/ochukai/hexo-theme-ochuunn",
+        "description": "Clean, elegant and beautiful Theme with optimized SEO",
+        "watch": 203,
+        "star": 203,
+        "fork": 41
+    },
+    {
+        "name": "olive",
+        "link": "https://github.com/zhangolve/hexo-theme-olive",
+        "description": "the first theme which has light mode",
+        "watch": 12,
+        "star": 12,
+        "fork": 2
+    },
+    {
+        "name": "Cxo",
+        "link": "https://github.com/Longlongyu/hexo-theme-Cxo",
+        "description": "A cool ，simple & beautiful theme",
+        "watch": 122,
+        "star": 122,
+        "fork": 38
+    },
+    {
+        "name": "Griddy",
+        "link": "https://github.com/sira313/hexo-theme-griddy",
+        "description": "Hexo theme for artist & photographer showing their work",
+        "watch": 22,
+        "star": 22,
+        "fork": 13
+    },
+    {
+        "name": "snark",
+        "link": "https://github.com/Litreily/hexo-theme-snark",
+        "description": "A dark theme with lofter style",
+        "watch": 57,
+        "star": 57,
+        "fork": 14
+    },
+    {
+        "name": "Nexmoe",
+        "link": "https://github.com/theme-nexmoe/hexo-theme-nexmoe",
+        "description": "A special Hexo theme",
+        "watch": 1189,
+        "star": 1189,
+        "fork": 180
+    },
+    {
+        "name": "Hiero",
+        "link": "https://github.com/iTimeTraveler/hexo-theme-hiero",
+        "description": "A free magazine and blog style theme",
+        "watch": 210,
+        "star": 210,
+        "fork": 139
+    },
+    {
+        "name": "Insulin",
+        "link": "https://github.com/kb1000fx/hexo-theme-insulin",
+        "description": "A Simple and Pure Responsive Theme for Hexo",
+        "watch": 18,
+        "star": 18,
+        "fork": 2
+    },
+    {
+        "name": "hexoThemeKacper",
+        "link": "https://github.com/jaywcjlove/hexoThemeKacper",
+        "description": "Suitable for products blog",
+        "watch": 33,
+        "star": 33,
+        "fork": 13
+    },
+    {
+        "name": "curry",
+        "link": "https://github.com/gary-Shen/hexo-theme-bear",
+        "description": "A beautiful theme with reference to Bear's reading experience",
+        "watch": 85,
+        "star": 85,
+        "fork": 14
+    },
+    {
+        "name": "yun",
+        "link": "https://github.com/YunYouJun/hexo-theme-yun",
+        "description": "A light & fast & cute theme for Hexo.",
+        "watch": 954,
+        "star": 954,
+        "fork": 166
+    },
+    {
+        "name": "A-Quark",
+        "link": "https://github.com/pcrab/hexo-theme-quark",
+        "description": "A simple but powerful theme for Hexo.",
+        "watch": 30,
+        "star": 30,
+        "fork": 3
+    },
+    {
+        "name": "Edinburgh",
+        "link": "https://github.com/sharvaridesai/hexo-theme-edinburgh",
+        "description": "Clean, beautiful portfolio theme",
+        "watch": 310,
+        "star": 310,
+        "fork": 71
+    },
+    {
+        "name": "BlueLake",
+        "link": "https://github.com/chaooo/hexo-theme-BlueLake",
+        "description": "A responsive , simple theme",
+        "watch": 320,
+        "star": 320,
+        "fork": 128
+    },
+    {
+        "name": "Frame",
+        "link": "https://github.com/zoeingwingkei/frame",
+        "description": "A minimal, elegant hexo theme.",
+        "watch": 33,
+        "star": 33,
+        "fork": 9
+    },
+    {
+        "name": "classless",
+        "link": "https://github.com/fiatjaf/classless-hexo",
+        "description": "The Classless templates and themes implemented",
+        "watch": 14,
+        "star": 14,
+        "fork": 5
+    },
+    {
+        "name": "Minos",
+        "link": "https://github.com/ppoffice/hexo-theme-minos",
+        "description": "A simple and retro styled theme, concentrated more on your ideas",
+        "watch": 691,
+        "star": 691,
+        "fork": 199
+    },
+    {
+        "name": "rexo",
+        "link": "https://github.com/bluemix/hexo-theme-rexo",
+        "description": "Rexo is a minimally customized theme that supports RTL",
+        "watch": 4,
+        "star": 4,
+        "fork": 2
+    },
+    {
+        "name": "Lite",
+        "link": "https://github.com/HeskeyBaozi/hexo-theme-lite",
+        "description": "Keep Calm, Light and Writing, using Vue.js and Typescript",
+        "watch": 156,
+        "star": 156,
+        "fork": 30
+    },
+    {
+        "name": "ARIA",
+        "link": "https://github.com/AlynxZhou/hexo-theme-aria",
+        "description": "Inspired by Kalafina's song ARIA",
+        "watch": 146,
+        "star": 146,
+        "fork": 46
+    },
+    {
+        "name": "Chan",
+        "link": "https://github.com/denjones/hexo-theme-chan",
+        "description": "A super simple and elegant theme",
+        "watch": 148,
+        "star": 148,
+        "fork": 59
+    },
+    {
+        "name": "LiveForCode",
+        "link": "https://github.com/first19326/hexo-liveforcode",
+        "description": "A beautiful theme for Hexo.",
+        "watch": 32,
+        "star": 32,
+        "fork": 9
+    },
+    {
+        "name": "A-Huhu",
+        "link": "https://github.com/shixiaohu2206/hexo-theme-huhu",
+        "description": "A simple and constantly revise theme.",
+        "watch": 101,
+        "star": 101,
+        "fork": 26
+    },
+    {
+        "name": "Mtics-Resume",
+        "link": "https://github.com/mtics/hexo-mtics-resume",
+        "description": "A simple and minimal hexo resume theme",
+        "watch": 81,
+        "star": 81,
+        "fork": 14
+    },
+    {
+        "name": "Free2mind",
+        "link": "https://github.com/codeditor2/free2mind",
+        "description": "A new debonaire theme",
+        "watch": 18,
+        "star": 18,
+        "fork": 7
+    },
+    {
+        "name": "clean-dark",
+        "link": "https://github.com/howardliu-cn/hexo-theme-clean-dark",
+        "description": "A Simple Clean Dark Theme for Hexo",
+        "watch": 21,
+        "star": 21,
+        "fork": 3
+    },
+    {
+        "name": "yanchangyou",
+        "link": "https://github.com/yanchangyou/blog.321zou.com",
+        "description": "A simple and easy read theme that inspired by Next",
+        "watch": 4,
+        "star": 4,
+        "fork": 2
+    },
+    {
+        "name": "casual",
+        "link": "https://github.com/littlewin-wang/hexo-theme-casual",
+        "description": "A simple and cool theme",
+        "watch": 52,
+        "star": 52,
+        "fork": 13
+    },
+    {
+        "name": "Chic",
+        "link": "https://github.com/Siricee/hexo-theme-Chic",
+        "description": "An elegant,powerful,easy-to-read responsive Hexo theme.",
+        "watch": 644,
+        "star": 644,
+        "fork": 144
+    },
+    {
+        "name": "orange",
+        "link": "https://github.com/Orange-way/hexo-theme-orange",
+        "description": "A simple theme for recording life.",
+        "watch": 12,
+        "star": 12,
+        "fork": 2
+    },
+    {
+        "name": "octo",
+        "link": "https://github.com/jbreckmckye/hexo-theme-octo",
+        "description": "A port of the Octopress 2 'classic' theme",
+        "watch": 29,
+        "star": 29,
+        "fork": 9
+    },
+    {
+        "name": "PreciousJoy",
+        "link": "https://github.com/fireworks99/hexo-theme-PreciousJoy",
+        "description": "A simple hexo theme",
+        "watch": 1,
+        "star": 1,
+        "fork": 0
+    },
+    {
+        "name": "Amorfati",
+        "link": "https://github.com/mulder21c/hexo-theme-amorfati",
+        "description": "A responsive simple theme",
+        "watch": 12,
+        "star": 12,
+        "fork": 3
+    },
+    {
+        "name": "Wikitten",
+        "link": "https://github.com/zthxxx/hexo-theme-Wikitten",
+        "description": "A personal wiki imitate Wikitten style",
+        "watch": 612,
+        "star": 612,
+        "fork": 130
+    },
+    {
+        "name": "another",
+        "link": "https://github.com/TongchengQiu/hexo-theme-another",
+        "description": "A pithy and pure template",
+        "watch": 81,
+        "star": 81,
+        "fork": 14
+    },
+    {
+        "name": "Pure",
+        "link": "https://github.com/cofess/hexo-theme-pure",
+        "description": "Theme pure. It's a pure theme",
+        "watch": 903,
+        "star": 903,
+        "fork": 274
+    },
+    {
+        "name": "Archer",
+        "link": "https://github.com/fi3ework/hexo-theme-archer",
+        "description": "A smart and modern theme",
+        "watch": 1302,
+        "star": 1302,
+        "fork": 261
+    },
+    {
+        "name": "Ada",
+        "link": "https://github.com/shuiRong/hexo-theme-Ada",
+        "description": "Ada is an concise theme",
+        "watch": 22,
+        "star": 22,
+        "fork": 7
+    },
+    {
+        "name": "MeiliDu",
+        "link": "https://github.com/HoverBaum/meilidu-hexo",
+        "description": "A beautiful read",
+        "watch": 82,
+        "star": 82,
+        "fork": 15
+    },
+    {
+        "name": "zhaoo",
+        "link": "https://github.com/izhaoo/hexo-theme-zhaoo",
+        "description": "A simple theme for Hexo.",
+        "watch": 213,
+        "star": 213,
+        "fork": 73
+    },
+    {
+        "name": "Book",
+        "link": "https://github.com/kaiiiz/hexo-theme-book",
+        "description": "A simple, elegant, book-like hexo theme with some useful features.",
+        "watch": 213,
+        "star": 213,
+        "fork": 32
+    },
+    {
+        "name": "Particle",
+        "link": "https://github.com/korilin/hexo-theme-particle",
+        "description": "A concise theme with 3 color styles.",
+        "watch": 32,
+        "star": 32,
+        "fork": 9
+    },
+    {
+        "name": "sam",
+        "link": "https://github.com/Sam618/hexo-theme-sam",
+        "description": "A simple, clean theme",
+        "watch": 12,
+        "star": 12,
+        "fork": 2
+    },
+    {
+        "name": "Yelee",
+        "link": "https://github.com/MOxFIVE/hexo-theme-yelee",
+        "description": "Another simple and elegant theme by MOxFIVE",
+        "watch": 1384,
+        "star": 1384,
+        "fork": 338
+    },
+    {
+        "name": "artemis",
+        "link": "https://github.com/Dreyer/hexo-theme-artemis",
+        "description": "A minimalist theme inspired by Apollo, built with Pug and Sass",
+        "watch": 49,
+        "star": 49,
+        "fork": 16
+    },
+    {
+        "name": "Icer",
+        "link": "https://github.com/GGICE/hexo-icer",
+        "description": "A simple theme",
+        "watch": 21,
+        "star": 21,
+        "fork": 5
+    },
+    {
+        "name": "Materialize",
+        "link": "https://github.com/carlos-algms/hexo-theme-materialize",
+        "description": "A clean materialize css theme with home page layout different than the other pages",
+        "watch": 39,
+        "star": 39,
+        "fork": 15
+    },
+    {
+        "name": "milk",
+        "link": "https://github.com/MRsoymilk/hexo-theme-milk",
+        "description": "A tiling window theme.",
+        "watch": 5,
+        "star": 5,
+        "fork": 3
+    },
+    {
+        "name": "Clover",
+        "link": "https://github.com/esappear/hexo-theme-clover",
+        "description": "A real simple theme",
+        "watch": 184,
+        "star": 184,
+        "fork": 39
+    },
+    {
+        "name": "dawn",
+        "link": "https://github.com/Ruffianjiang/hexo-theme-dawn",
+        "description": "Theme dawn. It's a dawn theme",
+        "watch": 4,
+        "star": 4,
+        "fork": 0
+    },
+    {
+        "name": "AirCloud",
+        "link": "https://github.com/aircloud/hexo-theme-aircloud",
+        "description": "A light and clean theme",
+        "watch": 421,
+        "star": 421,
+        "fork": 105
+    },
+    {
+        "name": "Mango",
+        "link": "https://github.com/mango-tree/hexo-theme-mango",
+        "description": "Simple & Light Theme",
+        "watch": 11,
+        "star": 11,
+        "fork": 0
+    },
+    {
+        "name": "Vita",
+        "link": "https://github.com/Harendra1993/vita",
+        "description": "A simple and minimal Hexo resume theme",
+        "watch": 23,
+        "star": 23,
+        "fork": 5
+    },
+    {
+        "name": "Lights",
+        "link": "https://github.com/F0r3at/Lights",
+        "description": "A simple theme",
+        "watch": 7,
+        "star": 7,
+        "fork": 2
+    },
+    {
+        "name": "Phantom",
+        "link": "https://github.com/klugjo/hexo-theme-phantom",
+        "description": "Full featured, visual blog",
+        "watch": 226,
+        "star": 226,
+        "fork": 59
+    },
+    {
+        "name": "Cards",
+        "link": "https://github.com/ChrAlpha/hexo-theme-cards",
+        "description": "A Simple & Swift Theme for Hexo, designed as its name.",
+        "watch": 281,
+        "star": 281,
+        "fork": 30
+    },
+    {
+        "name": "stun",
+        "link": "https://github.com/liuyib/hexo-theme-stun",
+        "description": "A beautiful & simple theme",
+        "watch": 501,
+        "star": 501,
+        "fork": 109
+    },
+    {
+        "name": "pandollo",
+        "link": "https://github.com/lyndonoc/hexo-theme-pandollo",
+        "description": "A clean and minimal theme, inspired by Panda Syntax theme and Apollo theme",
+        "watch": 26,
+        "star": 26,
+        "fork": 6
+    },
+    {
+        "name": "Prince",
+        "link": "https://github.com/yiliashaw/hexo-theme-prince",
+        "description": "A SIMPLE and CLEAN theme",
+        "watch": 33,
+        "star": 33,
+        "fork": 11
+    },
+    {
+        "name": "Dearmsdan",
+        "link": "https://github.com/ZHD99/hexo-theme-dearmsdan",
+        "description": "HEXO-Dearmsdan The theme is in a dark color, It gives people a sense of emptiness",
+        "watch": 11,
+        "star": 11,
+        "fork": 1
+    },
+    {
+        "name": "Cicada",
+        "link": "https://github.com/Kexin-Li/hexo-theme-cicada",
+        "description": "A concise and retro theme",
+        "watch": 16,
+        "star": 16,
+        "fork": 1
+    },
+    {
+        "name": "xoxo-plus",
+        "link": "https://github.com/fooying/hexo-theme-xoxo-plus",
+        "description": "A Simple Template",
+        "watch": 32,
+        "star": 32,
+        "fork": 10
+    },
+    {
+        "name": "Apollo",
+        "link": "https://github.com/pinggod/hexo-theme-apollo",
+        "description": "A theme inspired by http://cn.vuejs.org/",
+        "watch": 1794,
+        "star": 1794,
+        "fork": 531
+    },
+    {
+        "name": "A-ACE",
+        "link": "https://github.com/kinggozhang/hexo-theme-ace",
+        "description": "A Comprehensive Elegant Theme",
+        "watch": 47,
+        "star": 47,
+        "fork": 7
+    },
+    {
+        "name": "Concise-theme",
+        "link": "https://github.com/Sanonz/hexo-theme-concise",
+        "description": "A simple theme based on theme landscape",
+        "watch": 152,
+        "star": 152,
+        "fork": 36
+    },
+    {
+        "name": "syefe",
+        "link": "https://github.com/smallyunet/hexo-theme-syefe",
+        "description": "An imitation of Baidu EFE template",
+        "watch": 4,
+        "star": 4,
+        "fork": 1
+    },
+    {
+        "name": "Hermes",
+        "link": "https://github.com/claymcleod/hexo-theme-hermes",
+        "description": "Updated, opinionated continuation of the Apollo theme",
+        "watch": 26,
+        "star": 26,
+        "fork": 8
+    },
+    {
+        "name": "Auto",
+        "link": "https://github.com/autoload/hexo-theme-auto",
+        "description": "A modern stylish theme for Hexo",
+        "watch": 9,
+        "star": 9,
+        "fork": 4
+    },
+    {
+        "name": "QnA",
+        "link": "https://github.com/cheng-kang/hexo-theme-qna",
+        "description": "A FAQ theme",
+        "watch": 18,
+        "star": 18,
+        "fork": 6
+    },
+    {
+        "name": "fun",
+        "link": "https://github.com/homeant/hexo-theme-fun",
+        "description": "a responsive design theme",
+        "watch": 8,
+        "star": 8,
+        "fork": 3
+    },
+    {
+        "name": "Kratos-Rebirth",
+        "link": "https://github.com/Candinya/Kratos-Rebirth",
+        "description": "A transplanted theme for Hexo, with many new features built with love.",
+        "watch": 290,
+        "star": 290,
+        "fork": 52
+    },
+    {
+        "name": "Diaspora",
+        "link": "https://github.com/Fechin/hexo-theme-diaspora",
+        "description": "A clean and responsive theme",
+        "watch": 1149,
+        "star": 1149,
+        "fork": 246
+    },
+    {
+        "name": "blairos",
+        "link": "https://github.com/52binge/hexo-theme-blairos",
+        "description": "A simple & beautiful & fast theme, focused on articles",
+        "watch": 10,
+        "star": 10,
+        "fork": 5
+    },
+    {
+        "name": "Anatole-Core",
+        "link": "https://github.com/mrcore/hexo-theme-Anatole-Core",
+        "description": "A simple and beautiful Hexo resume theme",
+        "watch": 76,
+        "star": 76,
+        "fork": 13
+    },
+    {
+        "name": "Mokusei",
+        "link": "https://github.com/kog1997/hexo-theme-mokusei",
+        "description": "A dark theme",
+        "watch": 5,
+        "star": 5,
+        "fork": 2
+    },
+    {
+        "name": "Hiker",
+        "link": "https://github.com/iTimeTraveler/hexo-theme-hiker",
+        "description": "An attractive, exquisite theme",
+        "watch": 354,
+        "star": 354,
+        "fork": 84
+    },
+    {
+        "name": "Yet-The-Books",
+        "link": "https://github.com/Yet-The-Books/hexo-theme-yet-the-books",
+        "description": "It starts with the appearance, but stays true to the words. A blog theme dedicated to those who love to think.",
+        "watch": 22,
+        "star": 22,
+        "fork": 2
+    },
+    {
+        "name": "Resume",
+        "link": "https://github.com/xaoxuu/hexo-theme-resume",
+        "description": "a cool resume theme",
+        "watch": 75,
+        "star": 75,
+        "fork": 32
+    },
+    {
+        "name": "cold",
+        "link": "https://github.com/mintsweet/hexo-theme-cold",
+        "description": "A super cool theme",
+        "watch": 3,
+        "star": 3,
+        "fork": 1
+    },
+    {
+        "name": "ProWiki",
+        "link": "https://github.com/hdxw/hexo-theme-prowiki",
+        "description": "Designed to display articles like wiki.",
+        "watch": 2,
+        "star": 2,
+        "fork": 2
+    },
+    {
+        "name": "Vanilla",
+        "link": "https://github.com/snovey/hexo-theme-vanilla",
+        "description": "A fast and plain theme",
+        "watch": 2,
+        "star": 2,
+        "fork": 2
+    },
+    {
+        "name": "gstyle",
+        "link": "https://github.com/wayou/hexo-theme-gstyle",
+        "description": "a theme with google style",
+        "watch": 47,
+        "star": 47,
+        "fork": 13
+    },
+    {
+        "name": "ylion",
+        "link": "https://github.com/GeekaholicLin/hexo-theme-ylion",
+        "description": "A simple and surprising theme for you",
+        "watch": 117,
+        "star": 117,
+        "fork": 31
+    },
+    {
+        "name": "Sw-blog",
+        "link": "https://github.com/WinMin/Sw-blog",
+        "description": "Transparent theme, with station search",
+        "watch": 38,
+        "star": 38,
+        "fork": 14
+    },
+    {
+        "name": "Dxx",
+        "link": "https://github.com/Sneakydogs/hexo-theme-dxx",
+        "description": "A sample theme",
+        "watch": 48,
+        "star": 48,
+        "fork": 10
+    },
+    {
+        "name": "One",
+        "link": "https://github.com/EYHN/hexo-theme-one",
+        "description": "Material and One page",
+        "watch": 519,
+        "star": 519,
+        "fork": 58
+    },
+    {
+        "name": "Acorn",
+        "link": "https://github.com/zhwangart/hexo-theme-acorn",
+        "description": "Acorn is a Hexo theme for small to medium sized businesses or studios.",
+        "watch": 9,
+        "star": 9,
+        "fork": 4
+    },
+    {
+        "name": "Flexy",
+        "link": "https://github.com/sjaakvandenberg/flexy",
+        "description": "Flexy is a modern theme, written in Jade and Stylus using Flexbox",
+        "watch": 100,
+        "star": 100,
+        "fork": 43
+    },
+    {
+        "name": "Vexo",
+        "link": "https://github.com/yanm1ng/hexo-theme-vexo",
+        "description": "Vexo is a theme inspired by Vue's official website",
+        "watch": 573,
+        "star": 573,
+        "fork": 130
+    },
+    {
+        "name": "gal",
+        "link": "https://github.com/ZEROKISEKI/hexo-theme-gal",
+        "description": "https://mygalgame.com wordpress theme",
+        "watch": 358,
+        "star": 358,
+        "fork": 93
+    },
+    {
+        "name": "Keep",
+        "link": "https://github.com/XPoet/hexo-theme-keep",
+        "description": "A simple and elegant theme for Hexo.",
+        "watch": 827,
+        "star": 827,
+        "fork": 126
+    },
+    {
+        "name": "Ayer",
+        "link": "https://github.com/Shen-Yu/hexo-theme-ayer",
+        "description": "A Clean and Beautiful Theme for Hexo, also responsive.",
+        "watch": 1251,
+        "star": 1251,
+        "fork": 275
+    },
+    {
+        "name": "flex-block",
+        "link": "https://github.com/miiiku/hexo-theme-flexblock",
+        "description": "A simple block blog style based on a flex layout",
+        "watch": 278,
+        "star": 278,
+        "fork": 42
+    },
+    {
+        "name": "Soul",
+        "link": "https://github.com/callmesoul/hexo-theme-soul",
+        "description": "An independently designed, dark-style theme.",
+        "watch": 11,
+        "star": 11,
+        "fork": 2
+    },
+    {
+        "name": "Vateral",
+        "link": "https://github.com/moumao/hexo-theme-Vateral",
+        "description": "A simple theme named Vateral",
+        "watch": 131,
+        "star": 131,
+        "fork": 37
+    },
+    {
+        "name": "MengD",
+        "link": "https://github.com/lete114/hexo-theme-MengD",
+        "description": "A simple, elegant, and beautiful Hexo theme",
+        "watch": 42,
+        "star": 42,
+        "fork": 8
+    },
+    {
+        "name": "pteris",
+        "link": "https://github.com/jonashao/hexo-theme-pteris",
+        "description": "A materialize and clean theme in nunjucks",
+        "watch": 14,
+        "star": 14,
+        "fork": 4
+    },
+    {
+        "name": "Fluid",
+        "link": "https://github.com/fluid-dev/hexo-theme-fluid",
+        "description": "An elegant and light theme",
+        "watch": 4107,
+        "star": 4107,
+        "fork": 819
+    },
+    {
+        "name": "Autumn",
+        "link": "https://github.com/FrontendSophie/hexo-theme-autumn",
+        "description": "Recreate one classic and elegant wordpress theme — button",
+        "watch": 99,
+        "star": 99,
+        "fork": 11
+    },
+    {
+        "name": "Smackdown",
+        "link": "https://github.com/smackgg/hexo-theme-smackdown",
+        "description": "A simple and cool theme",
+        "watch": 134,
+        "star": 134,
+        "fork": 26
+    },
+    {
+        "name": "mls",
+        "link": "https://github.com/lazzzis/hexo-theme-mls",
+        "description": "A theme with a fullscreen background image and transparent elements",
+        "watch": 6,
+        "star": 6,
+        "fork": 0
+    },
+    {
+        "name": "Anatole",
+        "link": "https://github.com/Ben02/hexo-theme-Anatole",
+        "description": "A white and simple theme, originated from a Farbox theme",
+        "watch": 582,
+        "star": 582,
+        "fork": 122
+    },
+    {
+        "name": "smash",
+        "link": "https://github.com/bbbbx/hexo-theme-smash",
+        "description": "A colorful React-like theme!",
+        "watch": 1,
+        "star": 1,
+        "fork": 0
+    },
+    {
+        "name": "Freemind",
+        "link": "https://github.com/wzpan/hexo-theme-freemind",
+        "description": "Fully taking advantages of Bootstrap",
+        "watch": 376,
+        "star": 376,
+        "fork": 147
+    },
+    {
+        "name": "SB",
+        "link": "https://github.com/maliMirkec/hexo-theme-sb",
+        "description": "Clean and simple theme",
+        "watch": 3,
+        "star": 3,
+        "fork": 1
+    },
+    {
+        "name": "3-hexo",
+        "link": "https://github.com/yelog/hexo-theme-3-hexo",
+        "description": "Three sections, simple and convenient, like evernote",
+        "watch": 497,
+        "star": 497,
+        "fork": 174
+    },
+    {
+        "name": "codeteenager",
+        "link": "https://github.com/codeteenager/hexo-theme-codeteenager",
+        "description": "A flat topic for an exclusive programmer",
+        "watch": 3,
+        "star": 3,
+        "fork": 0
+    },
+    {
+        "name": "Miracle",
+        "link": "https://github.com/hifun-team/hexo-theme-miracle",
+        "description": "A simple single-column theme for Hexo.",
+        "watch": 26,
+        "star": 26,
+        "fork": 6
+    },
+    {
+        "name": "LandFarZ",
+        "link": "https://github.com/wizardforcel/hexo-theme-landfarz",
+        "description": "A blue-colored theme based on theme Light",
+        "watch": 31,
+        "star": 31,
+        "fork": 18
+    },
+    {
+        "name": "Oasis",
+        "link": "https://github.com/qiantao94/hexo-theme-oasis",
+        "description": "A pure and simple Hexo theme",
+        "watch": 4,
+        "star": 4,
+        "fork": 0
+    },
+    {
+        "name": "Jelly",
+        "link": "https://github.com/preccrep/hexo-theme-jelly",
+        "description": "A wonderful, elegant and eye-protected light theme for Hexo.",
+        "watch": 8,
+        "star": 8,
+        "fork": 1
+    },
+    {
+        "name": "Chiangmai",
+        "link": "https://github.com/stunstunstun/hexo-theme-chiangmai",
+        "description": "A theme inspired by Chiangmai City",
+        "watch": 29,
+        "star": 29,
+        "fork": 8
+    },
+    {
+        "name": "Lightx",
+        "link": "https://github.com/songquanpeng/hexo-theme-lightx",
+        "description": "A concise and elegant hexo theme",
+        "watch": 8,
+        "star": 8,
+        "fork": 2
+    },
+    {
+        "name": "A-Snail",
+        "link": "https://github.com/dusign/hexo-theme-snail",
+        "description": "A beautiful hexo theme",
+        "watch": 77,
+        "star": 77,
+        "fork": 39
+    },
+    {
+        "name": "simperlog",
+        "link": "https://github.com/bojan88/hexo-theme-simperlog",
+        "description": "Simple responsive personal blog theme",
+        "watch": 1,
+        "star": 1,
+        "fork": 0
+    },
+    {
+        "name": "Paperbox",
+        "link": "https://github.com/sun11/hexo-theme-paperbox",
+        "description": "A responsive paper-like theme",
+        "watch": 78,
+        "star": 78,
+        "fork": 30
+    },
+    {
+        "name": "hiya",
+        "link": "https://github.com/FuShaoLei/hexo-theme-hiya",
+        "description": "A customizable simple theme base on landscape",
+        "watch": 12,
+        "star": 12,
+        "fork": 1
+    },
+    {
+        "name": "ANTIQUITY",
+        "link": "https://github.com/yiluyanxia/hexo-theme-antiquity",
+        "description": "A Chinese antiquity theme",
+        "watch": 102,
+        "star": 102,
+        "fork": 21
+    },
+    {
+        "name": "Aloha",
+        "link": "https://github.com/henryhuang/hexo-theme-aloha",
+        "description": "a pure, simple, and responsive theme, it use Semantic-UI, and integrated Algolia search engine",
+        "watch": 68,
+        "star": 68,
+        "fork": 26
+    },
+    {
+        "name": "Stage",
+        "link": "https://github.com/markyong/hexo-theme-stage",
+        "description": "A refreshing and comfortable theme",
+        "watch": 6,
+        "star": 6,
+        "fork": 6
+    },
+    {
+        "name": "mashiro",
+        "link": "https://github.com/bill-xia/hexo-theme-mashiro",
+        "description": "A CTeX-like theme for Hexo.",
+        "watch": 10,
+        "star": 10,
+        "fork": 1
+    },
+    {
+        "name": "zero",
+        "link": "https://github.com/loveminimal/hexo-theme-zero",
+        "description": "Just for fun",
+        "watch": 18,
+        "star": 18,
+        "fork": 0
+    },
+    {
+        "name": "Hipaper",
+        "link": "https://github.com/iTimeTraveler/hexo-theme-hipaper",
+        "description": "A fashional newspaper theme",
+        "watch": 217,
+        "star": 217,
+        "fork": 69
+    },
+    {
+        "name": "Purely",
+        "link": "https://github.com/geekrainy/hexo-theme-purely",
+        "description": "Theme. Pure!",
+        "watch": 4,
+        "star": 4,
+        "fork": 5
+    },
+    {
+        "name": "Hingle",
+        "link": "https://github.com/Dreamer-Paul/Hingle",
+        "description": "A concise theme based on Single for Hexo.",
+        "watch": 10,
+        "star": 10,
+        "fork": 0
+    },
+    {
+        "name": "mellow",
+        "link": "https://github.com/codefine/hexo-theme-mellow",
+        "description": "Material Design theme",
+        "watch": 155,
+        "star": 155,
+        "fork": 33
+    },
+    {
+        "name": "doc",
+        "link": "https://github.com/zalando-incubator/hexo-theme-doc",
+        "description": "A documentation theme",
+        "watch": 230,
+        "star": 230,
+        "fork": 53
+    },
+    {
+        "name": "Typing",
+        "link": "https://github.com/geekplux/hexo-theme-typing",
+        "description": "A pure and fresh theme",
+        "watch": 267,
+        "star": 267,
+        "fork": 55
+    },
+    {
+        "name": "Wixo",
+        "link": "https://github.com/wzpan/hexo-theme-wixo",
+        "description": "Turn your site into a Wiki!",
+        "watch": 149,
+        "star": 149,
+        "fork": 42
+    },
+    {
+        "name": "Morgan",
+        "link": "https://github.com/hpcslag/hexo-theme-morgan",
+        "description": "A concise theme, Style-Framework based on Tocas-UI",
+        "watch": 18,
+        "star": 18,
+        "fork": 3
+    },
+    {
+        "name": "Polk",
+        "link": "https://github.com/chunqiuyiyu/hexo-theme-polk",
+        "description": "Simple blog theme, focusing on articles",
+        "watch": 69,
+        "star": 69,
+        "fork": 9
+    },
+    {
+        "name": "varaint",
+        "link": "https://github.com/justpsvm/hexo-theme-varaint",
+        "description": "The theme of a minimalist",
+        "watch": 156,
+        "star": 156,
+        "fork": 30
+    },
+    {
+        "name": "CyanStyle",
+        "link": "https://github.com/wizardforcel/hexo-theme-cyanstyle",
+        "description": "Inspired by Wordpress theme Twentytwelve",
+        "watch": 105,
+        "star": 105,
+        "fork": 51
+    },
+    {
+        "name": "Cupertino",
+        "link": "https://github.com/MrWillCom/hexo-theme-cupertino",
+        "description": "The Hexo Blog Theme Cupertino.",
+        "watch": 57,
+        "star": 57,
+        "fork": 12
+    },
+    {
+        "name": "Inside",
+        "link": "https://github.com/ikeq/hexo-theme-inside",
+        "description": "❤️ SPA, flat and clean theme.",
+        "watch": 561,
+        "star": 561,
+        "fork": 93
+    },
+    {
+        "name": "Paper",
+        "link": "https://github.com/random-yang/paper",
+        "description": "A Simple Clean Paper-like Theme for Hexo with Darkmode!",
+        "watch": 185,
+        "star": 185,
+        "fork": 22
+    },
+    {
+        "name": "Daily",
+        "link": "https://github.com/GallenHu/hexo-theme-Daily",
+        "description": "Minimalism, simplicity and refined details",
+        "watch": 246,
+        "star": 246,
+        "fork": 44
+    },
+    {
+        "name": "Geek",
+        "link": "https://github.com/sanjinhub/hexo-theme-geek",
+        "description": "A very simple theme of hexo blog geek.",
+        "watch": 321,
+        "star": 321,
+        "fork": 62
+    },
+    {
+        "name": "Mdm",
+        "link": "https://github.com/TonyChenn/mdm",
+        "description": "A material design theme, with dark mode. Suitable for PC & Phone",
+        "watch": 27,
+        "star": 27,
+        "fork": 3
+    },
+    {
+        "name": "Empty-Light",
+        "link": "https://github.com/varctrl/hexo-theme-empty-light",
+        "description": "A Clean And Dark Theme",
+        "watch": 1,
+        "star": 1,
+        "fork": 1
+    },
+    {
+        "name": "Adagio",
+        "link": "https://github.com/Hanlin-Dong/hexo-theme-adagio",
+        "description": "A simple, elegant, calm, responsive theme with applause button, math support, and much more.",
+        "watch": 23,
+        "star": 23,
+        "fork": 3
+    },
+    {
+        "name": "black-blue",
+        "link": "https://github.com/maochunguang/black-blue",
+        "description": "A wonderful black theme",
+        "watch": 147,
+        "star": 147,
+        "fork": 51
+    },
+    {
+        "name": "Overdose",
+        "link": "https://github.com/HyunSeob/hexo-theme-overdose",
+        "description": "⚠ Caution: you could be overdosed with this theme.",
+        "watch": 135,
+        "star": 135,
+        "fork": 35
+    },
+    {
+        "name": "hexo-theme-yinwang",
+        "link": "https://github.com/smallyunet/hexo-theme-yinwang",
+        "description": "An imitation of yinwang's blog",
+        "watch": 41,
+        "star": 41,
+        "fork": 8
+    },
+    {
+        "name": "Shana",
+        "link": "https://github.com/ShanaMaid/hexo-theme-shana",
+        "description": "A theme about shana",
+        "watch": 171,
+        "star": 171,
+        "fork": 38
+    },
+    {
+        "name": "Matery",
+        "link": "https://github.com/blinkfox/hexo-theme-matery",
+        "description": "A beautiful theme with material design and responsive design",
+        "watch": 4140,
+        "star": 4140,
+        "fork": 1109
+    },
+    {
+        "name": "Terminal",
+        "link": "https://github.com/lazysheep666/terminal_theme",
+        "description": "A simple and clean theme",
+        "watch": 165,
+        "star": 165,
+        "fork": 12
+    },
+    {
+        "name": "Material",
+        "link": "https://github.com/bolnh/hexo-theme-material",
+        "description": "An elegant & Material Design Theme",
+        "watch": 4026,
+        "star": 4026,
+        "fork": 581
+    },
+    {
+        "name": "blank",
+        "link": "https://github.com/a2396837/hexo-theme-blank",
+        "description": "A concise hexo theme.",
+        "watch": 31,
+        "star": 31,
+        "fork": 3
+    },
+    {
+        "name": "Oishi",
+        "link": "https://github.com/henryhuang/oishi",
+        "description": "A pure, simple, white, and responsive theme, it's integrated some Chinese local third services, such as Baidu statistics, duoshuo, etc",
+        "watch": 55,
+        "star": 55,
+        "fork": 18
+    },
+    {
+        "name": "Yuzu",
+        "link": "https://github.com/cerallin/hexo-theme-yuzu",
+        "description": "A simple black/white theme for novel reading.",
+        "watch": 12,
+        "star": 12,
+        "fork": 2
+    },
+    {
+        "name": "Oranges",
+        "link": "https://github.com/zchengsite/hexo-theme-oranges",
+        "description": "A simple hexo theme of minimalism",
+        "watch": 180,
+        "star": 180,
+        "fork": 31
+    },
+    {
+        "name": "bubuzou",
+        "link": "https://github.com/bulandent/hexo-theme-bubuzou",
+        "description": "A theme inspired by apollo",
+        "watch": 111,
+        "star": 111,
+        "fork": 39
+    },
+    {
+        "name": "Mustom",
+        "link": "https://github.com/jinyaoMa/hexo-theme-mustom",
+        "description": "A simple theme with simple design (card/flow) and simple functions (home/archive)",
+        "watch": 41,
+        "star": 41,
+        "fork": 10
+    },
+    {
+        "name": "Freemind.bithack",
+        "link": "https://github.com/Ares-X/hexo-theme-freemind.bithack",
+        "description": "A dark , pixel art theme for Hexo.",
+        "watch": 40,
+        "star": 40,
+        "fork": 11
+    },
+    {
+        "name": "jane",
+        "link": "https://github.com/hejianxian/hexo-theme-jane",
+        "description": "A very simple theme",
+        "watch": 92,
+        "star": 92,
+        "fork": 17
+    },
+    {
+        "name": "Annie",
+        "link": "https://github.com/Sariay/hexo-theme-Annie",
+        "description": "Annie is a simple theme. If you like literature and poetry, it might suit you!",
+        "watch": 387,
+        "star": 387,
+        "fork": 90
+    },
+    {
+        "name": "hollow",
+        "link": "https://github.com/zchen9/hexo-theme-hollow",
+        "description": "A pure and elegant theme",
+        "watch": 182,
+        "star": 182,
+        "fork": 37
+    },
+    {
+        "name": "Solar",
+        "link": "https://github.com/tzvetkov75/solar-theme-hexo",
+        "description": "3D solar animation, clean, dark theme, simple and responsive",
+        "watch": 83,
+        "star": 83,
+        "fork": 23
+    },
+    {
+        "name": "simple-black",
+        "link": "https://github.com/yunfeihe/simple-black",
+        "description": "A simple and black theme",
+        "watch": 1,
+        "star": 1,
+        "fork": 0
+    },
+    {
+        "name": "Cactus White",
+        "link": "https://github.com/sergodeeva/cactus-white",
+        "description": "A white version of Cactus Dark, responsive, clean and simple theme for a personal webpage",
+        "watch": 63,
+        "star": 63,
+        "fork": 21
+    },
+    {
+        "name": "Stellar",
+        "link": "https://github.com/xaoxuu/hexo-theme-stellar",
+        "description": "A Wonderful Theme for Hexo",
+        "watch": 139,
+        "star": 139,
+        "fork": 66
+    },
+    {
+        "name": "Lemon-Lime",
+        "link": "https://github.com/huan-qiu/lemon-lime",
+        "description": "A refreshing theme",
+        "watch": 22,
+        "star": 22,
+        "fork": 7
+    },
+    {
+        "name": "Nuna",
+        "link": "https://github.com/xwartz/hexo-theme-nuna",
+        "description": "A pure, minimalism and elegant theme",
+        "watch": 58,
+        "star": 58,
+        "fork": 12
+    },
+    {
+        "name": "iLiKE",
+        "link": "https://github.com/CaiChenghan/iLiKE",
+        "description": "A clean and responsive theme",
+        "watch": 11,
+        "star": 11,
+        "fork": 3
+    },
+    {
+        "name": "Bamboo",
+        "link": "https://github.com/yuang01/hexo-theme-bamboo",
+        "description": "A beautiful hexo theme",
+        "watch": 264,
+        "star": 264,
+        "fork": 42
+    },
+    {
+        "name": "blur",
+        "link": "https://github.com/kiten46087/hexo-theme-blur",
+        "description": "A simple and warm Hexo blog theme",
+        "watch": 10,
+        "star": 10,
+        "fork": 3
+    },
+    {
+        "name": "Cactus",
+        "link": "https://github.com/probberechts/hexo-theme-cactus",
+        "description": "A responsive, clean and simple theme for a personal webpage",
+        "watch": 2220,
+        "star": 2220,
+        "fork": 638
+    },
+    {
+        "name": "Nova",
+        "link": "https://github.com/Jamling/hexo-theme-nova",
+        "description": "A theme using swig template aimed to build github project site conveniently",
+        "watch": 40,
+        "star": 40,
+        "fork": 21
+    },
+    {
+        "name": "MyFairLady",
+        "link": "https://github.com/yzzting/hexo-theme-MyFairLady",
+        "description": "Girls pink heart theme",
+        "watch": 32,
+        "star": 32,
+        "fork": 9
+    },
+    {
+        "name": "JSimple",
+        "link": "https://github.com/tangkunyin/hexo-theme-jsimple",
+        "description": "A simple three columns theme which inspired by JianShu.com",
+        "watch": 209,
+        "star": 209,
+        "fork": 68
+    },
+    {
+        "name": "Prontera",
+        "link": "https://github.com/AngryPowman/hexo-theme-prontera",
+        "description": "A fast and modern theme",
+        "watch": 71,
+        "star": 71,
+        "fork": 20
+    },
+    {
+        "name": "Dev Dark",
+        "link": "https://github.com/codermarcos/dev-dark-theme",
+        "description": "A simple dark theme, responsive and light",
+        "watch": 24,
+        "star": 24,
+        "fork": 3
+    },
+    {
+        "name": "Linear",
+        "link": "https://github.com/syy11cn/hexo-theme-linear",
+        "description": "A dream hexo theme for developers.",
+        "watch": 17,
+        "star": 17,
+        "fork": 3
+    },
+    {
+        "name": "Gradient",
+        "link": "https://github.com/DeepSpaceHarbor/Gradient",
+        "description": "Gradient is clean and modern theme",
+        "watch": 29,
+        "star": 29,
+        "fork": 12
+    },
+    {
+        "name": "Magnetic",
+        "link": "https://github.com/klugjo/hexo-theme-magnetic",
+        "description": "Full featured, visual blog",
+        "watch": 170,
+        "star": 170,
+        "fork": 62
+    },
+    {
+        "name": "Melody",
+        "link": "https://github.com/Molunerfinn/hexo-theme-melody",
+        "description": "A simple & beautiful & fast theme",
+        "watch": 1433,
+        "star": 1433,
+        "fork": 207
+    },
+    {
+        "name": "Tree",
+        "link": "https://github.com/wujun234/hexo-theme-tree",
+        "description": "A simple tree directory theme for Hexo.",
+        "watch": 130,
+        "star": 130,
+        "fork": 35
+    },
+    {
+        "name": "phase",
+        "link": "https://github.com/hexojs/hexo-theme-phase",
+        "description": "Feel the flow of time with Phase",
+        "watch": 91,
+        "star": 91,
+        "fork": 28
+    },
+    {
+        "name": "Nayo",
+        "link": "https://github.com/Lemonreds/hexo-theme-Nayo",
+        "description": "A clean theme",
+        "watch": 172,
+        "star": 172,
+        "fork": 20
+    },
+    {
+        "name": "Very-Simple",
+        "link": "https://github.com/lotabout/very-simple",
+        "description": "A black/white theme for which tend to be simple and elegant",
+        "watch": 140,
+        "star": 140,
+        "fork": 40
+    },
+    {
+        "name": "BMW",
+        "link": "https://github.com/dongyuanxin/theme-bmw",
+        "description": "BMW is not only clean but also very powerful theme",
+        "watch": 373,
+        "star": 373,
+        "fork": 50
+    },
+    {
+        "name": "AD",
+        "link": "https://github.com/dongyuanxin/theme-ad",
+        "description": "Art Design is a modern theme for current screen and browser. It supports to lock passage without plugins!",
+        "watch": 258,
+        "star": 258,
+        "fork": 47
+    },
+    {
+        "name": "ztopic",
+        "link": "https://github.com/zo-ly/hexo-theme-ztopic",
+        "description": "A simple responsive theme",
+        "watch": 25,
+        "star": 25,
+        "fork": 7
+    },
+    {
+        "name": "Coder",
+        "link": "https://github.com/xunzhuo/hexo-theme-coder",
+        "description": "A Pure and Clean Theme in minimalist style for Coders",
+        "watch": 157,
+        "star": 157,
+        "fork": 19
+    },
+    {
+        "name": "delicate",
+        "link": "https://github.com/can-dy-jack/hexo-theme-delicate",
+        "description": "A delicate Hexo theme, and have many component.",
+        "watch": 4,
+        "star": 4,
+        "fork": 0
+    },
+    {
+        "name": "Clean",
+        "link": "https://github.com/luswdev/hexo-theme-clean",
+        "description": "A modfy clean blog theme with more feature",
+        "watch": 11,
+        "star": 11,
+        "fork": 6
+    },
+    {
+        "name": "Sky",
+        "link": "https://github.com/iJinxin/hexo-theme-sky",
+        "description": "a concise theme",
+        "watch": 67,
+        "star": 67,
+        "fork": 16
+    },
+    {
+        "name": "Yilia-plus",
+        "link": "https://github.com/JoeyBling/hexo-theme-yilia-plus",
+        "description": "A simple and elegant theme for hexo.",
+        "watch": 569,
+        "star": 569,
+        "fork": 151
+    },
+    {
+        "name": "Twitter Bootstrap",
+        "link": "https://github.com/philippkeller/hexo-theme-twbootstrap",
+        "description": "Suited for coding. Green accented. Bootstrapped based. With disqus support",
+        "watch": 9,
+        "star": 9,
+        "fork": 2
+    },
+    {
+        "name": "Fan",
+        "link": "https://github.com/fan-lv/Fan",
+        "description": "A dark theme",
+        "watch": 145,
+        "star": 145,
+        "fork": 31
+    },
+    {
+        "name": "Siberia",
+        "link": "https://github.com/hpcslag/hexo-theme-siberia",
+        "description": "A beautiful and scalable theme",
+        "watch": 4,
+        "star": 4,
+        "fork": 0
+    },
+    {
+        "name": "tomotoes",
+        "link": "https://github.com/tomotoes/hexo-theme-tomotoes",
+        "description": "A simple theme based on indigo, add new feature and new style",
+        "watch": 288,
+        "star": 288,
+        "fork": 46
+    },
+    {
+        "name": "Claudia",
+        "link": "https://github.com/Haojen/hexo-theme-Claudia",
+        "description": "📌 Concisely designed & easy to config, match device dark mode, 90+ Lighthouse scoring",
+        "watch": 569,
+        "star": 569,
+        "fork": 107
+    },
+    {
+        "name": "Bootstrap-Blog",
+        "link": "https://github.com/cgmartin/hexo-theme-bootstrap-blog",
+        "description": "A simple Twitter Bootstrap blog theme",
+        "watch": 105,
+        "star": 105,
+        "fork": 62
+    },
+    {
+        "name": "Hueman",
+        "link": "https://github.com/ppoffice/hexo-theme-hueman",
+        "description": "A redesign of Alx's wordpress theme Hueman",
+        "watch": 1138,
+        "star": 1138,
+        "fork": 343
+    },
+    {
+        "name": "Meadow",
+        "link": "https://github.com/kb1000fx/hexo-theme-meadow",
+        "description": "Meadow is a Material Designed Hexo theme based on MDUI.",
+        "watch": 45,
+        "star": 45,
+        "fork": 8
+    },
+    {
+        "name": "carbon",
+        "link": "https://github.com/icylogic/carbon",
+        "description": "Carbon is a simple theme using pjax for elegant loading",
+        "watch": 42,
+        "star": 42,
+        "fork": 14
+    },
+    {
+        "name": "concise",
+        "link": "https://github.com/kingofctrl/hexo-theme-concise",
+        "description": "A beautiful and simple theme",
+        "watch": 16,
+        "star": 16,
+        "fork": 9
+    },
+    {
+        "name": "Love",
+        "link": "https://github.com/jiehua1995/hexo-theme-love",
+        "description": "A simple HEXO theme for couples.",
+        "watch": 22,
+        "star": 22,
+        "fork": 8
+    },
+    {
+        "name": "BeanTech",
+        "link": "https://github.com/YenYuHsuan/hexo-theme-beantech",
+        "description": "Clean, elegant and beautiful Theme with optimized SEO",
+        "watch": 428,
+        "star": 428,
+        "fork": 105
+    },
+    {
+        "name": "Tsu",
+        "link": "https://github.com/zjx137/hexo-theme-Tsu",
+        "description": "A light and simple theme",
+        "watch": 11,
+        "star": 11,
+        "fork": 2
+    },
+    {
+        "name": "LiveMyLife",
+        "link": "https://github.com/V-Vincen/hexo-theme-livemylife",
+        "description": "A simple and pure personal Theme for Hexo...",
+        "watch": 109,
+        "star": 109,
+        "fork": 33
+    },
+    {
+        "name": "MiccallTheme",
+        "link": "https://github.com/miccall/hexo-theme-Mic_Theme",
+        "description": "A theme with Gorgeous fullscreen background image",
+        "watch": 379,
+        "star": 379,
+        "fork": 92
+    },
+    {
+        "name": "Flavor",
+        "link": "https://github.com/xtexChooser/hexo-theme-flavor",
+        "description": "A Simple and Fast Theme for Hexo",
+        "watch": 0,
+        "star": 0,
+        "fork": 0
+    },
+    {
+        "name": "cheatsheets",
+        "link": "https://github.com/glazec/hexo-cheatsheets",
+        "description": "Help you create your own cheatsheets.",
+        "watch": 112,
+        "star": 112,
+        "fork": 8
+    },
+    {
+        "name": "ele",
+        "link": "https://github.com/voyax/hexo-theme-ele",
+        "description": "An elegant theme for pure reading, thinking and writing",
+        "watch": 12,
+        "star": 12,
+        "fork": 2
+    },
+    {
+        "name": "Lx",
+        "link": "https://github.com/blleng/hexo-theme-lx",
+        "description": "A simple & clear & elegant theme",
+        "watch": 179,
+        "star": 179,
+        "fork": 22
+    },
+    {
+        "name": "Laughing",
+        "link": "https://github.com/BoizZ/hexo-theme-laughing",
+        "description": "A lightweight and focus on the theme of the reading experience",
+        "watch": 186,
+        "star": 186,
+        "fork": 26
+    },
+    {
+        "name": "MiHo",
+        "link": "https://github.com/WongMinHo/hexo-theme-miho",
+        "description": "A simple, clean and responsive theme",
+        "watch": 198,
+        "star": 198,
+        "fork": 105
+    },
+    {
+        "name": "leo",
+        "link": "https://github.com/lixuetaoleo/hexo-theme-leo",
+        "description": "A simple, elegant, clear and responsive theme for Hexo.",
+        "watch": 17,
+        "star": 17,
+        "fork": 1
+    },
+    {
+        "name": "strata",
+        "link": "https://github.com/livingos/hexo-theme-strata",
+        "description": "A responsive full featured blog or portfolio theme",
+        "watch": 26,
+        "star": 26,
+        "fork": 9
+    },
+    {
+        "name": "Cafe",
+        "link": "https://github.com/giscafer/hexo-theme-cafe",
+        "description": "Pursuit of simplicity, simple operation, reading comfort",
+        "watch": 219,
+        "star": 219,
+        "fork": 57
+    },
+    {
+        "name": "Simple",
+        "link": "https://github.com/chuguixin/Simple",
+        "description": "Simple & Fresh, written with jade & less",
+        "watch": 13,
+        "star": 13,
+        "fork": 6
+    },
+    {
+        "name": "Amazing",
+        "link": "https://github.com/removeif/hexo-theme-amazing",
+        "description": "A Simple & Rich theme for Hexo.",
+        "watch": 218,
+        "star": 218,
+        "fork": 78
+    },
+    {
+        "name": "LanMiao",
+        "link": "https://github.com/hilanmiao/hexo-theme-lanmiao",
+        "description": "A Pink and simple theme",
+        "watch": 16,
+        "star": 16,
+        "fork": 6
+    },
+    {
+        "name": "landscape",
+        "link": "https://github.com/hexojs/hexo-theme-landscape",
+        "description": "A brand new default theme",
+        "watch": 267,
+        "star": 267,
+        "fork": 370
+    },
+    {
+        "name": "Foundation",
+        "link": "https://github.com/chrisjlee/hexo-theme-zurb-foundation",
+        "description": "A theme based on the Zurb Foundation 5 theme",
+        "watch": 22,
+        "star": 22,
+        "fork": 7
+    },
+    {
+        "name": "Sakura",
+        "link": "https://github.com/honjun/hexo-theme-sakura",
+        "description": "A beautiful theme",
+        "watch": 588,
+        "star": 588,
+        "fork": 201
+    },
+    {
+        "name": "Ringo",
+        "link": "https://github.com/HeliumOI/hexo-theme-ringo",
+        "description": "A simple, concise, and fast theme for Hexo",
+        "watch": 12,
+        "star": 12,
+        "fork": 1
+    },
+    {
+        "name": "yinwang",
+        "link": "https://github.com/mickeyouyou/yinwang",
+        "description": "Simplest View For Your Article Best",
+        "watch": 135,
+        "star": 135,
+        "fork": 25
+    },
+    {
+        "name": "Life",
+        "link": "https://github.com/WeicMa/Hexo-Theme-Life",
+        "description": "记录生活，为写作而生！",
+        "watch": 46,
+        "star": 46,
+        "fork": 14
+    },
+    {
+        "name": "Toki",
+        "link": "https://github.com/Vevlins/hexo-theme-toki",
+        "description": "A simple but elegant theme",
+        "watch": 59,
+        "star": 59,
+        "fork": 7
+    },
+    {
+        "name": "Memory",
+        "link": "https://github.com/artchen/hexo-theme-memory",
+        "description": "A minimal theme",
+        "watch": 181,
+        "star": 181,
+        "fork": 25
+    },
+    {
+        "name": "MaterialFlow",
+        "link": "https://github.com/stkevintan/hexo-theme-material-flow",
+        "description": "Yet another material design theme",
+        "watch": 262,
+        "star": 262,
+        "fork": 68
+    },
+    {
+        "name": "wiki-i18n",
+        "link": "https://github.com/xcatliu/hexo-theme-wiki-i18n",
+        "description": "A theme for i18n wiki site",
+        "watch": 27,
+        "star": 27,
+        "fork": 2
+    },
+    {
+        "name": "omega",
+        "link": "https://github.com/kavience/hexo-theme-omega",
+        "description": "A simple and high readability theme for Hexo",
+        "watch": 2,
+        "star": 2,
+        "fork": 0
+    },
+    {
+        "name": "Freemind.386",
+        "link": "https://github.com/blackshow/hexo-theme-freemind.386",
+        "description": "Freemind.386 is a retro-style theme",
+        "watch": 195,
+        "star": 195,
+        "fork": 55
+    },
+    {
+        "name": "Amber",
+        "link": "https://github.com/Mitscherlich/hexo-theme-amber",
+        "description": "A boostrap blog theme",
+        "watch": 43,
+        "star": 43,
+        "fork": 12
+    },
+    {
+        "name": "MiHoYo",
+        "link": "https://github.com/redhat123456/hexo-theme-MiHoYo",
+        "description": "A theme of MiHoYo.",
+        "watch": 10,
+        "star": 10,
+        "fork": 1
+    },
+    {
+        "name": "Goyangin",
+        "link": "https://github.com/g3xx/goyangin",
+        "description": "A Simple theme with Bulma Framework CSS",
+        "watch": 10,
+        "star": 10,
+        "fork": 3
+    },
+    {
+        "name": "Geektutu",
+        "link": "https://github.com/geektutu/hexo-theme-geektutu",
+        "description": "A fast theme with light color",
+        "watch": 240,
+        "star": 240,
+        "fork": 37
+    },
+    {
+        "name": "Typography",
+        "link": "https://github.com/SumiMakito/hexo-theme-typography",
+        "description": "Rediscover the beauty of typography",
+        "watch": 426,
+        "star": 426,
+        "fork": 87
+    },
+    {
+        "name": "Random",
+        "link": "https://github.com/stiekel/hexo-theme-random",
+        "description": "A theme with random fullscreen background image",
+        "watch": 176,
+        "star": 176,
+        "fork": 59
+    },
+    {
+        "name": "July",
+        "link": "https://github.com/wisp-x/hexo-theme-july",
+        "description": "A minimalist, focused writing Hexo theme.",
+        "watch": 26,
+        "star": 26,
+        "fork": 6
+    },
+    {
+        "name": "Element",
+        "link": "https://github.com/artchen/hexo-theme-element",
+        "description": "Another minimal theme",
+        "watch": 105,
+        "star": 105,
+        "fork": 24
+    },
+    {
+        "name": "light",
+        "link": "https://github.com/hexojs/hexo-theme-light",
+        "description": "Default theme",
+        "watch": 312,
+        "star": 312,
+        "fork": 179
+    },
+    {
+        "name": "A-Boy",
+        "link": "https://github.com/huweihuang/hexo-theme-huweihuang",
+        "description": "A Clear and Light Theme",
+        "watch": 276,
+        "star": 276,
+        "fork": 107
+    },
+    {
+        "name": "Asnippet",
+        "link": "https://github.com/shenliyang/hexo-theme-snippet",
+        "description": "A simple and interesting theme",
+        "watch": 1037,
+        "star": 1037,
+        "fork": 207
+    },
+    {
+        "name": "Tangyuxian",
+        "link": "https://github.com/tangyuxian/hexo-theme-tangyuxian",
+        "description": "Particularly cute and integrated with rich themes for Hexo.",
+        "watch": 32,
+        "star": 32,
+        "fork": 9
+    },
+    {
+        "name": "mduilw",
+        "link": "https://github.com/186526/hexo-theme-mduilw",
+        "description": "A light weight MD theme for Hexo.",
+        "watch": 15,
+        "star": 15,
+        "fork": 2
+    },
+    {
+        "name": "zzoman2015",
+        "link": "https://github.com/reumia/hexo-theme-zzoman2015",
+        "description": "Simplest Theme by ZZOMAN",
+        "watch": 11,
+        "star": 11,
+        "fork": 7
+    },
+    {
+        "name": "wind",
+        "link": "https://github.com/voezy/hexo-theme-wind",
+        "description": "A light and pure theme, in this complicated world",
+        "watch": 20,
+        "star": 20,
+        "fork": 0
+    },
+    {
+        "name": "Materialized",
+        "link": "https://github.com/theme-materialized/hexo-theme-materialized",
+        "description": "A cool materialized theme for Hexo.",
+        "watch": 36,
+        "star": 36,
+        "fork": 8
+    },
+    {
+        "name": "Quiet",
+        "link": "https://github.com/79E/hexo-theme-quiet",
+        "description": "A simple, easy to read flat hexo theme.",
+        "watch": 79,
+        "star": 79,
+        "fork": 9
+    },
+    {
+        "name": "Corazon",
+        "link": "https://github.com/littleee/corazon",
+        "description": "A simple theme. I hope I can maintain for a long time",
+        "watch": 7,
+        "star": 7,
+        "fork": 1
+    },
+    {
+        "name": "CleanBlog",
+        "link": "https://github.com/klugjo/hexo-theme-clean-blog",
+        "description": "Fully featured, bootstrap blog",
+        "watch": 380,
+        "star": 380,
+        "fork": 131
+    },
+    {
+        "name": "webstack",
+        "link": "https://github.com/HCLonely/hexo-theme-webstack",
+        "description": "A hexo theme based on webstack.",
+        "watch": 191,
+        "star": 191,
+        "fork": 67
+    },
+    {
+        "name": "white",
+        "link": "https://github.com/FuShaoLei/hexo-theme-white",
+        "description": "A white and very simple theme",
+        "watch": 99,
+        "star": 99,
+        "fork": 37
+    },
+    {
+        "name": "cutie",
+        "link": "https://github.com/qutang/hexo-theme-cutie",
+        "description": "A responsive, clean and cute theme heavily inspired by Pinghsu",
+        "watch": 71,
+        "star": 71,
+        "fork": 18
+    },
+    {
+        "name": "microb",
+        "link": "https://github.com/microacup/hexo-theme-microb",
+        "description": "A very simple theme use pure css and less js",
+        "watch": 35,
+        "star": 35,
+        "fork": 3
+    },
+    {
+        "name": "mintin",
+        "link": "https://github.com/kevinjobs/hexo-theme-mintin",
+        "description": "A simple theme",
+        "watch": 6,
+        "star": 6,
+        "fork": 2
+    },
+    {
+        "name": "simple-japanese",
+        "link": "https://github.com/mitsuruog/hexo-theme-simple-japanese",
+        "description": "Makes Japanese more readable and beautiful",
+        "watch": 18,
+        "star": 18,
+        "fork": 8
+    },
+    {
+        "name": "Skapp",
+        "link": "https://github.com/Mrminfive/hexo-theme-skapp",
+        "description": "A simple & beautiful & fast theme",
+        "watch": 484,
+        "star": 484,
+        "fork": 125
+    },
+    {
+        "name": "mdui",
+        "link": "https://github.com/Halyul/hexo-theme-mdui",
+        "description": "A google plus like theme",
+        "watch": 175,
+        "star": 175,
+        "fork": 32
+    },
+    {
+        "name": "cold-stone",
+        "link": "https://github.com/xrr2016/hexo-theme-cold-stone",
+        "description": "A simple, clean, text-based Hexo blog theme.",
+        "watch": 131,
+        "star": 131,
+        "fork": 14
+    },
+    {
+        "name": "AcetoLog",
+        "link": "https://github.com/iGuan7u/Acetolog",
+        "description": "A beautiful & simple theme.",
+        "watch": 63,
+        "star": 63,
+        "fork": 13
+    },
+    {
+        "name": "Minima",
+        "link": "https://github.com/adisaktijrs/hexo-theme-minima",
+        "description": "An undoubtedly simple and lightweight dark/light mode theme",
+        "watch": 113,
+        "star": 113,
+        "fork": 34
+    },
+    {
+        "name": "Space Cadet",
+        "link": "https://github.com/azigler/hexo-theme-space-cadet",
+        "description": "A modern, purple-accented Bootstrap 4 blog",
+        "watch": 4,
+        "star": 4,
+        "fork": 1
+    },
+    {
+        "name": "twentyfifteen-wordpress",
+        "link": "https://github.com/Troy-Yang/hexo-theme-twentyfifteen-wordpress",
+        "description": "A clean, lightweight and responsive theme",
+        "watch": 24,
+        "star": 24,
+        "fork": 8
+    },
+    {
+        "name": "Lagom",
+        "link": "https://github.com/jylzs369/hexo-theme-lagom",
+        "description": "A minimalist theme for Hexo.",
+        "watch": 6,
+        "star": 6,
+        "fork": 1
+    },
+    {
+        "name": "simpleblock",
+        "link": "https://github.com/jysperm/hexo-theme-simpleblock",
+        "description": "A simple theme inspired by Twenty Twelve",
+        "watch": 65,
+        "star": 65,
+        "fork": 8
+    },
+    {
+        "name": "Peomas",
+        "link": "https://github.com/thomasyu929/hexo-theme-peomas",
+        "description": "A concise hexo theme.",
+        "watch": 2,
+        "star": 2,
+        "fork": 0
+    },
+    {
+        "name": "Tranquilpeak",
+        "link": "https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak",
+        "description": "A gorgeous responsive theme",
+        "watch": 1748,
+        "star": 1748,
+        "fork": 496
+    },
+    {
+        "name": "Huxblog",
+        "link": "https://github.com/Kaijun/hexo-theme-huxblog",
+        "description": "A lean and elegant Theme with optimized SEO (Ported)",
+        "watch": 667,
+        "star": 667,
+        "fork": 137
+    },
+    {
+        "name": "Corporate",
+        "link": "https://github.com/ptsteadman/hexo-theme-corporate",
+        "description": "A professional theme based on the Corporate Frontend framework",
+        "watch": 176,
+        "star": 176,
+        "fork": 68
+    },
+    {
+        "name": "Hacker",
+        "link": "https://github.com/CodeDaraW/Hacker",
+        "description": "A simple theme inspired by Wordpress theme Hacker",
+        "watch": 530,
+        "star": 530,
+        "fork": 121
+    },
+    {
+        "name": "macleaya",
+        "link": "https://github.com/lsylovelmy/hexo-theme-macleaya",
+        "description": "A simple, responsive theme for Hexo.",
+        "watch": 15,
+        "star": 15,
+        "fork": 3
+    },
+    {
+        "name": "indigo",
+        "link": "https://github.com/yscoder/hexo-theme-indigo",
+        "description": "Material Design theme",
+        "watch": 2748,
+        "star": 2748,
+        "fork": 563
+    },
+    {
+        "name": "Pln",
+        "link": "https://github.com/gaoryrt/hexo-theme-pln",
+        "description": "A plain theme",
+        "watch": 198,
+        "star": 198,
+        "fork": 39
+    },
+    {
+        "name": "Arknights",
+        "link": "https://github.com/Yue-plus/hexo-theme-arknights",
+        "description": "A theme of Arknight Rhodes Island.",
+        "watch": 285,
+        "star": 285,
+        "fork": 34
+    },
+    {
+        "name": "Noise",
+        "link": "https://github.com/lotabout/hexo-theme-noise",
+        "description": "Noise description that no one should read",
+        "watch": 86,
+        "star": 86,
+        "fork": 15
+    },
+    {
+        "name": "simple99",
+        "link": "https://github.com/shuxhan/hexo-theme-simple99",
+        "description": "A concise wind blog theme based on hexo system.",
+        "watch": 15,
+        "star": 15,
+        "fork": 3
+    }
+]

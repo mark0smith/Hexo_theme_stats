@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Icarus",
+        "link": "https://github.com/ppoffice/hexo-theme-icarus",
+        "description": "A simple, delicate, and modern theme",
+        "watch": 5261,
+        "star": 5261,
+        "fork": 1438
+    },
+    {
+        "name": "Matery",
+        "link": "https://github.com/blinkfox/hexo-theme-matery",
+        "description": "A beautiful theme with material design and responsive design",
+        "watch": 4195,
+        "star": 4195,
+        "fork": 1125
+    },
+    {
+        "name": "Fluid",
+        "link": "https://github.com/fluid-dev/hexo-theme-fluid",
+        "description": "An elegant and light theme",
+        "watch": 4196,
+        "star": 4196,
+        "fork": 844
+    },
+    {
+        "name": "Butterfly",
+        "link": "https://github.com/jerryc127/hexo-theme-butterfly",
+        "description": "A Simple and Card UI Design theme for Hexo",
+        "watch": 3646,
+        "star": 3646,
+        "fork": 779
+    },
+    {
+        "name": "Maupassant",
+        "link": "https://github.com/tufu9441/maupassant-hexo",
+        "description": "A simple theme with great performance on different devices",
+        "watch": 2417,
+        "star": 2417,
+        "fork": 654
+    },
+    {
+        "name": "Cactus",
+        "link": "https://github.com/probberechts/hexo-theme-cactus",
+        "description": "A responsive, clean and simple theme for a personal webpage",
+        "watch": 2250,
+        "star": 2250,
+        "fork": 646
+    },
+    {
+        "name": "Material",
+        "link": "https://github.com/bolnh/hexo-theme-material",
+        "description": "An elegant & Material Design Theme",
+        "watch": 4026,
+        "star": 4026,
+        "fork": 579
+    },
+    {
+        "name": "indigo",
+        "link": "https://github.com/yscoder/hexo-theme-indigo",
+        "description": "Material Design theme",
+        "watch": 2749,
+        "star": 2749,
+        "fork": 563
+    },
+    {
+        "name": "Apollo",
+        "link": "https://github.com/pinggod/hexo-theme-apollo",
+        "description": "A theme inspired by http://cn.vuejs.org/",
+        "watch": 1796,
+        "star": 1796,
+        "fork": 534
+    },
+    {
+        "name": "Tranquilpeak",
+        "link": "https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak",
+        "description": "A gorgeous responsive theme",
+        "watch": 1753,
+        "star": 1753,
+        "fork": 497
+    }
+]

@@ -126,8 +126,8 @@ def main():
     write_out(results, "{}/{}.json".format(paths[3], today_date))
 
     for path in paths:
-        os.system("find " + path + " -mtime +60 -print")
-        os.system("find " + path + " -mtime +60 -delete")
+        os.system("find " + path + " -type f -mtime +60 -print")
+        os.system("find " + path + " -type f -mtime +60 -delete")
 
 
 if __name__ == '__main__':

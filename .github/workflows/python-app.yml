@@ -71,7 +71,7 @@ jobs:
         # Force add files, useful for adding ignored files.
         force-add: false
         # Force push.
-        force-push: false
+        force-push: true
         # Pull and rebase before commiting. Useful when using commit inside matrix.
         rebase: false
         # Specific files to add.

@@ -125,6 +125,10 @@ def main():
     write_out(theme_watch_top_10, "{}/{}.json".format(paths[2], today_date))
     write_out(results, "{}/{}.json".format(paths[3], today_date))
 
+    for path in paths:
+        os.system("find " + path + " -mtime +60 -print")
+        os.system("find " + path + " -mtime +60 -delete")
+
 
 if __name__ == '__main__':
     main()

@@ -34,27 +34,43 @@ jobs:
       run: |
         python get_info.py
         python generate_html.py
-    - name: Git Commit/Push Changes
+#     - name: Git Commit/Push Changes
+#       # You may pin to the exact commit or the version.
+#       # uses: actions-x/commit@0430155bf5e2dd295026c0fc853dfeb0d3c0fe1a
+#       uses: actions-x/commit@v4
+#       with:
+#         # The committer's email address
+#         email: github-actions-git-commit@users.noreply.github.com
+#         # The committer's name
+#         name: Github Actions - Git Commit
+#         # The commit message 
+#         message: Github Actions - Git Commit
+#         # The branch to push the changes back to, defaults to the current branch
+#         branch: ${{ github.ref }}
+#         # The files to add separated by space, defaults to every file
+#         files: .
+#         # The repository to push the code to, defaults to origin (e.g. this repository)
+#         repository: origin
+#         # The token used to push the code, not needed if you push to the same repository
+#         token: ${{ secrets.token }}
+#         # Whether to perform force push
+#         force: 0
+#         # The working directory that will be used for git commands
+#         directory: .
+    - name: Verified commit
       # You may pin to the exact commit or the version.
-      # uses: actions-x/commit@0430155bf5e2dd295026c0fc853dfeb0d3c0fe1a
-      uses: actions-x/commit@v4
+      # uses: swinton/commit@bfa68d879ec57187f2c5bf616158433763f05f06
+      uses: swinton/commit@v2.0.0
       with:
-        # The committer's email address
-        email: github-actions-git-commit@users.noreply.github.com
-        # The committer's name
-        name: Github Actions - Git Commit
-        # The commit message 
-        message: Github Actions - Git Commit
-        # The branch to push the changes back to, defaults to the current branch
-        branch: ${{ github.ref }}
-        # The files to add separated by space, defaults to every file
+        # Newline-separated list of files to be committed, relative to root of repository.
+
         files: .
-        # The repository to push the code to, defaults to origin (e.g. this repository)
-        repository: origin
-        # The token used to push the code, not needed if you push to the same repository
-        token: ${{ secrets.token }}
-        # Whether to perform force push
-        force: 0
-        # The working directory that will be used for git commands
-        directory: .
-        
+        # Base directory containing files to be committed, defaults to the GitHub workspace directory path, $GITHUB_WORKSPACE.
+
+        workspace: $GITHUB_WORKSPACE
+        # Commit message to be used
+
+        commit-message: Github Actions - Git Commit
+        # Reference to be updated with commit. This reference must already exist. Defaults to the repository's default branch ref.
+
+        ref: ${{ github.ref }}

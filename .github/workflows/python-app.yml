@@ -65,7 +65,7 @@ jobs:
         # Github Token with commit access
         github-token: ${{ secrets.TOKEN }}
         # Override branch to push to
-        push-branch: ${{ github.ref }}
+        push-branch: master
         # Specify commit message
         commit-message: Github Actions - Git Commit
         # Force add files, useful for adding ignored files.

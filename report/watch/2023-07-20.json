@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Fluid",
+        "link": "https://github.com/fluid-dev/hexo-theme-fluid",
+        "description": "An elegant and light theme",
+        "watch": 6066,
+        "star": 6066,
+        "fork": 1069
+    },
+    {
+        "name": "Icarus",
+        "link": "https://github.com/ppoffice/hexo-theme-icarus",
+        "description": "A simple, delicate, and modern theme",
+        "watch": 5974,
+        "star": 5974,
+        "fork": 1514
+    },
+    {
+        "name": "Butterfly",
+        "link": "https://github.com/jerryc127/hexo-theme-butterfly",
+        "description": "A Simple and Card UI Design theme for Hexo",
+        "watch": 5656,
+        "star": 5656,
+        "fork": 1107
+    },
+    {
+        "name": "Matery",
+        "link": "https://github.com/blinkfox/hexo-theme-matery",
+        "description": "A beautiful theme with material design and responsive design",
+        "watch": 4962,
+        "star": 4962,
+        "fork": 1227
+    },
+    {
+        "name": "Material",
+        "link": "https://github.com/iblh/hexo-theme-material",
+        "description": "An elegant & Material Design Theme",
+        "watch": 4037,
+        "star": 4037,
+        "fork": 583
+    },
+    {
+        "name": "indigo",
+        "link": "https://github.com/yscoder/hexo-theme-indigo",
+        "description": "Material Design theme",
+        "watch": 2774,
+        "star": 2774,
+        "fork": 559
+    },
+    {
+        "name": "Cactus",
+        "link": "https://github.com/probberechts/hexo-theme-cactus",
+        "description": "A responsive, clean and simple theme for a personal webpage",
+        "watch": 2773,
+        "star": 2773,
+        "fork": 723
+    },
+    {
+        "name": "Maupassant",
+        "link": "https://github.com/tufu9441/maupassant-hexo",
+        "description": "A simple theme with great performance on different devices",
+        "watch": 2542,
+        "star": 2542,
+        "fork": 670
+    },
+    {
+        "name": "NexT",
+        "link": "https://github.com/next-theme/hexo-theme-next",
+        "description": "NexT is an elegant and powerful theme",
+        "watch": 2012,
+        "star": 2012,
+        "fork": 376
+    },
+    {
+        "name": "Tranquilpeak",
+        "link": "https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak",
+        "description": "A gorgeous responsive theme",
+        "watch": 1805,
+        "star": 1805,
+        "fork": 487
+    }
+]

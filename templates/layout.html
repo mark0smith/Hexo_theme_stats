@@ -27,18 +27,22 @@
     <div class="container bg-light">
         <h1>Hexo Theme Stats Report of {% if today%}{{today}}{%else%}Today{%endif%}</h1>
         <div class="row">
-            <div id="canvas-holder" style="width:80%">
-                <canvas id="fork_chart-area">3</canvas>
-            </div>
-        </div>
-        <div class="row">
-            <div id="canvas-holder" style="width:80%">
+            <div id="canvas-holder" style="width:100%">
                 <canvas id="star_chart-area">2</canvas>
             </div>
         </div>
+        
+        <div class="row">
+            <div id="canvas-holder" style="width:100%">
+                <canvas id="fork_chart-area">1</canvas>
+            </div>
+        </div>
+
+        
+
         <div class="row">
 
-            <div id="canvas-holder" style="width:80%">
+            <div id="canvas-holder" style="width:100%">
                 <canvas id="watch_chart-area">1</canvas>
             </div>
         </div>
@@ -48,10 +52,58 @@
 
 
 
-    {# fork #}
+    
+
+
+    {# star #}
+    <script>
+        var star_config = {
+            type: 'bar',
+            data: {
+                datasets: [{
+                    data:
+                        {% if star_data %}
+                        {{ star_data }}
+                        {% endif %}
+                    ,
+        backgroundColor: [
+            window.chartColors.red,
+            window.chartColors.orange,
+            window.chartColors.yellow,
+            window.chartColors.green,
+            window.chartColors.blue,
+            window.chartColors.red,
+            window.chartColors.orange,
+            window.chartColors.yellow,
+            window.chartColors.green,
+            window.chartColors.blue,
+        ],
+            label: 'stars'
+                    }],
+        labels: {% if star_labels %} {{ star_labels }} {% endif %}
+                },
+        options: {
+            responsive: true,
+                title: {
+                display: true,
+                    text: 'Hexo Theme star Data'
+            },
+            scales: {
+                y: {
+                    beginAtZero: true
+                }
+            }
+        }
+        };
+
+
+        var colorNames = Object.keys(window.chartColors);
+    </script>
+
+{# fork #}
     <script>
         var fork_config = {
-            type: 'pie',
+            type: 'bar',
             data: {
                 datasets: [{
                     data:
@@ -85,49 +137,12 @@
         };
         var colorNames = Object.keys(window.chartColors);
     </script>
-    {# star #}
-    <script>
-        var star_config = {
-            type: 'pie',
-            data: {
-                datasets: [{
-                    data:
-                        {% if star_data %}
-                        {{ star_data }}
-                        {% endif %}
-                    ,
-        backgroundColor: [
-            window.chartColors.red,
-            window.chartColors.orange,
-            window.chartColors.yellow,
-            window.chartColors.green,
-            window.chartColors.blue,
-            window.chartColors.red,
-            window.chartColors.orange,
-            window.chartColors.yellow,
-            window.chartColors.green,
-            window.chartColors.blue,
-        ],
-            label: 'stars'
-                    }],
-        labels: {% if star_labels %} {{ star_labels }} {% endif %}
-                },
-        options: {
-            responsive: true,
-                title: {
-                display: true,
-                    text: 'Hexo Theme star Data'
-            },
-        }
-        };
 
 
-        var colorNames = Object.keys(window.chartColors);
-    </script>
     {# watch #}
     <script>
         var watch_config = {
-            type: 'pie',
+            type: 'bar',
             data: {
                 datasets: [{
                     data:
@@ -159,14 +174,20 @@
             },
         }
         };
+    
+    </script>
+    
+    
+    <script>
 
         window.onload = function () {
-            var fork_ctx = document.getElementById('fork_chart-area').getContext('2d');
-            new Chart(fork_ctx, fork_config);
+            
             var star_ctx = document.getElementById('star_chart-area').getContext('2d');
             new Chart(star_ctx, star_config);
             var watch_ctx = document.getElementById('watch_chart-area').getContext('2d');
             new Chart(watch_ctx, watch_config);
+            var fork_ctx = document.getElementById('fork_chart-area').getContext('2d');
+            new Chart(fork_ctx, fork_config);
         };
 
 

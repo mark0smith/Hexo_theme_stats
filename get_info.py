@@ -20,9 +20,9 @@ def get_theme_list():
     __themes_list = []
     for theme in themes:
         x = {}
-        x['name'] = theme.find('a', attrs={'class': 'plugin-name'}).text
-        x['link'] = theme.find('a', attrs={'class': 'plugin-name'}).get('href')
-        x['description'] = theme.find('p', attrs={'class': 'plugin-desc'}).text
+        x['name'] = theme.find('a', attrs={'class': 'plugin-name'}).text.strip()
+        x['link'] = theme.find('a', attrs={'class': 'plugin-name'}).get('href').strip()
+        x['description'] = theme.find('p', attrs={'class': 'plugin-desc'}).text.strip()
         __themes_list.append(x)
     return __themes_list
 
@@ -47,7 +47,7 @@ def get_theme_info_from_api(link):
         json_info = info.json()
         fork = json_info["forks_count"]
         star = json_info["stargazers_count"]
-        watch = json_info["watchers_count"]
+        watch = json_info["subscribers_count"]
         return {'watch':watch,'star': star, 'fork': fork}
     except Exception as e:
         logging.exception(e)
@@ -113,7 +113,7 @@ def main():
         results, key=lambda k: k['watch'], reverse=True)[:10]
 
     def write_out(theme_list, file_name):
-        with open(file_name, 'w') as f:
+        with open(file_name, 'w',encoding="utf-8") as f:
             f.write(json.dumps(theme_list, indent=4, ensure_ascii=False))
     paths = ["report/{}".format(x) for x in ['star', 'fork', 'watch','total']]
     for path in paths:

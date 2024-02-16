@@ -26,19 +26,24 @@
 
     <div class="container bg-light">
         <h1>Hexo Theme Stats Report of 2024-02-16</h1>
+        <p>Star Data</p>
         <div class="row">
-            <div id="canvas-holder" style="width:80%">
-                <canvas id="fork_chart-area">3</canvas>
-            </div>
-        </div>
-        <div class="row">
-            <div id="canvas-holder" style="width:80%">
+            <div id="canvas-holder" style="width:100%">
                 <canvas id="star_chart-area">2</canvas>
             </div>
         </div>
+        
+        <div class="row">
+            <div id="canvas-holder" style="width:100%">
+                <canvas id="fork_chart-area">1</canvas>
+            </div>
+        </div>
+
+        
+
         <div class="row">
 
-            <div id="canvas-holder" style="width:80%">
+            <div id="canvas-holder" style="width:100%">
                 <canvas id="watch_chart-area">1</canvas>
             </div>
         </div>
@@ -49,46 +54,12 @@
 
 
     
-    <script>
-        var fork_config = {
-            type: 'pie',
-            data: {
-                datasets: [{
-                    data:
-                        
-                        [1538, 1242, 1207, 1107, 746, 673, 590, 572, 553, 526]
-                        
-                    ,
-        backgroundColor: [
-            window.chartColors.red,
-            window.chartColors.orange,
-            window.chartColors.yellow,
-            window.chartColors.green,
-            window.chartColors.blue,
-            window.chartColors.red,
-            window.chartColors.orange,
-            window.chartColors.yellow,
-            window.chartColors.green,
-            window.chartColors.blue,
-        ],
-            label: 'Forks'
-                    }],
-        labels:  ['Icarus ', 'Matery ', 'Butterfly ', 'Fluid ', 'Cactus ', 'Maupassant ', 'Volantis ', 'Material ', 'indigo ', 'Apollo '] 
-                },
-        options: {
-            responsive: true,
-                title: {
-                display: true,
-                    text: 'Hexo Theme Fork Data'
-            },
-        }
-        };
-        var colorNames = Object.keys(window.chartColors);
-    </script>
+
+
     
     <script>
         var star_config = {
-            type: 'pie',
+            type: 'bar',
             data: {
                 datasets: [{
                     data:
@@ -110,7 +81,7 @@
         ],
             label: 'stars'
                     }],
-        labels:  ['Fluid ', 'Butterfly ', 'Icarus ', 'Matery ', 'Material ', 'Cactus ', 'indigo ', 'Maupassant ', 'NexT ', 'Volantis '] 
+        labels:  ['Fluid', 'Butterfly', 'Icarus', 'Matery', 'Material', 'Cactus', 'indigo', 'Maupassant', 'NexT', 'Volantis'] 
                 },
         options: {
             responsive: true,
@@ -118,21 +89,66 @@
                 display: true,
                     text: 'Hexo Theme star Data'
             },
+            scales: {
+                y: {
+                    beginAtZero: true
+                }
+            }
         }
         };
 
 
         var colorNames = Object.keys(window.chartColors);
     </script>
-    
+
+
     <script>
-        var watch_config = {
-            type: 'pie',
+        var fork_config = {
+            type: 'bar',
             data: {
                 datasets: [{
                     data:
                         
-                        [6726, 6422, 6183, 5132, 4027, 2962, 2780, 2592, 2202, 1924]
+                        [1538, 1242, 1207, 1107, 746, 673, 590, 572, 553, 526]
+                        
+                    ,
+        backgroundColor: [
+            window.chartColors.red,
+            window.chartColors.orange,
+            window.chartColors.yellow,
+            window.chartColors.green,
+            window.chartColors.blue,
+            window.chartColors.red,
+            window.chartColors.orange,
+            window.chartColors.yellow,
+            window.chartColors.green,
+            window.chartColors.blue,
+        ],
+            label: 'Forks'
+                    }],
+        labels:  ['Icarus', 'Matery', 'Butterfly', 'Fluid', 'Cactus', 'Maupassant', 'Volantis', 'Material', 'indigo', 'Apollo'] 
+                },
+        options: {
+            responsive: true,
+                title: {
+                display: true,
+                    text: 'Hexo Theme Fork Data'
+            },
+        }
+        };
+        var colorNames = Object.keys(window.chartColors);
+    </script>
+
+
+    
+    <script>
+        var watch_config = {
+            type: 'bar',
+            data: {
+                datasets: [{
+                    data:
+                        
+                        [83, 79, 70, 61, 59, 59, 54, 50, 43, 40]
                         
                     ,
         backgroundColor: [
@@ -149,7 +165,7 @@
         ],
             label: 'watchs'
                     }],
-        labels:  ['Fluid ', 'Butterfly ', 'Icarus ', 'Matery ', 'Material ', 'Cactus ', 'indigo ', 'Maupassant ', 'NexT ', 'Volantis '] 
+        labels:  ['Material', 'Icarus', 'indigo', 'Maupassant', 'Yelee', 'Matery', 'Keep', 'Jacman', 'Hueman', 'Apollo'] 
                 },
         options: {
             responsive: true,
@@ -159,14 +175,20 @@
             },
         }
         };
+    
+    </script>
+    
+    
+    <script>
 
         window.onload = function () {
-            var fork_ctx = document.getElementById('fork_chart-area').getContext('2d');
-            new Chart(fork_ctx, fork_config);
+            
             var star_ctx = document.getElementById('star_chart-area').getContext('2d');
             new Chart(star_ctx, star_config);
             var watch_ctx = document.getElementById('watch_chart-area').getContext('2d');
             new Chart(watch_ctx, watch_config);
+            var fork_ctx = document.getElementById('fork_chart-area').getContext('2d');
+            new Chart(fork_ctx, fork_config);
         };
 
 

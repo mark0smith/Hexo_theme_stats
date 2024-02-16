@@ -63,7 +63,7 @@ jobs:
       uses: github-actions-x/commit@v2.9
       with:
         # Github Token with commit access
-        github-token: ${{ secrets.TOKEN }}
+        github-token: ${{ secrets.A_GITHUB_TOKEN }}
         # Override branch to push to
         push-branch: master
         # Specify commit message

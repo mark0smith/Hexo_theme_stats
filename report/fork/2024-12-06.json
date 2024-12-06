@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Icarus",
+        "link": "https://github.com/ppoffice/hexo-theme-icarus",
+        "description": "A simple, delicate, and modern theme",
+        "watch": 74,
+        "star": 6415,
+        "fork": 1547
+    },
+    {
+        "name": "Butterfly",
+        "link": "https://github.com/jerryc127/hexo-theme-butterfly",
+        "description": "A Simple and Card UI Design theme for Hexo",
+        "watch": 32,
+        "star": 7296,
+        "fork": 1300
+    },
+    {
+        "name": "Matery",
+        "link": "https://github.com/blinkfox/hexo-theme-matery",
+        "description": "A beautiful theme with material design and responsive design",
+        "watch": 61,
+        "star": 5268,
+        "fork": 1247
+    },
+    {
+        "name": "Fluid",
+        "link": "https://github.com/fluid-dev/hexo-theme-fluid",
+        "description": "An elegant and light theme",
+        "watch": 29,
+        "star": 7413,
+        "fork": 1125
+    },
+    {
+        "name": "Cactus",
+        "link": "https://github.com/probberechts/hexo-theme-cactus",
+        "description": "A responsive, clean and simple theme for a personal webpage",
+        "watch": 35,
+        "star": 3224,
+        "fork": 788
+    },
+    {
+        "name": "Maupassant",
+        "link": "https://github.com/tufu9441/maupassant-hexo",
+        "description": "A simple theme with great performance on different devices",
+        "watch": 60,
+        "star": 2638,
+        "fork": 668
+    },
+    {
+        "name": "Volantis",
+        "link": "https://github.com/volantis-x/hexo-theme-volantis",
+        "description": "A Wonderful Theme for Hexo",
+        "watch": 30,
+        "star": 2071,
+        "fork": 600
+    },
+    {
+        "name": "Material",
+        "link": "https://github.com/iblh/hexo-theme-material",
+        "description": "An elegant & Material Design Theme",
+        "watch": 83,
+        "star": 4026,
+        "fork": 564
+    },
+    {
+        "name": "indigo",
+        "link": "https://github.com/yscoder/hexo-theme-indigo",
+        "description": "Material Design theme",
+        "watch": 70,
+        "star": 2794,
+        "fork": 540
+    },
+    {
+        "name": "Apollo",
+        "link": "https://github.com/thinkininfinity/hexo-theme-apollo",
+        "description": "A theme inspired by http://cn.vuejs.org/",
+        "watch": 38,
+        "star": 1808,
+        "fork": 521
+    }
+]

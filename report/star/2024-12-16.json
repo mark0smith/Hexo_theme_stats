@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Fluid",
+        "link": "https://github.com/fluid-dev/hexo-theme-fluid",
+        "description": "An elegant and light theme",
+        "watch": 29,
+        "star": 7435,
+        "fork": 1126
+    },
+    {
+        "name": "Butterfly",
+        "link": "https://github.com/jerryc127/hexo-theme-butterfly",
+        "description": "A Simple and Card UI Design theme for Hexo",
+        "watch": 32,
+        "star": 7328,
+        "fork": 1306
+    },
+    {
+        "name": "Icarus",
+        "link": "https://github.com/ppoffice/hexo-theme-icarus",
+        "description": "A simple, delicate, and modern theme",
+        "watch": 74,
+        "star": 6423,
+        "fork": 1548
+    },
+    {
+        "name": "Matery",
+        "link": "https://github.com/blinkfox/hexo-theme-matery",
+        "description": "A beautiful theme with material design and responsive design",
+        "watch": 62,
+        "star": 5270,
+        "fork": 1247
+    },
+    {
+        "name": "Material",
+        "link": "https://github.com/iblh/hexo-theme-material",
+        "description": "An elegant & Material Design Theme",
+        "watch": 83,
+        "star": 4026,
+        "fork": 563
+    },
+    {
+        "name": "Cactus",
+        "link": "https://github.com/probberechts/hexo-theme-cactus",
+        "description": "A responsive, clean and simple theme for a personal webpage",
+        "watch": 35,
+        "star": 3229,
+        "fork": 791
+    },
+    {
+        "name": "indigo",
+        "link": "https://github.com/yscoder/hexo-theme-indigo",
+        "description": "Material Design theme",
+        "watch": 70,
+        "star": 2793,
+        "fork": 539
+    },
+    {
+        "name": "Maupassant",
+        "link": "https://github.com/tufu9441/maupassant-hexo",
+        "description": "A simple theme with great performance on different devices",
+        "watch": 60,
+        "star": 2638,
+        "fork": 668
+    },
+    {
+        "name": "NexT",
+        "link": "https://github.com/next-theme/hexo-theme-next",
+        "description": "NexT is an elegant and powerful theme",
+        "watch": 22,
+        "star": 2494,
+        "fork": 439
+    },
+    {
+        "name": "Volantis",
+        "link": "https://github.com/volantis-x/hexo-theme-volantis",
+        "description": "A Wonderful Theme for Hexo",
+        "watch": 30,
+        "star": 2073,
+        "fork": 601
+    }
+]
